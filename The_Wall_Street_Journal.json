@@ -1,0 +1,11 @@
+[
+	{
+		"url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+		"title": "Economy & Tech",
+		"tags": ["economy", "finance", "tech", "business"],
+		"trust_score": 0.97,
+		"language": "en",
+		"enabled": true,
+		"img": "theWallStreetJournal/theWallStreetJournal.svg"
+	}
+]

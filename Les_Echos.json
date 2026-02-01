@@ -1,0 +1,25 @@
+[
+	{
+		"url": "https://services.lesechos.fr/rss/les-echos-tech-medias.xml",
+		"title": "Tech",
+		"tags": ["tech", "innovation", "business"],
+		"trust_score": 0.95,
+		"language": "fr",
+		"enabled": true,
+		"parsing_config": {
+			"item_tag": "item",
+			"custom_fields": {}
+		},
+		"img": "lesEchos/tech.svg"
+	},
+	{
+		"url": "https://services.lesechos.fr/rss/les-echos-start-up.xml",
+		"title": "Startups",
+		"tags": ["startups", "innovation", "business"],
+		"trust_score": 0.95,
+		"language": "fr",
+		"enabled": true,
+		"parsing_config": {},
+		"img": "lesEchos/startups.svg"
+	}
+]
