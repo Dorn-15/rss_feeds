@@ -1,9 +1,12 @@
-{
-	"url": "https://www.frenchweb.fr/feed",
-	"title": "Écosystème Tech",
-	"tags": ["tech", "startups", "innovation"],
-	"trust_score": 0.8,
-	"language": "fr",
-	"enabled": true,
-	"img": "frenchWeb/frenchWeb.svg"
-}
+[
+	{
+		"url": "https://www.frenchweb.fr/feed",
+		"title": "Écosystème Tech",
+		"tags": ["tech", "startups", "innovation"],
+		"trust_score": 0.8,
+		"language": "fr",
+		"enabled": true,
+		"img": "frenchWeb/frenchWeb.svg"
+	}
+
+]
