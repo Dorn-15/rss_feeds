@@ -1,0 +1,11 @@
+[
+	{
+		"url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
+		"title": "Industrie & Numérique",
+		"tags": ["tech", "industry", "innovation"],
+		"trust_score": 0.85,
+		"language": "fr",
+		"enabled": true,
+		"img": "usineDigitale/usineDigitale.svg"
+	}
+]

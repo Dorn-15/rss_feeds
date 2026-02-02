@@ -1,0 +1,11 @@
+[
+	{
+		"url": "https://www.theguardian.com/uk/technology/rss",
+		"title": "Technology",
+		"tags": ["tech", "society", "innovation"],
+		"trust_score": 0.9,
+		"language": "en",
+		"enabled": true,
+		"img": "theGuardian/theGuardian.svg"
+	}
+]
