@@ -1,318 +1,407 @@
 [
-	{
-		"url": "https://www.lemonde.fr/rss/une.xml",
-		"title": "À la une",
-		"tags": ["news", "headline", "general"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/leMonde.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/rss/en_continu.xml",
-		"title": "En continu",
-		"tags": ["news", "live", "breaking-news"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/enDirect.svg"
-
-	},
-	{
-		"url": "https://www.lemonde.fr/videos/rss_full.xml",
-		"title": "Vidéos",
-		"tags": ["video", "media"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/videos.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/photo/rss_full.xml",
-		"title": "Photo",
-		"tags": ["photo", "media", "art", "culture"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/photo.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/culture/rss_full.xml",
-		"title": "Culture",
-		"tags": ["culture", "arts", "media"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/culture.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/cinema/rss_full.xml",
-		"title": "Cinéma",
-		"tags": ["cinema", "movies", "culture", "art"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/cinema.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/musiques/rss_full.xml",
-		"title": "Musiques",
-		"tags": ["music", "culture", "arts"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/musiques.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/televisions-radio/rss_full.xml",
-		"title": "Télévision & Radio",
-		"tags": ["tv", "radio", "media"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/televisions-radio.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/livres/rss_full.xml",
-		"title": "Livres",
-		"tags": ["books", "literature", "culture"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/livres.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/economie/rss_full.xml",
-		"title": "Économie",
-		"tags": ["economy", "business", "finance"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/economie.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/entreprises/rss_full.xml",
-		"title": "Entreprises",
-		"tags": ["companies", "business", "economy"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/entreprises.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/argent/rss_full.xml",
-		"title": "Argent",
-		"tags": ["money", "finance", "economy"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/argent.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/economie-francaise/rss_full.xml",
-		"title": "Économie française",
-		"tags": ["france", "economy", "macroeconomics"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/economie-francaise.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/emploi/rss_full.xml",
-		"title": "Emploi",
-		"tags": ["jobs", "work", "economy"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/emploi.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/politique/rss_full.xml",
-		"title": "Politique",
-		"tags": ["politics", "government", "france"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/politique.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/societe/rss_full.xml",
-		"title": "Société",
-		"tags": ["society", "social", "france"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/societe.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/justice/rss_full.xml",
-		"title": "Justice",
-		"tags": ["justice", "law", "france"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/justice.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/education/rss_full.xml",
-		"title": "Éducation",
-		"tags": ["education", "school", "society"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/education.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/international/rss_full.xml",
-		"title": "International",
-		"tags": ["international", "geopolitics", "world"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/international.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/europe/rss_full.xml",
-		"title": "Europe",
-		"tags": ["europe", "politics", "international"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/europe.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/ameriques/rss_full.xml",
-		"title": "Amériques",
-		"tags": ["americas", "international", "politics"],
-		"trust_score": 0.98,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/ameriques.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/afrique/rss_full.xml",
-		"title": "Afrique",
-		"tags": ["africa", "international", "geopolitics"],
-		"trust_score": 0.98,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/afrique.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/asie-pacifique/rss_full.xml",
-		"title": "Asie-Pacifique",
-		"tags": ["asia", "pacific", "international"],
-		"trust_score": 0.98,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/asie.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/proche-orient/rss_full.xml",
-		"title": "Proche-Orient",
-		"tags": ["middle-east", "geopolitics", "international"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/orient.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/planete/rss_full.xml",
-		"title": "Planète",
-		"tags": ["environment", "ecology", "climate"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/planete.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/climat/rss_full.xml",
-		"title": "Climat",
-		"tags": ["climate", "global-warming", "environment"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/climat.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/agriculture/rss_full.xml",
-		"title": "Agriculture",
-		"tags": ["agriculture", "food", "environment"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/agriculture.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/pixels/rss_full.xml",
-		"title": "Pixels",
-		"tags": ["tech", "digital", "internet"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/pixels.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/jeux-video/rss_full.xml",
-		"title": "Jeux vidéo",
-		"tags": ["gaming", "video-games", "tech"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/jeuxVideo.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/cultures-web/rss_full.xml",
-		"title": "Cultures web",
-		"tags": ["web", "social-media", "digital-culture"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/culturesWeb.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/sciences/rss_full.xml",
-		"title": "Sciences",
-		"tags": ["science", "research", "innovation"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/sciences.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/espace/rss_full.xml",
-		"title": "Espace",
-		"tags": ["space", "astronomy", "science"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/espace.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/biologie/rss_full.xml",
-		"title": "Biologie",
-		"tags": ["biology", "life-science", "research"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/biologie.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/medecine/rss_full.xml",
-		"title": "Médecine",
-		"tags": ["medicine", "health", "science"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/medecine.svg"
-	},
-	{
-		"url": "https://www.lemonde.fr/physique/rss_full.xml",
-		"title": "Physique",
-		"tags": ["physics", "science", "research"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": true,
-		"img": "leMonde/physique.svg"
-	}
+  {
+    "url": "https://www.lemonde.fr/rss/une.xml",
+    "title": "À la une",
+    "tags": [
+      "general-news"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/leMonde.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/rss/en_continu.xml",
+    "title": "En continu",
+    "tags": [
+      "live-news"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/enDirect.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/videos/rss_full.xml",
+    "title": "Vidéos",
+    "tags": [
+      "culture",
+      "video"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/videos.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/photo/rss_full.xml",
+    "title": "Photo",
+    "tags": [
+      "culture",
+      "photo"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/photo.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/culture/rss_full.xml",
+    "title": "Culture",
+    "tags": [
+      "culture"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/culture.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/cinema/rss_full.xml",
+    "title": "Cinéma",
+    "tags": [
+      "culture",
+      "movie"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/cinema.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/musiques/rss_full.xml",
+    "title": "Musiques",
+    "tags": [
+      "culture",
+      "music"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/musiques.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/televisions-radio/rss_full.xml",
+    "title": "Télévision & Radio",
+    "tags": [
+      "culture",
+      "media"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/televisions-radio.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/livres/rss_full.xml",
+    "title": "Livres",
+    "tags": [
+      "culture",
+      "book"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/livres.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie/rss_full.xml",
+    "title": "Économie",
+    "tags": [
+      "economy"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/economie.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/entreprises/rss_full.xml",
+    "title": "Entreprises",
+    "tags": [
+      "business"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/entreprises.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/argent/rss_full.xml",
+    "title": "Argent",
+    "tags": [
+      "economy"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/argent.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/economie-francaise/rss_full.xml",
+    "title": "Économie française",
+    "tags": [
+      "economy",
+      "french-economy"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/economie-francaise.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/emploi/rss_full.xml",
+    "title": "Emploi",
+    "tags": [
+      "business",
+      "economy",
+      "employment"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/emploi.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/politique/rss_full.xml",
+    "title": "Politique",
+    "tags": [
+      "politics"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/politique.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/societe/rss_full.xml",
+    "title": "Société",
+    "tags": [
+      "society"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/societe.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/justice/rss_full.xml",
+    "title": "Justice",
+    "tags": [
+      "justice"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/justice.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/education/rss_full.xml",
+    "title": "Éducation",
+    "tags": [
+      "education"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/education.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/international/rss_full.xml",
+    "title": "International",
+    "tags": [
+      "international"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/international.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/europe/rss_full.xml",
+    "title": "Europe",
+    "tags": [
+      "europe"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/europe.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/ameriques/rss_full.xml",
+    "title": "Amériques",
+    "tags": [
+      "americas"
+    ],
+    "trust_score": 0.98,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/ameriques.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/afrique/rss_full.xml",
+    "title": "Afrique",
+    "tags": [
+      "africa"
+    ],
+    "trust_score": 0.98,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/afrique.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/asie-pacifique/rss_full.xml",
+    "title": "Asie-Pacifique",
+    "tags": [
+      "asia-pacific"
+    ],
+    "trust_score": 0.98,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/asie.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/proche-orient/rss_full.xml",
+    "title": "Proche-Orient",
+    "tags": [
+      "middle-east"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/orient.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/planete/rss_full.xml",
+    "title": "Planète",
+    "tags": [
+      "environment",
+      "climate"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/planete.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/climat/rss_full.xml",
+    "title": "Climat",
+    "tags": [
+      "environment",
+      "climate"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/climat.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/agriculture/rss_full.xml",
+    "title": "Agriculture",
+    "tags": [
+      "environment",
+      "agriculture"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/agriculture.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/pixels/rss_full.xml",
+    "title": "Pixels",
+    "tags": [
+      "tech",
+      "digital"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/pixels.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/jeux-video/rss_full.xml",
+    "title": "Jeux vidéo",
+    "tags": [
+      "culture",
+      "video-games",
+      "digital"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/jeuxVideo.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/cultures-web/rss_full.xml",
+    "title": "Cultures web",
+    "tags": [
+      "digital",
+      "web",
+      "culture"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/culturesWeb.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/sciences/rss_full.xml",
+    "title": "Sciences",
+    "tags": [
+      "science"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/sciences.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/espace/rss_full.xml",
+    "title": "Espace",
+    "tags": [
+      "science",
+      "space"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/espace.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/biologie/rss_full.xml",
+    "title": "Biologie",
+    "tags": [
+      "science",
+      "health"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/biologie.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/medecine/rss_full.xml",
+    "title": "Médecine",
+    "tags": [
+      "health"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/medecine.svg"
+  },
+  {
+    "url": "https://www.lemonde.fr/physique/rss_full.xml",
+    "title": "Physique",
+    "tags": [
+      "science",
+      "physics"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": true,
+    "img": "leMonde/physique.svg"
+  }
 ]

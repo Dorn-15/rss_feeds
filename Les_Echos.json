@@ -1,25 +1,33 @@
 [
-	{
-		"url": "https://services.lesechos.fr/rss/les-echos-tech-medias.xml",
-		"title": "Tech",
-		"tags": ["tech", "innovation", "business"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": false,
-		"parsing_config": {
-			"item_tag": "item",
-			"custom_fields": {}
-		},
-		"img": "lesEchos/tech.svg"
-	},
-	{
-		"url": "https://services.lesechos.fr/rss/les-echos-start-up.xml",
-		"title": "Startups",
-		"tags": ["startups", "innovation", "business"],
-		"trust_score": 0.95,
-		"language": "fr",
-		"enabled": false,
-		"parsing_config": {},
-		"img": "lesEchos/startups.svg"
-	}
+  {
+    "url": "https://services.lesechos.fr/rss/les-echos-tech-medias.xml",
+    "title": "Tech",
+    "tags": [
+      "tech",
+      "digital",
+      "business"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": false,
+    "parsing_config": {
+      "item_tag": "item",
+      "custom_fields": {}
+    },
+    "img": "lesEchos/tech.svg"
+  },
+  {
+    "url": "https://services.lesechos.fr/rss/les-echos-start-up.xml",
+    "title": "Startups",
+    "tags": [
+      "business",
+      "tech",
+      "startup"
+    ],
+    "trust_score": 0.95,
+    "language": "fr",
+    "enabled": false,
+    "parsing_config": {},
+    "img": "lesEchos/startups.svg"
+  }
 ]

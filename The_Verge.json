@@ -1,119 +1,160 @@
 [
-	{
-		"url": "https://www.theverge.com/rss/index.xml",
-		"title": "Main",
-		"tags": ["tech", "science", "art", "news", "culture"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/theVerge.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-		"title": "AI",
-		"tags": ["ai", "tech", "innovation", "artificial-intelligence"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/ai.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/business/index.xml",
-		"title": "Business",
-		"tags": ["business", "economy", "finance", "tech"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/business.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/cars/index.xml",
-		"title": "Cars",
-		"tags": ["cars", "automotive", "tech"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/cars.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/creators/index.xml",
-		"title": "Creators",
-		"tags": ["creators", "creativity", "art", "content-creation", "social-media"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/creators.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/cyber-security/index.xml",
-		"title": "Cybersecurity",
-		"tags": ["cybersecurity", "tech", "security"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/cybersecurity.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/energy/index.xml",
-		"title": "Energy",
-		"tags": ["energy", "renewable-energy", "climate-change"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/energy.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/entertainment/index.xml",
-		"title": "Entertainment",
-		"tags": ["entertainment", "movies", "tv", "music", "culture"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/entertainment.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/environment/index.xml",
-		"title": "Environment",
-		"tags": ["environment", "climate", "ecology"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/environment.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/exclusive/index.xml",
-		"title": "Exclusive",
-		"tags": ["exclusive", "news", "culture"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/exclusive.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/games/index.xml",
-		"title": "Games",
-		"tags": ["games", "gaming", "video-games"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/games.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/health/index.xml",
-		"title": "Health",
-		"tags": ["health", "science", "medicine"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/health.svg"
-	},
-	{
-		"url": "https://www.theverge.com/rss/space/index.xml",
-		"title": "Space",
-		"tags": ["space", "astronomy", "science"],
-		"trust_score": 0.98,
-		"language": "en",
-		"enabled": true,
-		"img": "theVerge/space.svg"
-	}
+  {
+    "url": "https://www.theverge.com/rss/index.xml",
+    "title": "Main",
+    "tags": [
+      "tech",
+      "digital",
+      "business"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/theVerge.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "title": "AI",
+    "tags": [
+      "tech",
+      "ai"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/ai.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/business/index.xml",
+    "title": "Business",
+    "tags": [
+      "business",
+      "tech"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/business.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/cars/index.xml",
+    "title": "Cars",
+    "tags": [
+      "tech",
+      "car"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/cars.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/creators/index.xml",
+    "title": "Creators",
+    "tags": [
+      "culture",
+      "social-media",
+      "web"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/creators.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/cyber-security/index.xml",
+    "title": "Cybersecurity",
+    "tags": [
+      "digital",
+      "cybersecurity"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/cybersecurity.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/energy/index.xml",
+    "title": "Energy",
+    "tags": [
+      "environment",
+      "energy"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/energy.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/entertainment/index.xml",
+    "title": "Entertainment",
+    "tags": [
+      "culture",
+      "media"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/entertainment.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/environment/index.xml",
+    "title": "Environment",
+    "tags": [
+      "environment",
+      "climate"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/environment.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/exclusive/index.xml",
+    "title": "Exclusive",
+    "tags": [
+      "general-news"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/exclusive.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/games/index.xml",
+    "title": "Games",
+    "tags": [
+      "culture",
+      "video-games",
+      "digital"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/games.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/health/index.xml",
+    "title": "Health",
+    "tags": [
+      "science",
+      "health"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/health.svg"
+  },
+  {
+    "url": "https://www.theverge.com/rss/space/index.xml",
+    "title": "Space",
+    "tags": [
+      "science",
+      "space"
+    ],
+    "trust_score": 0.98,
+    "language": "en",
+    "enabled": true,
+    "img": "theVerge/space.svg"
+  }
 ]

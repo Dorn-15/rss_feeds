@@ -1,11 +1,16 @@
 [
-	{
-		"url": "https://www.maddyness.com/feed/",
-		"title": "Startups & Innovation",
-		"tags": ["startups", "innovation", "tech", "business"],
-		"trust_score": 0.85,
-		"language": "fr",
-		"enabled": true,
-		"img": "maddyness/maddyness.svg"
-	}
+  {
+    "url": "https://www.maddyness.com/feed/",
+    "title": "Startups & Innovation",
+    "tags": [
+      "business",
+      "tech",
+      "digital",
+      "startup"
+    ],
+    "trust_score": 0.85,
+    "language": "fr",
+    "enabled": true,
+    "img": "maddyness/maddyness.svg"
+  }
 ]

@@ -1,11 +1,14 @@
 [
-	{
-		"url": "https://www.economist.com/finance-and-economics/rss.xml",
-		"title": "Economy & Tech",
-		"tags": ["economy", "finance", "tech", "business"],
-		"trust_score": 0.97,
-		"language": "en",
-		"enabled": true,
-		"img": "theEconomist/theEconomist.svg"
-	}
+  {
+    "url": "https://www.economist.com/finance-and-economics/rss.xml",
+    "title": "Economy & Tech",
+    "tags": [
+      "business",
+      "economy"
+    ],
+    "trust_score": 0.97,
+    "language": "en",
+    "enabled": true,
+    "img": "theEconomist/theEconomist.svg"
+  }
 ]

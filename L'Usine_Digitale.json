@@ -1,11 +1,15 @@
 [
-	{
-		"url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
-		"title": "Industrie & Numérique",
-		"tags": ["tech", "industry", "innovation"],
-		"trust_score": 0.85,
-		"language": "fr",
-		"enabled": true,
-		"img": "l'UsineDigitale/l'UsineDigitale.svg"
-	}
+  {
+    "url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
+    "title": "Industrie & Numérique",
+    "tags": [
+      "tech",
+      "digital",
+      "business"
+    ],
+    "trust_score": 0.85,
+    "language": "fr",
+    "enabled": true,
+    "img": "l'UsineDigitale/l'UsineDigitale.svg"
+  }
 ]
