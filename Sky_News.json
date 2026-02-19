@@ -1,0 +1,43 @@
+[
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/home.xml",
+      "title": "Home",
+      "tags": ["news"],
+      "trust_score": 0.85,
+      "language": "uk",
+      "enabled": true,
+      "img": "skyNews/skyNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "title": "UK",
+      "tags": ["news"],
+      "trust_score": 0.85,
+      "language": "uk",
+      "enabled": true,
+      "img": "skyNews/skyNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "title": "World",
+      "tags": ["news"],
+      "trust_score": 0.85,
+      "language": "uk",
+      "enabled": true,
+      "img": "skyNews/skyNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/business.xml",
+      "title": "Business",
+      "tags": ["news"],
+      "trust_score": 0.85,
+      "language": "uk",
+      "enabled": true,
+      "img": "skyNews/skyNews.svg",
+      "parsing_config": {}
+    }
+  ]
+  

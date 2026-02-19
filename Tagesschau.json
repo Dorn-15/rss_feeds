@@ -1,0 +1,15 @@
+[
+    {
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "title": "Nachrichten",
+      "tags": [
+        "news"
+      ],
+      "trust_score": 0.9,
+      "language": "de",
+      "enabled": true,
+      "img": "tagesschau/tagesschau.svg",
+      "parsing_config": {}
+    }
+  ]
+  

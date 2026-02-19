@@ -1,0 +1,39 @@
+[
+    {
+      "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+      "title": "Press releases",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "counciloftheEU/counciloftheEU.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-tte/",
+      "title": "Meetings: TTE",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "counciloftheEU/counciloftheEU.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-euco/",
+      "title": "Meetings: European Council",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "counciloftheEU/counciloftheEU.svg",
+      "parsing_config": {}
+    }
+  ]
+  

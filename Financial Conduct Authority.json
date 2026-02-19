@@ -1,0 +1,12 @@
+[
+    {
+      "url": "https://www.fca.org.uk/news/rss.xml",
+      "title": "News & warnings",
+      "tags": ["regulator"],
+      "trust_score": 0.95,
+      "language": "uk",
+      "enabled": true,
+      "img": "financialConductAuthority/financialConductAuthority.svg",
+      "parsing_config": {}
+    }
+  ]

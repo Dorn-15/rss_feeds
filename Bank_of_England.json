@@ -1,0 +1,43 @@
+[
+    {
+      "url": "https://www.bankofengland.co.uk/rss/news",
+      "title": "News",
+      "tags": ["centralbank"],
+      "trust_score": 0.95,
+      "language": "en",
+      "enabled": true,
+      "img": "bankofEngland/bankofEngland.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/publications",
+      "title": "Publications",
+      "tags": ["centralbank"],
+      "trust_score": 0.95,
+      "language": "en",
+      "enabled": true,
+      "img": "bankofEngland/bankofEngland.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/speeches",
+      "title": "Speeches",
+      "tags": ["centralbank"],
+      "trust_score": 0.95,
+      "language": "uk",
+      "enabled": true,
+      "img": "bankofEngland/bankofEngland.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/statistics",
+      "title": "Statistics",
+      "tags": ["centralbank"],
+      "trust_score": 0.95,
+      "language": "uk",
+      "enabled": true,
+      "img": "bankofEngland/bankofEngland.svg",
+      "parsing_config": {}
+    }
+  ]
+  

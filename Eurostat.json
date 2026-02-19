@@ -1,0 +1,39 @@
+[
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "News releases (Atom)",
+      "tags": [
+        "statistics"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "eurostat/eurostat.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "Eurostat news (Atom)",
+      "tags": [
+        "statistics"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "eurostat/eurostat.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=dataset&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "Datasets (Atom)",
+      "tags": [
+        "statistics"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "eurostat/eurostat.svg",
+      "parsing_config": {}
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+[
+    {
+      "url": "http://www.itv.com/news/index.rss",
+      "title": "News",
+      "tags": [
+        "news"
+      ],
+      "trust_score": 0.8,
+      "language": "uk",
+      "enabled": true,
+      "img": "iTVNews/iTVNews.svg",
+      "parsing_config": {}
+    }
+  ]
+  

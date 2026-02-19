@@ -1,0 +1,15 @@
+[
+    {
+      "url": "https://www.spiegel.de/index.rss",
+      "title": "Top Nachrichten",
+      "tags": [
+        "news"
+      ],
+      "trust_score": 0.85,
+      "language": "de",
+      "enabled": true,
+      "img": "derSpiegel/derSpiegel.svg",
+      "parsing_config": {}
+    }
+  ]
+  

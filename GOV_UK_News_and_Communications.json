@@ -1,0 +1,13 @@
+[
+    {
+      "url": "https://www.gov.uk/search/news-and-communications.atom",
+      "title": "News and communications (search feed)",
+      "tags": ["government"],
+      "trust_score": 0.95,
+      "language": "uk",
+      "enabled": true,
+      "img": "gOVUKNewsandCommunications/gOVUKNewsandCommunications.svg",
+      "parsing_config": {}
+    }
+  ]
+  

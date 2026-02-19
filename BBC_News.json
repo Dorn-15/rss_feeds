@@ -1,0 +1,103 @@
+[
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml",
+      "title": "UK Front Page (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml",
+      "title": "Business (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/rss.xml",
+      "title": "Entertainment (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/rss.xml",
+      "title": "Health (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/education/rss.xml",
+      "title": "Education (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/politics/rss.xml",
+      "title": "Politics (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/science/rss.xml",
+      "title": "Science & environment (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml",
+      "title": "Technology (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml",
+      "title": "World (legacy)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml?edition=uk",
+      "title": "UK Front Page (alt)",
+      "tags": ["news"],
+      "trust_score": 0.9,
+      "language": "uk",
+      "enabled": true,
+      "img": "bBCNews/bBCNews.svg",
+      "parsing_config": {}
+    }
+  ]
+  

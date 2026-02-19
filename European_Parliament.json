@@ -1,0 +1,75 @@
+[
+    {
+      "url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+      "title": "Top stories",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.europarl.europa.eu/rss/doc/agendas-news/en.xml",
+      "title": "Weekly agendas",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml",
+      "title": "Press releases (all)",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.europarl.europa.eu/rss/topic/901/en.xml",
+      "title": "Topic: EU and institutions",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.europarl.europa.eu/rss/topic/907/en.xml",
+      "title": "Topic: Economic & monetary affairs",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.europarl.europa.eu/rss/topic/911/en.xml",
+      "title": "Topic: Health & environment",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.97,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanParliament/europeanParliament.svg",
+      "parsing_config": {}
+    }
+  ]
+  

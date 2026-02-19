@@ -1,0 +1,63 @@
+[
+    {
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "title": "Press releases & speeches",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanCentralBank/europeanCentralBank.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.ecb.europa.eu/rss/blog.html",
+      "title": "Blog posts",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanCentralBank/europeanCentralBank.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.ecb.europa.eu/rss/statpress.html",
+      "title": "Statistical press releases",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanCentralBank/europeanCentralBank.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.ecb.europa.eu/rss/pub.html",
+      "title": "Publications",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanCentralBank/europeanCentralBank.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.ecb.europa.eu/rss/fxref-usd.html",
+      "title": "FX reference rates (USD)",
+      "tags": [
+        "institution"
+      ],
+      "trust_score": 0.98,
+      "language": "eu",
+      "enabled": true,
+      "img": "europeanCentralBank/europeanCentralBank.svg",
+      "parsing_config": {}
+    }
+  ]
+  

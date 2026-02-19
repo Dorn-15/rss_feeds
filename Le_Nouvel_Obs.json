@@ -1,0 +1,83 @@
+[
+    {
+      "url": "https://www.nouvelobs.com/a-la-une/rss.xml",
+      "title": "À la une",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/depeche/rss.xml",
+      "title": "Actualités en continu",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/politique/rss.xml",
+      "title": "Politique",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/societe/rss.xml",
+      "title": "Société",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/monde/rss.xml",
+      "title": "Monde",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/economie/rss.xml",
+      "title": "Économie",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/culture/rss.xml",
+      "title": "Culture",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    },
+    {
+      "url": "https://www.nouvelobs.com/idees/rss.xml",
+      "title": "Idées",
+      "tags": ["news"],
+      "trust_score": 0.88,
+      "language": "fr",
+      "enabled": true,
+      "img": "leNouvelObs/leNouvelObs.svg",
+      "parsing_config": {}
+    }
+  ]
+  

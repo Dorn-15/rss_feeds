@@ -9,11 +9,8 @@
     ],
     "trust_score": 0.95,
     "language": "fr",
-    "enabled": false,
-    "parsing_config": {
-      "item_tag": "item",
-      "custom_fields": {}
-    },
+    "enabled": true,
+    "parsing_config": {},
     "img": "lesEchos/tech.svg"
   },
   {
@@ -26,7 +23,7 @@
     ],
     "trust_score": 0.95,
     "language": "fr",
-    "enabled": false,
+    "enabled": true,
     "parsing_config": {},
     "img": "lesEchos/startups.svg"
   }

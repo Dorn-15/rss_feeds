@@ -1,0 +1,15 @@
+[
+    {
+      "url": "http://www.manchestereveningnews.co.uk/rss.xml",
+      "title": "News",
+      "tags": [
+        "news"
+      ],
+      "trust_score": 0.75,
+      "language": "uk",
+      "enabled": true,
+      "img": "manchesterEveningNews/manchesterEveningNews.svg",
+      "parsing_config": {}
+    }
+  ]
+  
