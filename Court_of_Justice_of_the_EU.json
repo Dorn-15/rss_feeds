@@ -6,7 +6,7 @@
         "institution"
       ],
       "trust_score": 0.98,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "courtofJusticeoftheEU/courtofJusticeoftheEU.svg",
       "parsing_config": {}

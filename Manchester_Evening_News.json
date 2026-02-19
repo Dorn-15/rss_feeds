@@ -6,7 +6,7 @@
         "news"
       ],
       "trust_score": 0.75,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "manchesterEveningNews/manchesterEveningNews.svg",
       "parsing_config": {}

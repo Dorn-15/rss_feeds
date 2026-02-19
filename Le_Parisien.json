@@ -4,7 +4,7 @@
       "title": "À la une",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "Faits divers",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "Politique",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Économie",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -44,7 +44,7 @@
       "title": "International",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -54,7 +54,7 @@
       "title": "Sports",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -64,7 +64,7 @@
       "title": "Culture / Loisirs",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -74,7 +74,7 @@
       "title": "Immobilier",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -84,7 +84,7 @@
       "title": "Environnement",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -94,7 +94,7 @@
       "title": "Société",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -104,7 +104,7 @@
       "title": "Podcasts",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -114,7 +114,7 @@
       "title": "JO Paris 2024",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -124,7 +124,7 @@
       "title": "Futurs",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -134,7 +134,7 @@
       "title": "Le Parisien Étudiant",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -144,7 +144,7 @@
       "title": "Étudiant - Vie étudiante",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -154,7 +154,7 @@
       "title": "Étudiant - Examens",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -164,7 +164,7 @@
       "title": "Étudiant - Orientation",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -174,7 +174,7 @@
       "title": "Étudiant - Jobs / Stages",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -184,7 +184,7 @@
       "title": "Guide d'achat",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}
@@ -194,7 +194,7 @@
       "title": "Jardin",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leParisien/leParisien.svg",
       "parsing_config": {}

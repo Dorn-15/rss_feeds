@@ -4,7 +4,7 @@
       "title": "À la une",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "Actualités en continu",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "Politique",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Société",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -44,7 +44,7 @@
       "title": "Monde",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -54,7 +54,7 @@
       "title": "Économie",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -64,7 +64,7 @@
       "title": "Culture",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}
@@ -74,7 +74,7 @@
       "title": "Idées",
       "tags": ["news"],
       "trust_score": 0.88,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "leNouvelObs/leNouvelObs.svg",
       "parsing_config": {}

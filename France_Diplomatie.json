@@ -4,7 +4,7 @@
       "title": "Actualités (headlines)",
       "tags": ["government"],
       "trust_score": 0.95,
-      "language": "fr",
+      "country": "fr",
       "enabled": true,
       "img": "franceDiplomatie/franceDiplomatie.svg",
       "parsing_config": {}

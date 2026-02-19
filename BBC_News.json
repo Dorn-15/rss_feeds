@@ -4,7 +4,7 @@
       "title": "UK Front Page (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "Business (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "Entertainment (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Health (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -44,7 +44,7 @@
       "title": "Education (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -54,7 +54,7 @@
       "title": "Politics (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -64,7 +64,7 @@
       "title": "Science & environment (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -74,7 +74,7 @@
       "title": "Technology (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -84,7 +84,7 @@
       "title": "World (legacy)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}
@@ -94,7 +94,7 @@
       "title": "UK Front Page (alt)",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bBCNews/bBCNews.svg",
       "parsing_config": {}

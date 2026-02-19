@@ -6,7 +6,7 @@
       "general-news"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/leMonde.svg"
   },
@@ -17,7 +17,7 @@
       "live-news"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/enDirect.svg"
   },
@@ -29,7 +29,7 @@
       "video"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/videos.svg"
   },
@@ -41,7 +41,7 @@
       "photo"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/photo.svg"
   },
@@ -52,7 +52,7 @@
       "culture"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/culture.svg"
   },
@@ -64,7 +64,7 @@
       "movie"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/cinema.svg"
   },
@@ -76,7 +76,7 @@
       "music"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/musiques.svg"
   },
@@ -88,7 +88,7 @@
       "media"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/televisions-radio.svg"
   },
@@ -100,7 +100,7 @@
       "book"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/livres.svg"
   },
@@ -111,7 +111,7 @@
       "economy"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/economie.svg"
   },
@@ -122,7 +122,7 @@
       "business"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/entreprises.svg"
   },
@@ -133,7 +133,7 @@
       "economy"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/argent.svg"
   },
@@ -145,7 +145,7 @@
       "french-economy"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/economie-francaise.svg"
   },
@@ -158,7 +158,7 @@
       "employment"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/emploi.svg"
   },
@@ -169,7 +169,7 @@
       "politics"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/politique.svg"
   },
@@ -180,7 +180,7 @@
       "society"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/societe.svg"
   },
@@ -191,7 +191,7 @@
       "justice"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/justice.svg"
   },
@@ -202,7 +202,7 @@
       "education"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/education.svg"
   },
@@ -213,7 +213,7 @@
       "international"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/international.svg"
   },
@@ -224,7 +224,7 @@
       "europe"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/europe.svg"
   },
@@ -235,7 +235,7 @@
       "americas"
     ],
     "trust_score": 0.98,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/ameriques.svg"
   },
@@ -246,7 +246,7 @@
       "africa"
     ],
     "trust_score": 0.98,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/afrique.svg"
   },
@@ -257,7 +257,7 @@
       "asia-pacific"
     ],
     "trust_score": 0.98,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/asie.svg"
   },
@@ -268,7 +268,7 @@
       "middle-east"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/orient.svg"
   },
@@ -280,7 +280,7 @@
       "climate"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/planete.svg"
   },
@@ -292,7 +292,7 @@
       "climate"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/climat.svg"
   },
@@ -304,7 +304,7 @@
       "agriculture"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/agriculture.svg"
   },
@@ -316,7 +316,7 @@
       "digital"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/pixels.svg"
   },
@@ -329,7 +329,7 @@
       "digital"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/jeuxVideo.svg"
   },
@@ -342,7 +342,7 @@
       "culture"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/culturesWeb.svg"
   },
@@ -353,7 +353,7 @@
       "science"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/sciences.svg"
   },
@@ -365,7 +365,7 @@
       "space"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/espace.svg"
   },
@@ -377,7 +377,7 @@
       "health"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/biologie.svg"
   },
@@ -388,7 +388,7 @@
       "health"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/medecine.svg"
   },
@@ -400,7 +400,7 @@
       "physics"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "img": "leMonde/physique.svg"
   }

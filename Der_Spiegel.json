@@ -6,7 +6,7 @@
         "news"
       ],
       "trust_score": 0.85,
-      "language": "de",
+      "country": "de",
       "enabled": true,
       "img": "derSpiegel/derSpiegel.svg",
       "parsing_config": {}

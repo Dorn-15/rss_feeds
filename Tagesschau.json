@@ -6,7 +6,7 @@
         "news"
       ],
       "trust_score": 0.9,
-      "language": "de",
+      "country": "de",
       "enabled": true,
       "img": "tagesschau/tagesschau.svg",
       "parsing_config": {}

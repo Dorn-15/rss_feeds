@@ -4,7 +4,7 @@
       "title": "Noticias",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "Deportes",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "Ciencia y tecnología",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Cultura",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -44,7 +44,7 @@
       "title": "Economía",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -54,7 +54,7 @@
       "title": "El Tiempo",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}
@@ -64,7 +64,7 @@
       "title": "España",
       "tags": ["news"],
       "trust_score": 0.9,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "rTVE/rTVE.svg",
       "parsing_config": {}

@@ -4,7 +4,7 @@
       "title": "News & warnings",
       "tags": ["regulator"],
       "trust_score": 0.95,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "financialConductAuthority/financialConductAuthority.svg",
       "parsing_config": {}

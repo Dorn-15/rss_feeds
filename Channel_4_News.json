@@ -6,7 +6,7 @@
         "news"
       ],
       "trust_score": 0.8,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "channel4News/channel4News.svg",
       "parsing_config": {}

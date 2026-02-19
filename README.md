@@ -1,6 +1,6 @@
 # rss_feeds
 
-A curated catalog of RSS feeds with structured metadata (tags, language, trust score, enablement) and associated icons. Designed to power aggregation engines, dashboards, or news‑monitoring pipelines.
+A curated catalog of RSS feeds with structured metadata (tags, country, trust score, enablement) and associated icons. Designed to power aggregation engines, dashboards, or news‑monitoring pipelines.
 
 ## Contents
 - French and international sources.
@@ -26,7 +26,7 @@ Each JSON file contains an array of objects with the following fields:
 - `title` : feed label
 - `tags` : list of tags (classification)
 - `trust_score` : confidence score between 0 and 1
-- `language` : language code (`fr`, `en`, ...)
+- `country` : country code (`fr`, `en`, ...)
 - `enabled` : feed activation flag (set to true when the XML URL is reachable with a simple httpx request in Python)
 - `img` : relative path to the icon (inside `img/`)
 - `parsing_config` (optional) : specific parsing config
@@ -40,7 +40,7 @@ Example:
   "title": "Tech",
   "tags": ["tech", "innovation"],
   "trust_score": 0.95,
-  "language": "fr",
+  "country": "fr",
   "enabled": true,
   "img": "source/source.svg",
   "parsing_config": {
@@ -53,7 +53,7 @@ Example:
 ## Quick usage
 Load a JSON file and filter feeds:
 - Filter by `enabled: true`
-- Filter by `language`
+- Filter by `country`
 - Filter by `tags` based on your use case
 
 ## Add a feed

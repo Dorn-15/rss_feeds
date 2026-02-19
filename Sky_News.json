@@ -4,7 +4,7 @@
       "title": "Home",
       "tags": ["news"],
       "trust_score": 0.85,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "skyNews/skyNews.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "UK",
       "tags": ["news"],
       "trust_score": 0.85,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "skyNews/skyNews.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "World",
       "tags": ["news"],
       "trust_score": 0.85,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "skyNews/skyNews.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Business",
       "tags": ["news"],
       "trust_score": 0.85,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "skyNews/skyNews.svg",
       "parsing_config": {}

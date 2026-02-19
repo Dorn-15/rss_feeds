@@ -6,7 +6,7 @@
         "statistics"
       ],
       "trust_score": 0.98,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "eurostat/eurostat.svg",
       "parsing_config": {}
@@ -18,7 +18,7 @@
         "statistics"
       ],
       "trust_score": 0.98,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "eurostat/eurostat.svg",
       "parsing_config": {}
@@ -30,7 +30,7 @@
         "statistics"
       ],
       "trust_score": 0.98,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "eurostat/eurostat.svg",
       "parsing_config": {}

@@ -4,7 +4,7 @@
       "title": "News",
       "tags": ["centralbank"],
       "trust_score": 0.95,
-      "language": "en",
+      "country": "en",
       "enabled": true,
       "img": "bankofEngland/bankofEngland.svg",
       "parsing_config": {}
@@ -14,7 +14,7 @@
       "title": "Publications",
       "tags": ["centralbank"],
       "trust_score": 0.95,
-      "language": "en",
+      "country": "en",
       "enabled": true,
       "img": "bankofEngland/bankofEngland.svg",
       "parsing_config": {}
@@ -24,7 +24,7 @@
       "title": "Speeches",
       "tags": ["centralbank"],
       "trust_score": 0.95,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bankofEngland/bankofEngland.svg",
       "parsing_config": {}
@@ -34,7 +34,7 @@
       "title": "Statistics",
       "tags": ["centralbank"],
       "trust_score": 0.95,
-      "language": "uk",
+      "country": "uk",
       "enabled": true,
       "img": "bankofEngland/bankofEngland.svg",
       "parsing_config": {}

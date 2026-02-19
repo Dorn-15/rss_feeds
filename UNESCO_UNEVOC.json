@@ -6,7 +6,7 @@
         "institution"
       ],
       "trust_score": 0.95,
-      "language": "wo",
+      "country": "wo",
       "enabled": true,
       "img": "uNESCOUNEVOC/uNESCOUNEVOC.svg",
       "parsing_config": {}
@@ -18,7 +18,7 @@
         "institution"
       ],
       "trust_score": 0.95,
-      "language": "wo",
+      "country": "wo",
       "enabled": true,
       "img": "uNESCOUNEVOC/uNESCOUNEVOC.svg",
       "parsing_config": {}

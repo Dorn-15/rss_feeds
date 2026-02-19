@@ -8,7 +8,7 @@
       "business"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "parsing_config": {},
     "img": "lesEchos/tech.svg"
@@ -22,7 +22,7 @@
       "startup"
     ],
     "trust_score": 0.95,
-    "language": "fr",
+    "country": "fr",
     "enabled": true,
     "parsing_config": {},
     "img": "lesEchos/startups.svg"

@@ -6,7 +6,7 @@
         "centralbank"
       ],
       "trust_score": 0.95,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "bancodeEspaña/bancodeEspaña.svg",
       "parsing_config": {}
@@ -18,7 +18,7 @@
         "centralbank"
       ],
       "trust_score": 0.95,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "bancodeEspaña/bancodeEspaña.svg",
       "parsing_config": {}
@@ -30,7 +30,7 @@
         "centralbank"
       ],
       "trust_score": 0.95,
-      "language": "es",
+      "country": "es",
       "enabled": true,
       "img": "bancodeEspaña/bancodeEspaña.svg",
       "parsing_config": {}

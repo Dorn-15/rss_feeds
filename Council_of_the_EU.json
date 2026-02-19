@@ -6,7 +6,7 @@
         "institution"
       ],
       "trust_score": 0.97,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "counciloftheEU/counciloftheEU.svg",
       "parsing_config": {}
@@ -18,7 +18,7 @@
         "institution"
       ],
       "trust_score": 0.97,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "counciloftheEU/counciloftheEU.svg",
       "parsing_config": {}
@@ -30,7 +30,7 @@
         "institution"
       ],
       "trust_score": 0.97,
-      "language": "eu",
+      "country": "eu",
       "enabled": true,
       "img": "counciloftheEU/counciloftheEU.svg",
       "parsing_config": {}
