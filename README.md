@@ -1,71 +1,112 @@
 # rss_feeds
 
-A curated catalog of RSS feeds with structured metadata (tags, country, trust score, enablement) and associated icons. Designed to power aggregation engines, dashboards, or news‑monitoring pipelines.
-
-## Contents
-- French and international sources.
-- One JSON file per source.
-- Each feed entry is enriched with actionable metadata.
-
-Available sources (JSON files):
-- `FrenchWeb.json`
-- `Le_Monde.json`
-- `Les_Echos.json`
-- `The_Verge.json`
-- `The_Wall_Street_Journal.json`
-- `Wired.json`
+Curated RSS feed catalog with one JSON file per source, plus helper scripts to normalize files and detect fetch accessibility.
 
 ## Repository structure
-- `*.json` : feed catalogs by source
-- `img/` : SVG icons organized by source
-- `README.md`
+- `json/`: source files (`<Source>.json`)
+- `img/`: SVG logos referenced by `img`
+- `scripts/detect_fetchprotection.py`: compute and write `fetchprotection`
+- `scripts/reorder_company_and_feeds.py`: reorder root keys (`company` first, `feeds` last)
+- `fetchprotection_report.json`: optional generated report
+- `README.md`, `LICENSE`
 
-## Entry schema
-Each JSON file contains an array of objects with the following fields:
-- `url` : RSS feed URL
-- `title` : feed label
-- `tags` : list of tags (classification)
-- `trust_score` : confidence score between 0 and 1
-- `country` : country code (`fr`, `en`, ...)
-- `enabled` : feed activation flag (set to true when the XML URL is reachable with a simple httpx request in Python)
-- `img` : relative path to the icon (inside `img/`)
-- `parsing_config` (optional) : specific parsing config
-  - `item_tag` (optional)
-  - `custom_fields` (optional)
+## JSON schema (current)
+Each file is a root object:
+- `company`: source display name
+- `img`: logo filename (stored in `img/`)
+- `country`: country code (`fr`, `uk`, `eu`, ...)
+- `language`: language code (`fr`, `en`, ...)
+- `fetchprotection`: global accessibility level for that file
+- `feeds`: list of feed entries
+
+Each entry in `feeds` contains:
+- `url`: feed URL
+- `title`: feed title
+- `tags`: list of tags
 
 Example:
 ```json
 {
-  "url": "https://example.com/rss",
-  "title": "Tech",
-  "tags": ["tech", "innovation"],
-  "trust_score": 0.95,
+  "company": "Example Source",
+  "img": "Example_Source.svg",
   "country": "fr",
-  "enabled": true,
-  "img": "source/source.svg",
-  "parsing_config": {
-    "item_tag": "item",
-    "custom_fields": {}
-  }
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://example.com/rss.xml",
+      "title": "Top stories",
+      "tags": ["news"]
+    }
+  ]
 }
 ```
 
-## Quick usage
-Load a JSON file and filter feeds:
-- Filter by `enabled: true`
-- Filter by `country`
-- Filter by `tags` based on your use case
+## fetchprotection levels
+- `0`: blocked (no method returned valid XML)
+- `1`: `httpx_basic`
+- `2`: `httpx_rss_headers`
+- `3`: `httpx_browser_referer`
 
-## Add a feed
-1. Open the JSON file for the target source.
-2. Add a new entry following the schema.
-3. Add an SVG icon in `img/<source>/` and set `img`.
-4. Validate JSON formatting.
+`fetchprotection` is computed per file as the maximum successful level among all URLs in `feeds`.
 
-## Best practices
-- Keep tags short and consistent.
-- Align file names and icon paths.
-- Set `trust_score` conservatively.
+## Scripts
+
+### `detect_fetchprotection.py`
+Checks feed URLs and updates `fetchprotection` in each JSON file.
+
+Behavior:
+- Tests methods progressively from level `1` to `3`
+- Tries URL candidates for known edge cases (BBC legacy feeds, RTVE variants)
+- If an HTTPS attempt fails with a certificate-related error, retries HTTP at the same level
+- Can emit a detailed JSON report with all attempts
+
+Main options:
+- `--input-dir`
+- `--pattern`
+- `--include-test-files`
+- `--timeout`
+- `--concurrency`
+- `--max-urls-per-file`
+- `--dry-run`
+- `--report-file`
+
+Example:
+```bash
+python3 scripts/detect_fetchprotection.py --input-dir json --report-file fetchprotection_report.json
+```
+
+### `reorder_company_and_feeds.py`
+Reorders root keys for consistency:
+- `company` first (if present)
+- `feeds` last (if present)
+- keeps all other keys in their existing relative order
+
+Main options:
+- `--input-dir`
+- `--pattern`
+- `--include-test-files`
+- `--dry-run`
+
+Example:
+```bash
+python3 scripts/reorder_company_and_feeds.py --input-dir json
+```
+
+## Typical maintenance flow
+1. Update or add feeds in `json/<Source>.json`
+2. Run fetch detection:
+```bash
+python3 scripts/detect_fetchprotection.py --input-dir json --report-file fetchprotection_report.json
+```
+3. Normalize key order:
+```bash
+python3 scripts/reorder_company_and_feeds.py --input-dir json
+```
+
+## Notes
+- Scripts default to the repository root as `--input-dir`; for source files, use `--input-dir json`.
+- `detect_fetchprotection.py` supports legacy list-based JSON and rewrites it into the current object structure.
 
 ## License
-MIT License. See `LICENSE`.
+MIT. See `LICENSE`.
