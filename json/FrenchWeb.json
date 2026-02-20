@@ -1,0 +1,18 @@
+{
+  "company": "FrenchWeb",
+  "img": "FrenchWeb.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.frenchweb.fr/feed",
+      "title": "Écosystème Tech",
+      "tags": [
+        "tech",
+        "digital",
+        "business"
+      ]
+    }
+  ]
+}

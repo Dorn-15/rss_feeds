@@ -1,0 +1,30 @@
+{
+  "company": "European Council",
+  "img": "European_Council.svg",
+  "country": "eu",
+  "language": "en",
+  "fetchprotection": 2,
+  "feeds": [
+    {
+      "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+      "title": "Press releases",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-tte/",
+      "title": "Meetings: TTE",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-euco/",
+      "title": "Meetings: European Council",
+      "tags": [
+        "institution"
+      ]
+    }
+  ]
+}

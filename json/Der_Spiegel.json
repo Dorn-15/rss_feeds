@@ -1,0 +1,16 @@
+{
+  "company": "Der Spiegel",
+  "img": "Der_Spiegel.svg",
+  "country": "de",
+  "language": "de",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.spiegel.de/index.rss",
+      "title": "Top Nachrichten",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

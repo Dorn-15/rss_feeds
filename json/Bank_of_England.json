@@ -1,0 +1,37 @@
+{
+  "company": "Bank of England",
+  "img": "Bank_of_England.svg",
+  "country": "en",
+  "language": "en",
+  "fetchprotection": 2,
+  "feeds": [
+    {
+      "url": "https://www.bankofengland.co.uk/rss/news",
+      "title": "News",
+      "tags": [
+        "centralbank"
+      ]
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/publications",
+      "title": "Publications",
+      "tags": [
+        "centralbank"
+      ]
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/speeches",
+      "title": "Speeches",
+      "tags": [
+        "centralbank"
+      ]
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/rss/statistics",
+      "title": "Statistics",
+      "tags": [
+        "centralbank"
+      ]
+    }
+  ]
+}

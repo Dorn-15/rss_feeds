@@ -1,0 +1,16 @@
+{
+  "company": "Evening Standard",
+  "img": "Evening_Standard.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "http://www.standard.co.uk/news/rss",
+      "title": "News",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

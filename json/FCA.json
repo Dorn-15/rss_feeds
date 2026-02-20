@@ -1,0 +1,16 @@
+{
+  "company": "FCA",
+  "img": "FCA.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.fca.org.uk/news/rss.xml",
+      "title": "News & warnings",
+      "tags": [
+        "regulator"
+      ]
+    }
+  ]
+}

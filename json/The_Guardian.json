@@ -1,0 +1,18 @@
+{
+  "company": "The Guardian",
+  "img": "The_Guardian.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.theguardian.com/uk/technology/rss",
+      "title": "Technology",
+      "tags": [
+        "tech",
+        "digital",
+        "business"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "company": "Le Nouvel Obs",
+  "img": "Le_Nouvel_Obs.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.nouvelobs.com/a-la-une/rss.xml",
+      "title": "À la une",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/depeche/rss.xml",
+      "title": "Actualités en continu",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/politique/rss.xml",
+      "title": "Politique",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/societe/rss.xml",
+      "title": "Société",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/monde/rss.xml",
+      "title": "Monde",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/economie/rss.xml",
+      "title": "Économie",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/culture/rss.xml",
+      "title": "Culture",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/idees/rss.xml",
+      "title": "Idées",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

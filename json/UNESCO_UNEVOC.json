@@ -1,0 +1,23 @@
+{
+  "company": "UNESCO UNEVOC",
+  "img": "UNESCO_UNEVOC.svg",
+  "country": "wo",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "http://www.unevoc.unesco.org/unevoc_rss.xml",
+      "title": "UNEVOC News & events",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "url": "http://www.unevoc.unesco.org/unevoc_news.xml",
+      "title": "UNEVOC News only",
+      "tags": [
+        "institution"
+      ]
+    }
+  ]
+}

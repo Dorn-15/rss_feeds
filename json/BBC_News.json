@@ -1,0 +1,65 @@
+{
+  "company": "BBC News",
+  "img": "BBCNews.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml",
+      "title": "UK Front Page (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml",
+      "title": "Business (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/rss.xml",
+      "title": "Entertainment (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/rss.xml",
+      "title": "Health (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/education/rss.xml",
+      "title": "Education (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml",
+      "title": "Technology (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml",
+      "title": "World (legacy)",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml?edition=uk",
+      "title": "UK Front Page (alt)",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

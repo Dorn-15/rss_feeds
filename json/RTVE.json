@@ -1,0 +1,58 @@
+{
+  "company": "RTVE",
+  "img": "RTVE.svg",
+  "country": "es",
+  "language": "es",
+  "fetchprotection": 2,
+  "feeds": [
+    {
+      "url": "https://www.rtve.es/rss/temas_noticias.xml",
+      "title": "Noticias",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_deportes.xml",
+      "title": "Deportes",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_ciencia-tecnologia.xml",
+      "title": "Ciencia y tecnología",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_cultura.xml",
+      "title": "Cultura",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_economia.xml",
+      "title": "Economía",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_tiempo.xml",
+      "title": "El Tiempo",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "url": "https://www.rtve.es/rss/temas_espana.xml",
+      "title": "España",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

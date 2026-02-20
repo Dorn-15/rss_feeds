@@ -1,0 +1,17 @@
+{
+  "company": "Wired",
+  "img": "Wired.svg",
+  "country": "us",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "title": "AI",
+      "tags": [
+        "tech",
+        "ai"
+      ]
+    }
+  ]
+}

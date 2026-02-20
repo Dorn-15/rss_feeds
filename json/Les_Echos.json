@@ -1,0 +1,27 @@
+{
+  "company": "Les Echos",
+  "img": "Les_Echos.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 2,
+  "feeds": [
+    {
+      "url": "https://services.lesechos.fr/rss/les-echos-tech-medias.xml",
+      "title": "Tech",
+      "tags": [
+        "tech",
+        "digital",
+        "business"
+      ]
+    },
+    {
+      "url": "https://services.lesechos.fr/rss/les-echos-start-up.xml",
+      "title": "Startups",
+      "tags": [
+        "business",
+        "tech",
+        "startup"
+      ]
+    }
+  ]
+}

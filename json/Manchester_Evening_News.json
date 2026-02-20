@@ -1,0 +1,16 @@
+{
+  "company": "Manchester Evening News",
+  "img": "Manchester_Evening_News.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "http://www.manchestereveningnews.co.uk/rss.xml",
+      "title": "News",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

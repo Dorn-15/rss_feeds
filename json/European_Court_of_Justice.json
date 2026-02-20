@@ -1,0 +1,16 @@
+{
+  "company": "European Court of Justice",
+  "img": "European_Court_of_Justice.svg",
+  "country": "eu",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "http://curia.europa.eu/site/rss.jsp?lang=en&secondLang=fr",
+      "title": "Press releases (EN+FR)",
+      "tags": [
+        "institution"
+      ]
+    }
+  ]
+}

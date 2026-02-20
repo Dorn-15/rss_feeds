@@ -1,0 +1,17 @@
+{
+  "company": "The Wall Street Journal",
+  "img": "The_Wall_Street_Journal.svg",
+  "country": "us",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "title": "Economy & Tech",
+      "tags": [
+        "business",
+        "economy"
+      ]
+    }
+  ]
+}

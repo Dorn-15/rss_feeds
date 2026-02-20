@@ -1,0 +1,30 @@
+{
+  "company": "Eurostat",
+  "img": "Eurostat.svg",
+  "country": "eu",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "News releases (Atom)",
+      "tags": [
+        "statistics"
+      ]
+    },
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "Eurostat news (Atom)",
+      "tags": [
+        "statistics"
+      ]
+    },
+    {
+      "url": "https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=dataset&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized",
+      "title": "Datasets (Atom)",
+      "tags": [
+        "statistics"
+      ]
+    }
+  ]
+}

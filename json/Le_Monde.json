@@ -1,0 +1,274 @@
+{
+  "company": "Le Monde",
+  "img": "Le_Monde.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 2,
+  "feeds": [
+    {
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "title": "À la une",
+      "tags": [
+        "general-news"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/rss/en_continu.xml",
+      "title": "En continu",
+      "tags": [
+        "live-news"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/videos/rss_full.xml",
+      "title": "Vidéos",
+      "tags": [
+        "culture",
+        "video"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/photo/rss_full.xml",
+      "title": "Photo",
+      "tags": [
+        "culture",
+        "photo"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/culture/rss_full.xml",
+      "title": "Culture",
+      "tags": [
+        "culture"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/cinema/rss_full.xml",
+      "title": "Cinéma",
+      "tags": [
+        "culture",
+        "movie"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/musiques/rss_full.xml",
+      "title": "Musiques",
+      "tags": [
+        "culture",
+        "music"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/televisions-radio/rss_full.xml",
+      "title": "Télévision & Radio",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/livres/rss_full.xml",
+      "title": "Livres",
+      "tags": [
+        "culture",
+        "book"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/economie/rss_full.xml",
+      "title": "Économie",
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/entreprises/rss_full.xml",
+      "title": "Entreprises",
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/argent/rss_full.xml",
+      "title": "Argent",
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/economie-francaise/rss_full.xml",
+      "title": "Économie française",
+      "tags": [
+        "economy",
+        "french-economy"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/emploi/rss_full.xml",
+      "title": "Emploi",
+      "tags": [
+        "business",
+        "economy",
+        "employment"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/politique/rss_full.xml",
+      "title": "Politique",
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/societe/rss_full.xml",
+      "title": "Société",
+      "tags": [
+        "society"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/justice/rss_full.xml",
+      "title": "Justice",
+      "tags": [
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/education/rss_full.xml",
+      "title": "Éducation",
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "title": "International",
+      "tags": [
+        "international"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/europe/rss_full.xml",
+      "title": "Europe",
+      "tags": [
+        "europe"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/ameriques/rss_full.xml",
+      "title": "Amériques",
+      "tags": [
+        "americas"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/afrique/rss_full.xml",
+      "title": "Afrique",
+      "tags": [
+        "africa"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/asie-pacifique/rss_full.xml",
+      "title": "Asie-Pacifique",
+      "tags": [
+        "asia-pacific"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/proche-orient/rss_full.xml",
+      "title": "Proche-Orient",
+      "tags": [
+        "middle-east"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/planete/rss_full.xml",
+      "title": "Planète",
+      "tags": [
+        "environment",
+        "climate"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/climat/rss_full.xml",
+      "title": "Climat",
+      "tags": [
+        "environment",
+        "climate"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/agriculture/rss_full.xml",
+      "title": "Agriculture",
+      "tags": [
+        "environment",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/pixels/rss_full.xml",
+      "title": "Pixels",
+      "tags": [
+        "tech",
+        "digital"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/jeux-video/rss_full.xml",
+      "title": "Jeux vidéo",
+      "tags": [
+        "culture",
+        "video-games",
+        "digital"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/cultures-web/rss_full.xml",
+      "title": "Cultures web",
+      "tags": [
+        "digital",
+        "web",
+        "culture"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/sciences/rss_full.xml",
+      "title": "Sciences",
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/espace/rss_full.xml",
+      "title": "Espace",
+      "tags": [
+        "science",
+        "space"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/biologie/rss_full.xml",
+      "title": "Biologie",
+      "tags": [
+        "science",
+        "health"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/medecine/rss_full.xml",
+      "title": "Médecine",
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "url": "https://www.lemonde.fr/physique/rss_full.xml",
+      "title": "Physique",
+      "tags": [
+        "science",
+        "physics"
+      ]
+    }
+  ]
+}

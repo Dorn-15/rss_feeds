@@ -1,0 +1,17 @@
+{
+  "company": "The Economist",
+  "img": "The_Economist.svg",
+  "country": "uk",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.economist.com/finance-and-economics/rss.xml",
+      "title": "Economy & Tech",
+      "tags": [
+        "business",
+        "economy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "company": "Tagesschau",
+  "img": "Tagesschau.svg",
+  "country": "de",
+  "language": "de",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "title": "Nachrichten",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "company": "France Diplomatie",
+  "img": "France_Diplomatie.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.diplomatie.gouv.fr/en/backend-fd.php3",
+      "title": "Actualités (headlines)",
+      "tags": [
+        "government"
+      ]
+    }
+  ]
+}

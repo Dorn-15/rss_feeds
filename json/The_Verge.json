@@ -1,0 +1,115 @@
+{
+  "company": "The Verge",
+  "img": "The_Verge.svg",
+  "country": "us",
+  "language": "en",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.theverge.com/rss/index.xml",
+      "title": "Main",
+      "tags": [
+        "tech",
+        "digital",
+        "business"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "title": "AI",
+      "tags": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/business/index.xml",
+      "title": "Business",
+      "tags": [
+        "business",
+        "tech"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/cars/index.xml",
+      "title": "Cars",
+      "tags": [
+        "tech",
+        "car"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/creators/index.xml",
+      "title": "Creators",
+      "tags": [
+        "culture",
+        "social-media",
+        "web"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/cyber-security/index.xml",
+      "title": "Cybersecurity",
+      "tags": [
+        "digital",
+        "cybersecurity"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/energy/index.xml",
+      "title": "Energy",
+      "tags": [
+        "environment",
+        "energy"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/entertainment/index.xml",
+      "title": "Entertainment",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/environment/index.xml",
+      "title": "Environment",
+      "tags": [
+        "environment",
+        "climate"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/exclusive/index.xml",
+      "title": "Exclusive",
+      "tags": [
+        "general-news"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/games/index.xml",
+      "title": "Games",
+      "tags": [
+        "culture",
+        "video-games",
+        "digital"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/health/index.xml",
+      "title": "Health",
+      "tags": [
+        "science",
+        "health"
+      ]
+    },
+    {
+      "url": "https://www.theverge.com/rss/space/index.xml",
+      "title": "Space",
+      "tags": [
+        "science",
+        "space"
+      ]
+    }
+  ]
+}
