@@ -1,17 +1,16 @@
 {
   "company": "Maddyness",
+  "host": "maddyness.com",
   "img": "Maddyness.svg",
   "country": "fr",
   "language": "fr",
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://www.maddyness.com/feed/",
+      "url": "https://maddyness.com/feed/",
       "title": "Startups & Innovation",
       "tags": [
         "business",
-        "tech",
-        "digital",
         "startup"
       ]
     }

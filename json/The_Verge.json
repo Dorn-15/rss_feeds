@@ -1,5 +1,6 @@
 {
   "company": "The Verge",
+  "host": "www.theverge.com",
   "img": "The_Verge.svg",
   "country": "us",
   "language": "en",
@@ -9,8 +10,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "title": "Main",
       "tags": [
-        "tech",
-        "digital",
+        "technology",
         "business"
       ]
     },
@@ -18,7 +18,7 @@
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "title": "AI",
       "tags": [
-        "tech",
+        "technology",
         "ai"
       ]
     },
@@ -26,15 +26,14 @@
       "url": "https://www.theverge.com/rss/business/index.xml",
       "title": "Business",
       "tags": [
-        "business",
-        "tech"
+        "technology"
       ]
     },
     {
       "url": "https://www.theverge.com/rss/cars/index.xml",
       "title": "Cars",
       "tags": [
-        "tech",
+        "technology",
         "car"
       ]
     },
@@ -51,7 +50,7 @@
       "url": "https://www.theverge.com/rss/cyber-security/index.xml",
       "title": "Cybersecurity",
       "tags": [
-        "digital",
+        "technology",
         "cybersecurity"
       ]
     },
@@ -83,7 +82,7 @@
       "url": "https://www.theverge.com/rss/exclusive/index.xml",
       "title": "Exclusive",
       "tags": [
-        "general-news"
+        "news"
       ]
     },
     {
@@ -91,8 +90,7 @@
       "title": "Games",
       "tags": [
         "culture",
-        "video-games",
-        "digital"
+        "video-games"
       ]
     },
     {

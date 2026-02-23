@@ -1,5 +1,6 @@
 {
   "company": "European Council",
+  "host": "www.consilium.europa.eu",
   "img": "European_Council.svg",
   "country": "eu",
   "language": "en",
@@ -9,21 +10,27 @@
       "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
       "title": "Press releases",
       "tags": [
-        "institution"
+        "institution",
+        "council",
+        "press release"
       ]
     },
     {
       "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-tte/",
       "title": "Meetings: TTE",
       "tags": [
-        "institution"
+        "institution",
+        "council",
+        "meeting"
       ]
     },
     {
       "url": "https://www.consilium.europa.eu/en/about-site/rss/rss-meetings-euco/",
       "title": "Meetings: European Council",
       "tags": [
-        "institution"
+        "institution",
+        "council",
+        "meeting"
       ]
     }
   ]

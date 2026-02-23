@@ -1,5 +1,6 @@
 {
   "company": "FCA",
+  "host": "www.fca.org.uk",
   "img": "FCA.svg",
   "country": "uk",
   "language": "en",
@@ -9,7 +10,9 @@
       "url": "https://www.fca.org.uk/news/rss.xml",
       "title": "News & warnings",
       "tags": [
-        "regulator"
+        "institution",
+        "regulator",
+        "news"
       ]
     }
   ]

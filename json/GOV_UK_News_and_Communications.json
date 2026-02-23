@@ -1,5 +1,6 @@
 {
   "company": "GOV UK News and Communications",
+  "host": "www.gov.uk",
   "img": "GOV_UK_News_and_Communications.svg",
   "country": "uk",
   "language": "en",
@@ -7,9 +8,11 @@
   "feeds": [
     {
       "url": "https://www.gov.uk/search/news-and-communications.atom",
-      "title": "News and communications (search feed)",
+      "title": "News and communications",
       "tags": [
-        "government"
+        "institution",
+        "government",
+        "news"
       ]
     }
   ]

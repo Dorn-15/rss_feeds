@@ -1,5 +1,6 @@
 {
   "company": "Banco de España",
+  "host": "www.bde.es",
   "img": "Banco_de_España.svg",
   "country": "es",
   "language": "es",
@@ -9,21 +10,27 @@
       "url": "https://www.bde.es/wbe/es/inicio/rss/rss-noticias/",
       "title": "Noticias y eventos",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "news"
       ]
     },
     {
       "url": "https://www.bde.es/wbe/es/inicio/rss/rss-estudios-publicaciones/",
       "title": "Publicaciones",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "publication"
       ]
     },
     {
       "url": "https://www.bde.es/wbe/es/inicio/rss/rss-estadisticas/",
       "title": "Estadísticas",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "statistics"
       ]
     }
   ]

@@ -1,5 +1,6 @@
 {
   "company": "FrenchWeb",
+  "host": "www.frenchweb.fr",
   "img": "FrenchWeb.svg",
   "country": "fr",
   "language": "fr",
@@ -9,9 +10,7 @@
       "url": "https://www.frenchweb.fr/feed",
       "title": "Écosystème Tech",
       "tags": [
-        "tech",
-        "digital",
-        "business"
+        "technology"
       ]
     }
   ]

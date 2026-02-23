@@ -1,5 +1,6 @@
 {
   "company": "Bank of England",
+  "host": "www.bankofengland.co.uk",
   "img": "Bank_of_England.svg",
   "country": "en",
   "language": "en",
@@ -9,28 +10,36 @@
       "url": "https://www.bankofengland.co.uk/rss/news",
       "title": "News",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "news"
       ]
     },
     {
       "url": "https://www.bankofengland.co.uk/rss/publications",
       "title": "Publications",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "publication"
       ]
     },
     {
       "url": "https://www.bankofengland.co.uk/rss/speeches",
       "title": "Speeches",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "speech"
       ]
     },
     {
       "url": "https://www.bankofengland.co.uk/rss/statistics",
       "title": "Statistics",
       "tags": [
-        "centralbank"
+        "institution",
+        "centralbank",
+        "statistics"
       ]
     }
   ]

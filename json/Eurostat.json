@@ -1,218 +1,279 @@
 {
   "company": "Eurostat",
+  "host": "ec.europa.eu",
   "img": "Eurostat.svg",
   "country": "eu",
-  "language": "fr",
+  "language": "en",
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Population et conditions sociales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Population and social conditions",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Statistiques générales et régionales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - General and regional statistics",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Économie et finances",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Economy and finance",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Industrie, commerce et services",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Industry, commerce and services",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Agriculture et pêche",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Agriculture and fishing",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Transport",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Transport",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Commerce international",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - International trade",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Environnement et énergie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Environment and energy",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
-      "title": "Communiqués de presse - Science et technologie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+      "title": "Press releases - Science and technology",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "press release"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Population et conditions sociales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Population and social conditions",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Statistiques générales et régionales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - General and regional statistics",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Économie et finances",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Economy and finance",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Industrie, commerce et services",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Industry, commerce and services",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Agriculture et pêche",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Agriculture and fishing",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Transport",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Transport",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Commerce international",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - International trade",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Environnement et énergie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Environment and energy",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
-      "title": "Actualités Eurostat - Science et technologie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+      "title": "Eurostat news - Science and technology",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "news"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
       "title": "Datasets",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Population et conditions sociales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Population and social conditions",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Statistiques générales et régionales",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_GENSTA&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - General and regional statistics",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Économie et finances",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Economy and finance",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Industrie, commerce et services",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_INDCOM&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Industry, commerce and services",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Agriculture et pêche",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_AGRFIS&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Agriculture and fishing",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_TRANSP&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
       "title": "Datasets - Transport",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Commerce international",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_EXTTRA&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - International trade",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Environnement et énergie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Environment and energy",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     },
     {
-      "url": "https://ec.europa.eu/eurostat/fr/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
-      "title": "Datasets - Science et technologie",
+      "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&_estatsearchportlet_WAR_estatsearchportlet_collection=dataset",
+      "title": "Datasets - Science and technology",
       "tags": [
-        "statistics"
+        "institution",
+        "statistics",
+        "dataset"
       ]
     }
   ]

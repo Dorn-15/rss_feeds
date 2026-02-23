@@ -1,5 +1,6 @@
 {
   "company": "ANSA",
+  "host": "www.ansa.it",
   "img": "ANSA.svg",
   "country": "it",
   "language": "it",
@@ -9,49 +10,49 @@
       "url": "https://www.ansa.it/sito/ansait_rss.xml",
       "title": "Home",
       "tags": [
-        "agency"
+        "news"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",
       "title": "Cronaca",
       "tags": [
-        "agency"
+        "crime"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
       "title": "Politica",
       "tags": [
-        "agency"
+        "politics"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
       "title": "Mondo",
       "tags": [
-        "agency"
+        "world"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
       "title": "Economia",
       "tags": [
-        "agency"
+        "economy"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
       "title": "Top News",
       "tags": [
-        "agency"
+        "news"
       ]
     },
     {
       "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia_rss.xml",
       "title": "Tecnologia",
       "tags": [
-        "agency"
+        "technology"
       ]
     }
   ]

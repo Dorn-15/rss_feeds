@@ -1,5 +1,6 @@
 {
   "company": "L'Usine Digitale",
+  "host": "www.usine-digitale.fr",
   "img": "L'Usine_Digitale.svg",
   "country": "fr",
   "language": "fr",
@@ -9,9 +10,7 @@
       "url": "https://www.usine-digitale.fr/arc/outboundfeeds/rss/",
       "title": "Industrie & Numérique",
       "tags": [
-        "tech",
-        "digital",
-        "business"
+        "technology"
       ]
     }
   ]

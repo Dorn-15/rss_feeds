@@ -1,5 +1,6 @@
 {
   "company": "The Wall Street Journal",
+  "host": "feeds.content.dowjones.io",
   "img": "The_Wall_Street_Journal.svg",
   "country": "us",
   "language": "en",
@@ -7,10 +8,9 @@
   "feeds": [
     {
       "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "title": "Economy & Tech",
+      "title": "Technology",
       "tags": [
-        "business",
-        "economy"
+        "technology"
       ]
     }
   ]

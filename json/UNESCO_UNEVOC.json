@@ -1,5 +1,6 @@
 {
   "company": "UNESCO UNEVOC",
+  "host": "www.unevoc.unesco.org",
   "img": "UNESCO_UNEVOC.svg",
   "country": "wo",
   "language": "en",
@@ -7,16 +8,18 @@
   "feeds": [
     {
       "url": "http://www.unevoc.unesco.org/unevoc_rss.xml",
-      "title": "UNEVOC News & events",
+      "title": "News & events",
       "tags": [
-        "institution"
+        "institution",
+        "international"
       ]
     },
     {
       "url": "http://www.unevoc.unesco.org/unevoc_news.xml",
-      "title": "UNEVOC News only",
+      "title": "News",
       "tags": [
-        "institution"
+        "institution",
+        "international"
       ]
     }
   ]

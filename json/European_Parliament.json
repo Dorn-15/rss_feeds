@@ -1,5 +1,6 @@
 {
   "company": "European Parliament",
+  "host": "www.europarl.europa.eu",
   "img": "European_Parliament.svg",
   "country": "eu",
   "language": "en",
@@ -9,42 +10,54 @@
       "url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
       "title": "Top stories",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "news"
       ]
     },
     {
       "url": "https://www.europarl.europa.eu/rss/doc/agendas-news/en.xml",
       "title": "Weekly agendas",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "agenda"
       ]
     },
     {
       "url": "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml",
-      "title": "Press releases (all)",
+      "title": "Press releases",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "press release"
       ]
     },
     {
       "url": "https://www.europarl.europa.eu/rss/topic/901/en.xml",
-      "title": "Topic: EU and institutions",
+      "title": "EU and institutions",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "eu"
       ]
     },
     {
       "url": "https://www.europarl.europa.eu/rss/topic/907/en.xml",
-      "title": "Topic: Economic & monetary affairs",
+      "title": "Economic & monetary affairs",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "economic"
       ]
     },
     {
       "url": "https://www.europarl.europa.eu/rss/topic/911/en.xml",
-      "title": "Topic: Health & environment",
+      "title": "Health & environment",
       "tags": [
-        "institution"
+        "institution",
+        "parliament",
+        "health"
       ]
     }
   ]

@@ -1,5 +1,6 @@
 {
   "company": "Sky News",
+  "host": "feeds.skynews.com",
   "img": "Sky_News.svg",
   "country": "uk",
   "language": "en",
@@ -23,14 +24,14 @@
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "title": "World",
       "tags": [
-        "news"
+        "world"
       ]
     },
     {
       "url": "https://feeds.skynews.com/feeds/rss/business.xml",
       "title": "Business",
       "tags": [
-        "news"
+        "business"
       ]
     }
   ]

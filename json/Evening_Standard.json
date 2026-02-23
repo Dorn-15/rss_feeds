@@ -1,5 +1,6 @@
 {
   "company": "Evening Standard",
+  "host": "www.standard.co.uk",
   "img": "Evening_Standard.svg",
   "country": "uk",
   "language": "en",
@@ -10,6 +11,27 @@
       "title": "News",
       "tags": [
         "news"
+      ]
+    },
+    {
+      "url": "http://www.standard.co.uk/sport/rss",
+      "title": "Sport",
+      "tags": [
+        "sport"
+      ]
+    },
+    {
+      "url": "http://www.standard.co.uk/lifestyle/rss",
+      "title": "Lifestyle",
+      "tags": [
+        "lifestyle"
+      ]
+    },
+    {
+      "url": "http://www.standard.co.uk/culture/rss",
+      "title": "Culture",
+      "tags": [
+        "culture"
       ]
     }
   ]

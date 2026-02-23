@@ -1,54 +1,56 @@
 {
   "company": "RTVE",
+  "host": "api2.rtve.es",
   "img": "RTVE.svg",
   "country": "es",
   "language": "es",
   "fetchprotection": 2,
   "feeds": [
     {
-      "url": "https://www.rtve.es/rss/temas_noticias.xml",
+      "url": "https://api2.rtve.es/rss/temas_noticias.xml",
       "title": "Noticias",
       "tags": [
         "news"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_deportes.xml",
+      "url": "https://api2.rtve.es/rss/temas_deportes.xml",
       "title": "Deportes",
       "tags": [
-        "news"
+        "sport"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_ciencia-tecnologia.xml",
+      "url": "https://api2.rtve.es/rss/temas_ciencia-tecnologia.xml",
       "title": "Ciencia y tecnología",
       "tags": [
-        "news"
+        "science",
+        "technology"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_cultura.xml",
+      "url": "https://api2.rtve.es/rss/temas_cultura.xml",
       "title": "Cultura",
       "tags": [
-        "news"
+        "culture"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_economia.xml",
+      "url": "https://api2.rtve.es/rss/temas_economia.xml",
       "title": "Economía",
       "tags": [
-        "news"
+        "economy"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_tiempo.xml",
+      "url": "https://api2.rtve.es/rss/temas_tiempo.xml",
       "title": "El Tiempo",
       "tags": [
         "news"
       ]
     },
     {
-      "url": "https://www.rtve.es/rss/temas_espana.xml",
+      "url": "https://api2.rtve.es/rss/temas_espana.xml",
       "title": "España",
       "tags": [
         "news"

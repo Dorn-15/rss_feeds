@@ -1,5 +1,6 @@
 {
   "company": "Les Echos",
+  "host": "services.lesechos.fr",
   "img": "Les_Echos.svg",
   "country": "fr",
   "language": "fr",
@@ -9,9 +10,7 @@
       "url": "https://services.lesechos.fr/rss/les-echos-tech-medias.xml",
       "title": "Tech",
       "tags": [
-        "tech",
-        "digital",
-        "business"
+        "technology"
       ]
     },
     {
@@ -19,7 +18,6 @@
       "title": "Startups",
       "tags": [
         "business",
-        "tech",
         "startup"
       ]
     }

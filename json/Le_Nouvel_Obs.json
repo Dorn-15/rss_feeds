@@ -1,64 +1,65 @@
 {
   "company": "Le Nouvel Obs",
+  "host": "nouvelobs.com",
   "img": "Le_Nouvel_Obs.svg",
   "country": "fr",
   "language": "fr",
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://www.nouvelobs.com/a-la-une/rss.xml",
+      "url": "https://nouvelobs.com/a-la-une/rss.xml",
       "title": "À la une",
       "tags": [
         "news"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/depeche/rss.xml",
+      "url": "https://nouvelobs.com/depeche/rss.xml",
       "title": "Actualités en continu",
       "tags": [
-        "news"
+        "live"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/politique/rss.xml",
+      "url": "https://nouvelobs.com/politique/rss.xml",
       "title": "Politique",
       "tags": [
-        "news"
+        "politics"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/societe/rss.xml",
+      "url": "https://nouvelobs.com/societe/rss.xml",
       "title": "Société",
       "tags": [
-        "news"
+        "society"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/monde/rss.xml",
+      "url": "https://nouvelobs.com/monde/rss.xml",
       "title": "Monde",
       "tags": [
-        "news"
+        "world"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/economie/rss.xml",
+      "url": "https://nouvelobs.com/economie/rss.xml",
       "title": "Économie",
       "tags": [
-        "news"
+        "economy"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/culture/rss.xml",
+      "url": "https://nouvelobs.com/culture/rss.xml",
       "title": "Culture",
       "tags": [
-        "news"
+        "culture"
       ]
     },
     {
-      "url": "https://www.nouvelobs.com/idees/rss.xml",
+      "url": "https://nouvelobs.com/idees/rss.xml",
       "title": "Idées",
       "tags": [
-        "news"
+        "opinion"
       ]
     }
   ]

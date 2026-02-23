@@ -1,57 +1,60 @@
 {
   "company": "BBC News",
+  "host": "feeds.bbci.co.uk",
   "img": "BBCNews.svg",
   "country": "uk",
   "language": "en",
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml",
-      "title": "UK Front Page (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml?edition=uk",
+      "title": "News",
       "tags": [
         "news"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml",
-      "title": "Business (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml?edition=uk",
+      "title": "Business",
       "tags": [
-        "news"
+        "business"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/rss.xml",
-      "title": "Entertainment (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml?edition=uk",
+      "title": "Entertainment and arts",
       "tags": [
-        "news"
+        "culture",
+        "arts"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/rss.xml",
-      "title": "Health (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml?edition=uk",
+      "title": "Health",
       "tags": [
-        "news"
+        "science",
+        "health"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/education/rss.xml",
-      "title": "Education (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/education/rss.xml?edition=uk",
+      "title": "Education",
       "tags": [
-        "news"
+        "education"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml",
-      "title": "Technology (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml?edition=uk",
+      "title": "Technology",
       "tags": [
-        "news"
+        "technology"
       ]
     },
     {
-      "url": "https://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml",
-      "title": "World (legacy)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml?edition=uk",
+      "title": "World",
       "tags": [
-        "news"
+        "world"
       ]
     }
   ]
