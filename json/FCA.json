@@ -14,6 +14,15 @@
         "regulator",
         "news"
       ]
+    },
+    {
+      "url": "https://www.fca.org.uk/publications/rss.xml",
+      "title": "Publications",
+      "tags": [
+        "institution",
+        "regulator",
+        "publication"
+      ]
     }
   ]
 }
