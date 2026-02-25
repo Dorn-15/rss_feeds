@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+from contextlib import asynccontextmanager
 from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 import json
@@ -31,7 +32,9 @@ except Exception:  # pragma: no cover - graceful fallback when dependency is mis
     httpx = None  # type: ignore
 
 DEFAULT_TIMEOUT = 15.0
-DEFAULT_CONCURRENCY = 8
+DEFAULT_MAX_CONCURRENT_RSS_REQUESTS = 30
+DEFAULT_COMPANY_REQUESTS_PER_SECOND = 2.0
+DEFAULT_CONCURRENCY = DEFAULT_MAX_CONCURRENT_RSS_REQUESTS
 if httpx is not None:
     DEFAULT_HTTPX_LIMITS = httpx.Limits(max_connections=50, max_keepalive_connections=20)
 else:
@@ -81,6 +84,57 @@ class UrlCheckResult:
     level: int
     method: str
     attempts: list[AttemptResult]
+
+
+class JsonFeedRequestLimiter:
+    """Double semaphore limiter aligned with Manifeed backend behavior."""
+
+    def __init__(
+        self,
+        *,
+        max_concurrent: int = DEFAULT_MAX_CONCURRENT_RSS_REQUESTS,
+        company_requests_per_second: float = DEFAULT_COMPANY_REQUESTS_PER_SECOND,
+    ) -> None:
+        if company_requests_per_second <= 0:
+            raise ValueError("company_requests_per_second must be greater than 0")
+
+        self._global_semaphore = asyncio.Semaphore(max(1, int(max_concurrent)))
+        self._company_min_interval_seconds = 1.0 / company_requests_per_second
+        self._company_semaphores: dict[str, asyncio.Semaphore] = {}
+        self._company_next_allowed_at: dict[str, float] = {}
+
+    @asynccontextmanager
+    async def acquire(self, company_key: str):
+        resolved_company_key = _normalize_rate_limit_key(company_key)
+        company_semaphore = self._company_semaphores.get(resolved_company_key)
+        if company_semaphore is None:
+            company_semaphore = asyncio.Semaphore(1)
+            self._company_semaphores[resolved_company_key] = company_semaphore
+
+        async with company_semaphore:
+            await self._wait_company_rate_limit(resolved_company_key)
+            async with self._global_semaphore:
+                yield
+
+    async def _wait_company_rate_limit(self, company_key: str) -> None:
+        now = time.monotonic()
+        next_allowed_at = self._company_next_allowed_at.get(company_key, 0.0)
+        wait_seconds = next_allowed_at - now
+        if wait_seconds > 0:
+            await asyncio.sleep(wait_seconds)
+            now = time.monotonic()
+
+        self._company_next_allowed_at[company_key] = now + self._company_min_interval_seconds
+
+
+def _normalize_rate_limit_key(key: str) -> str:
+    if not key.strip():
+        return "json:unknown"
+    return key.strip().lower()
+
+
+def _resolve_file_rate_limit_key(file_path: Path) -> str:
+    return f"json:{file_path.stem}"
 
 
 def _load_httpx_defaults_from_manifeed() -> tuple[Any, dict[str, str]]:
@@ -625,6 +679,7 @@ async def _process_file(
     file_path: Path,
     timeout: float,
     concurrency: int,
+    company_requests_per_second: float,
     max_urls_per_file: int | None,
     dry_run: bool,
     httpx_limits: Any,
@@ -643,10 +698,14 @@ async def _process_file(
         urls = urls[: max(0, max_urls_per_file)]
 
     url_results: list[UrlCheckResult] = []
-    semaphore = asyncio.Semaphore(max(1, concurrency))
+    limiter = JsonFeedRequestLimiter(
+        max_concurrent=max(1, concurrency),
+        company_requests_per_second=company_requests_per_second,
+    )
+    company_key = _resolve_file_rate_limit_key(file_path)
 
     async def run_one(url: str, client: Any | None) -> UrlCheckResult:
-        async with semaphore:
+        async with limiter.acquire(company_key):
             return await _check_url(
                 url=url,
                 language=language,
@@ -740,7 +799,16 @@ def parse_args() -> argparse.Namespace:
         "--concurrency",
         type=int,
         default=DEFAULT_CONCURRENCY,
-        help=f"Concurrent URL checks per file (default: {DEFAULT_CONCURRENCY})",
+        help=f"Global max concurrent async feed checks (default: {DEFAULT_CONCURRENCY})",
+    )
+    parser.add_argument(
+        "--company-requests-per-second",
+        type=float,
+        default=DEFAULT_COMPANY_REQUESTS_PER_SECOND,
+        help=(
+            "Rate limit for feeds within a single JSON file "
+            f"(default: {DEFAULT_COMPANY_REQUESTS_PER_SECOND})"
+        ),
     )
     parser.add_argument(
         "--max-urls-per-file",
@@ -766,6 +834,9 @@ async def async_main() -> None:
     args = parse_args()
     input_dir: Path = args.input_dir
 
+    if args.company_requests_per_second <= 0:
+        raise SystemExit("--company-requests-per-second must be greater than 0")
+
     if not input_dir.exists() or not input_dir.is_dir():
         raise SystemExit(f"Input directory not found: {input_dir}")
 
@@ -787,6 +858,7 @@ async def async_main() -> None:
                 file_path=file_path,
                 timeout=args.timeout,
                 concurrency=args.concurrency,
+                company_requests_per_second=args.company_requests_per_second,
                 max_urls_per_file=args.max_urls_per_file,
                 dry_run=args.dry_run,
                 httpx_limits=httpx_limits,

@@ -10,49 +10,175 @@
       "url": "https://www.ansa.it/sito/ansait_rss.xml",
       "title": "Home",
       "tags": [
-        "news"
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/abruzzo/notizie/abruzzo_rss.xml",
+      "title": "Abruzzo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/calcio_rss.xml",
+      "title": "calcio",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/canale_motori/notizie/motori_rss.xml",
+      "title": "canale motori",
+      "tags": [
+        "sport",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/nuova_europa/it/rss.xml",
+      "title": "canale nuova Europa",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/cinema_rss.xml",
+      "title": "cinema",
+      "tags": [
+        "culture",
+        "cinema"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",
-      "title": "Cronaca",
+      "title": "cronaca",
       "tags": [
-        "crime"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
-      "title": "Politica",
+      "url": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",
+      "title": "cultura",
       "tags": [
-        "politics"
-      ]
-    },
-    {
-      "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
-      "title": "Mondo",
-      "tags": [
-        "world"
+        "culture",
+        "generaliste"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
-      "title": "Economia",
+      "title": "economia",
       "tags": [
-        "economy"
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/photogallery/foto_rss.xml",
+      "title": "foto",
+      "tags": [
+        "general",
+        "photo"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/ansamed/it/rss.xml",
+      "title": "italiano",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/canale_lifestyle/notizie/lifestyle_rss.xml",
+      "title": "life style",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+      "title": "mondo",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+      "title": "politica",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/saluteebenessere_rss.xml",
+      "title": "salute e benessere",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sardegna/notizie/sardegna_rss.xml",
+      "title": "Sardegna",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/canale_scienza_tecnica/notizie/scienzaetecnica_rss.xml",
+      "title": "scienza e tecnica",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/canale_terraegusto/notizie/terraegusto_rss.xml",
+      "title": "terra e gusto",
+      "tags": [
+        "culture",
+        "cuisine"
       ]
     },
     {
       "url": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
-      "title": "Top News",
+      "title": "ultima ora",
       "tags": [
-        "news"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia_rss.xml",
-      "title": "Tecnologia",
+      "url": "https://www.ansa.it/canale_viaggi/notizie/viaggiart_rss.xml",
+      "title": "viaggi art",
       "tags": [
-        "technology"
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://www.ansa.it/sito/videogallery/video_rss.xml",
+      "title": "youtube",
+      "tags": [
+        "general",
+        "presse"
       ]
     }
   ]

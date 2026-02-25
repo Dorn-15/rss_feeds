@@ -1,0 +1,1306 @@
+{
+  "company": "Le Monde Diplomatique",
+  "host": "www.monde-diplomatique.fr",
+  "img": "Le_Monde_Diplomatique.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=1707",
+      "title": "Écosse",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=48",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=49",
+      "title": "Émirats arabes unis",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=50",
+      "title": "Équateur",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=53",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=55",
+      "title": "États-Unis (affaires extérieures)",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=56",
+      "title": "États-Unis (affaires intérieures)",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=139",
+      "title": "Aborigènes",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=144",
+      "title": "Action humanitaire",
+      "tags": [
+        "cite",
+        "caritatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=1",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=2",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=4",
+      "title": "Afrique du Sud",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=141",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=142",
+      "title": "agroalimentaire",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=143",
+      "title": "aide au développement",
+      "tags": [
+        "cite",
+        "caritatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=145",
+      "title": "ajustement structurel",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=5",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=6",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=146",
+      "title": "alimentation",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=7",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=339",
+      "title": "Amérique centrale",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=8",
+      "title": "Amérique latine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=9",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=147",
+      "title": "animal",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=10",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=11",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=149",
+      "title": "armée",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=12",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=150",
+      "title": "armement",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=153",
+      "title": "art",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=13",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=14",
+      "title": "Asie centrale",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=15",
+      "title": "Asie du Sud-Est",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=154",
+      "title": "audiovisuel",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=16",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=155",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=18",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=19",
+      "title": "Balkans",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=156",
+      "title": "banque",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=157",
+      "title": "Banque mondiale",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=158",
+      "title": "Basques",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=22",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=521",
+      "title": "Belize",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=523",
+      "title": "Bhoutan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=159",
+      "title": "Bioéthique",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=24",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=25",
+      "title": "Bolivie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=335",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=27",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=28",
+      "title": "Bulgarie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=46",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=31",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=32",
+      "title": "Cameroun",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=33",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=449",
+      "title": "Cap-Vert",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=34",
+      "title": "Caraïbes",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=35",
+      "title": "Caucase",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=37",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=38",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=629",
+      "title": "Cisjordanie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=40",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=152",
+      "title": "commerce des armes",
+      "tags": [
+        "economie",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=42",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=43",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=45",
+      "title": "Corse",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=140",
+      "title": "criminalité financière",
+      "tags": [
+        "economie",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=337",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=330",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=350",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=52",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=550",
+      "title": "Eswatini",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=57",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=59",
+      "title": "Europe de l'Est",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=61",
+      "title": "France",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=47",
+      "title": "France Outre-mer",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=62",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=529",
+      "title": "Gambie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=64",
+      "title": "Grèce",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=530",
+      "title": "Grenade",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=453",
+      "title": "Guinée",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=444",
+      "title": "Guinée-Bissau",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=67",
+      "title": "Guyane",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=68",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=342",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=69",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=70",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=71",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=72",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=73",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=75",
+      "title": "Irlande du Nord",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=76",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=77",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=78",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=79",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=451",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=80",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=81",
+      "title": "Kirghizstan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=82",
+      "title": "Kosovo",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=84",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=85",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=86",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=91",
+      "title": "Méditerranée",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=87",
+      "title": "Macédoine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=426",
+      "title": "mafia",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=88",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=410",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=536",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=89",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=538",
+      "title": "Maurice",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=92",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=539",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=148",
+      "title": "Monde arabe",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=93",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=473",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=94",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=188",
+      "title": "narcotrafic",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=95",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=348",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=450",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=151",
+      "title": "nucléaire militaire",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=96",
+      "title": "Ouzbékistan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=101",
+      "title": "Pérou",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=97",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=98",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=99",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=20",
+      "title": "Pays baltes",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=63",
+      "title": "Pays du Golfe",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=100",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=102",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=103",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=105",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=106",
+      "title": "Proche-Orient",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=461",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=107",
+      "title": "Québec",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=41",
+      "title": "République du Congo",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=74",
+      "title": "République d'Irlande",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=109",
+      "title": "République fédérale de Yougoslavie 1992-2003",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=110",
+      "title": "Roumanie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=111",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=112",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=113",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=116",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=547",
+      "title": "Sao Tomé-et-Principe",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=331",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=548",
+      "title": "Seychelles",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=120",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=2147",
+      "title": "Soudan du Sud",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=121",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=122",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=124",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=123",
+      "title": "Tadjikistan",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=458",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=321",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=130",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=131",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=132",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=133",
+      "title": "Union européenne",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=134",
+      "title": "URSS",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=345",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=498",
+      "title": "Vanuatu",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=135",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    },
+    {
+      "url": "https://www.monde-diplomatique.fr/spip.php?page=backend&id_mot=136",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "alternatif"
+      ]
+    }
+  ]
+}

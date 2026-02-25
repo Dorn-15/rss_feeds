@@ -1,0 +1,1330 @@
+{
+  "company": "HuffPost",
+  "host": "www.huffingtonpost.fr",
+  "img": "HuffPost.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.huffingtonpost.fr/ecologie/rss_headline.xml",
+      "title": "écologie",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/economie/rss_headline.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/education/rss_headline.xml",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/egypte/rss_headline.xml",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/emission-tv/rss_headline.xml",
+      "title": "émission TV",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/energies/rss_headline.xml",
+      "title": "énergies",
+      "tags": [
+        "environnement",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/equitation/rss_headline.xml",
+      "title": "équitation",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/etats-unis/rss_headline.xml",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/rss/all_full.xml",
+      "title": "actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/afrique/rss_headline.xml",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/alaska/rss_headline.xml",
+      "title": "Alaska",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/albanie/rss_headline.xml",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/algerie/rss_headline.xml",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/alimentation/rss_headline.xml",
+      "title": "alimentation",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/allemagne/rss_headline.xml",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/animaux/rss_headline.xml",
+      "title": "animaux",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/arabie-saoudite/rss_headline.xml",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/argentine/rss_headline.xml",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/armenie/rss_headline.xml",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/asie/rss_headline.xml",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/assemblee-nationale/rss_headline.xml",
+      "title": "Assemblée nationale",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/athletisme/rss_headline.xml",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/australie/rss_headline.xml",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/auto/rss_headline.xml",
+      "title": "auto",
+      "tags": [
+        "economie",
+        "auto"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/voiture/rss_headline.xml",
+      "title": "auto",
+      "tags": [
+        "cite",
+        "auto"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/autriche/rss_headline.xml",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/azerbaijan/rss_headline.xml",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/banque/rss_headline.xml",
+      "title": "banque",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/basket/rss_headline.xml",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/belgique/rss_headline.xml",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/biathlon/rss_headline.xml",
+      "title": "biathlon",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/bien-etre/rss_headline.xml",
+      "title": "bien être",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/birmanie/rss_headline.xml",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/bourse/rss_headline.xml",
+      "title": "bourse",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/boxe/rss_headline.xml",
+      "title": "boxe",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/cambodge/rss_headline.xml",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/canada/rss_headline.xml",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/catastrophe-naturelle/rss_headline.xml",
+      "title": "catastrophe naturelle",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/changement-climatique/rss_headline.xml",
+      "title": "changement climatique",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/chine/rss_headline.xml",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/cinema/rss_headline.xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/conflit-israelo-palestinien/rss_headline.xml",
+      "title": "conflit israélo-palestinien",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/coree-du-nord/rss_headline.xml",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/coree-du-sud/rss_headline.xml",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/culture/rss_headline.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/cybersecurite/rss_headline.xml",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/cyclisme/rss_headline.xml",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/danemark/rss_headline.xml",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/divertissement/rss_headline.xml",
+      "title": "divertissement",
+      "tags": [
+        "culture",
+        "geek"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/donald-trump/rss_headline.xml",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/emmanuel-macron/rss_headline.xml",
+      "title": "Emmanuel Macron",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/emploi/rss_headline.xml",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/environnement/rss_headline.xml",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/envoye-special/rss_headline.xml",
+      "title": "Envoyé Spécial",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/escrime/rss_headline.xml",
+      "title": "escrime",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/espace/rss_headline.xml",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/espagne/rss_headline.xml",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/europe/rss_headline.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/football/rss_headline.xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/francois-bayrou/rss_headline.xml",
+      "title": "François Bayrou",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/france/rss_headline.xml",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/georgie/rss_headline.xml",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/golf/rss_headline.xml",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/gouvernement/rss_headline.xml",
+      "title": "gouvernement",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/guerre-en-ukraine/rss_headline.xml",
+      "title": "guerre en Ukraine",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/gymnastique/rss_headline.xml",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/handball/rss_headline.xml",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/histoire/rss_headline.xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/hongrie/rss_headline.xml",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/immobilier/rss_headline.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/impot/rss_headline.xml",
+      "title": "impôt",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/inde/rss_headline.xml",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/indonesie/rss_headline.xml",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/insolite/rss_headline.xml",
+      "title": "insolite",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/intelligence-artificielle/rss_headline.xml",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/international/rss_headline.xml",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/intoxication-alimentaire/rss_headline.xml",
+      "title": "intoxication alimentaire",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/irak/rss_headline.xml",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/irlande/rss_headline.xml",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/islande/rss_headline.xml",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/israel/rss_headline.xml",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/italie/rss_headline.xml",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/japon/rss_headline.xml",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/jeffrey-epstein/rss_headline.xml",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/jeux-olympiques/rss_headline.xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/jeux-video/rss_headline.xml",
+      "title": "jeux vidéo",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/judo/rss_headline.xml",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/justice/rss_headline.xml",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/liban/rss_headline.xml",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/libye/rss_headline.xml",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/life/rss_headline.xml",
+      "title": "life",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/livre/rss_headline.xml",
+      "title": "livre",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/lyon/rss_headline.xml",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/medias/rss_headline.xml",
+      "title": "médias",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/meteo/rss_headline.xml",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/madagascar/rss_headline.xml",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/malaisie/rss_headline.xml",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/manga/rss_headline.xml",
+      "title": "manga",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/maroc/rss_headline.xml",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/marseille/rss_headline.xml",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/mexique/rss_headline.xml",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/mma/rss_headline.xml",
+      "title": "MMA",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/mode/rss_headline.xml",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/moldavie/rss_headline.xml",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/montpellier/rss_headline.xml",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/moto/rss_headline.xml",
+      "title": "moto",
+      "tags": [
+        "sport",
+        "moto"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/mozambique/rss_headline.xml",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/municipales-2026/rss_headline.xml",
+      "title": "municipales 2026",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/musique/rss_headline.xml",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/natation/rss_headline.xml",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/nice/rss_headline.xml",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/norvege/rss_headline.xml",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/nos-videos/rss_headline.xml",
+      "title": "nos vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/palestine/rss_headline.xml",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/relation-parent-enfant/rss_headline.xml",
+      "title": "parentalité",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/paris/rss_headline.xml",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/partis-politiques/rss_headline.xml",
+      "title": "partis politiques",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/patrimoine/rss_headline.xml",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/pays-bas/rss_headline.xml",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/people/rss_headline.xml",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/police/rss_headline.xml",
+      "title": "police",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/politique/rss_headline.xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/pologne/rss_headline.xml",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/portugal/rss_headline.xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/prise-de-parole/rss_headline.xml",
+      "title": "prise de parole",
+      "tags": [
+        "cite",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/psychologie/rss_headline.xml",
+      "title": "psychologie",
+      "tags": [
+        "culture",
+        "psychologie"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/reseaux-sociaux/rss_headline.xml",
+      "title": "réseaux sociaux",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/royaume-uni/rss_headline.xml",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/rugby/rss_headline.xml",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/rwanda/rss_headline.xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/senegal/rss_headline.xml",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/serie-tv/rss_headline.xml",
+      "title": "série TV",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/sante/rss_headline.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/science/rss_headline.xml",
+      "title": "science",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/sexualite/rss_headline.xml",
+      "title": "sexualité",
+      "tags": [
+        "environnement",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/singapour/rss_headline.xml",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/ski/rss_headline.xml",
+      "title": "ski",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/sondage/rss_headline.xml",
+      "title": "sondage",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/soudan/rss_headline.xml",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/sport/rss_headline.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/sri-lanka/rss_headline.xml",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/suede/rss_headline.xml",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/suisse/rss_headline.xml",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/super-heros/rss_headline.xml",
+      "title": "super-héros",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/syrie/rss_headline.xml",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/television/rss_headline.xml",
+      "title": "télévision",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/taiwan/rss_headline.xml",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/technologie/rss_headline.xml",
+      "title": "technologie",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/tennis/rss_headline.xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/terrorisme/rss_headline.xml",
+      "title": "terrorisme",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/thailande/rss_headline.xml",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/toulouse/rss_headline.xml",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/transport/rss_headline.xml",
+      "title": "transport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/triathlon/rss_headline.xml",
+      "title": "triathlon",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/tunisie/rss_headline.xml",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/turquie/rss_headline.xml",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/ukraine/rss_headline.xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/uruguay/rss_headline.xml",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/venezuela/rss_headline.xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/vie-de-bureau/rss_headline.xml",
+      "title": "vie de bureau",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/vie-de-couple/rss_headline.xml",
+      "title": "vie de couple",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/vietnam/rss_headline.xml",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/voile/rss_headline.xml",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/volleyball/rss_headline.xml",
+      "title": "volleyball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://www.huffingtonpost.fr/yemen/rss_headline.xml",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

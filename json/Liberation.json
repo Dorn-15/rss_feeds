@@ -1,0 +1,1914 @@
+{
+  "company": "Libération",
+  "host": "www.liberation.fr",
+  "img": "Liberation.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/emirats-arabes-unis/?outputType=xml",
+      "title": "Émirats arabes unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/keir-starmer/?outputType=xml",
+      "title": "Keir Starmer",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mercosur/?outputType=xml",
+      "title": "MERCOSUR",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/ca-va-mieux-lisant/?outputType=xml",
+      "title": "Ça va mieux en le lisant",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/economie-numerique/?outputType=xml",
+      "title": "économie numérique",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/editorial/?outputType=xml",
+      "title": "éditorial",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/education/?outputType=xml",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/egypte/?outputType=xml",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/elections/?outputType=xml",
+      "title": "élections",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/municipales-elections/?outputType=xml",
+      "title": "élections municipales 2026",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/energie/?outputType=xml",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/etats-unis/?outputType=xml",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/affaire-des-assistants-le-rn-en-proces/?outputType=xml",
+      "title": "Affaire des assistants: le RN en procès",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/affaire-epstein/?outputType=xml",
+      "title": "Affaire Epstein, un scandale américain",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/afghanistan/?outputType=xml",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/afrique/?outputType=xml",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/agriculture/?outputType=xml",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/albanie/?outputType=xml",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/algerie/?outputType=xml",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/alimentation/?outputType=xml",
+      "title": "alimentation",
+      "tags": [
+        "economie",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/alimentation-la-recette-pour-tout-changer/?outputType=xml",
+      "title": "alimentation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/allemagne/?outputType=xml",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/amerique/?outputType=xml",
+      "title": "Amérique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/angola/?outputType=xml",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/arabie-saoudite/?outputType=xml",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/argentine/?outputType=xml",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/armenie/?outputType=xml",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/arts/?outputType=xml",
+      "title": "arts",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/asie-pacifique/?outputType=xml",
+      "title": "Asie Pacifique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/australie/?outputType=xml",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/automobile/?outputType=xml",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/autriche/?outputType=xml",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/azerbaidjan/?outputType=xml",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/barack-obama/?outputType=xml",
+      "title": "Barack Obama",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/bd/?outputType=xml",
+      "title": "BD",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/beaute/?outputType=xml",
+      "title": "beauté",
+      "tags": [
+        "culture",
+        "feminin"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/belgique/?outputType=xml",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/biodiversite/?outputType=xml",
+      "title": "biodiversité",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/birmanie/?outputType=xml",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/bosnie-herzegovine/?outputType=xml",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/cote-d-ivoire/?outputType=xml",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/cambodge/?outputType=xml",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/canada/?outputType=xml",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/centrafrique/?outputType=xml",
+      "title": "Centrafrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/chatgpt/?outputType=xml",
+      "title": "ChatGPT",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/checknews/?outputType=xml",
+      "title": "checknews",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/chili/?outputType=xml",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/chine/?outputType=xml",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/chronique-interzone/?outputType=xml",
+      "title": "Chronique «Interzone»",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/chypre/?outputType=xml",
+      "title": "Chypre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/cinema/?outputType=xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/climat/?outputType=xml",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/colombie/?outputType=xml",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/consommation/?outputType=xml",
+      "title": "consommation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/coree-du-nord/?outputType=xml",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/coree-du-sud/?outputType=xml",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/corse/?outputType=xml",
+      "title": "Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/croatie/?outputType=xml",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/cryptomonnaies/?outputType=xml",
+      "title": "cryptomonnaies",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/cuba/?outputType=xml",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/?outputType=xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/cybersecurite/?outputType=xml",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/cyclisme/?outputType=xml",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/defense/?outputType=xml",
+      "title": "défense",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/danemark/?outputType=xml",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml",
+      "title": "derniers articles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/design/?outputType=xml",
+      "title": "design",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/donald-trump/?outputType=xml",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/droits-des-femmes/?outputType=xml",
+      "title": "droits des femmes",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/elon-musk/?outputType=xml",
+      "title": "Elon Musk",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/emmanuel-macron/?outputType=xml",
+      "title": "Emmanuel Macron",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/?outputType=xml",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sciences/espace/?outputType=xml",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/espagne/?outputType=xml",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/europe/?outputType=xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/extreme-droite/?outputType=xml",
+      "title": "extrêmes droites",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/familles/?outputType=xml",
+      "title": "familles",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/festival-dangouleme/?outputType=xml",
+      "title": "Festival de la BD d'Angoulême",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/football/?outputType=xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/forums/?outputType=xml",
+      "title": "forums",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/georgie/?outputType=xml",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/gabon/?outputType=xml",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/gastronomie/?outputType=xml",
+      "title": "gastronomie",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/gaza-l-escalade/?outputType=xml",
+      "title": "Gaza, l'engrenage",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/greves/?outputType=xml",
+      "title": "grèves",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/grande-distribution/?outputType=xml",
+      "title": "Grande distribution",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/groenland/?outputType=xml",
+      "title": "Groenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/groupe-bernard-hayot/?outputType=xml",
+      "title": "Groupe Bernard Hayot",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/guerre-hamas-israel/?outputType=xml",
+      "title": "Guerre à Gaza",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/guillaume-meurice/?outputType=xml",
+      "title": "Guillaume Meurice",
+      "tags": [
+        "cite",
+        "humour"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/hightech/?outputType=xml",
+      "title": "high-tech",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sciences/histoire/?outputType=xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/honduras/?outputType=xml",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/hongrie/?outputType=xml",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/?outputType=xml",
+      "title": "idées et débats",
+      "tags": [
+        "cite",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/immigration/?outputType=xml",
+      "title": "immigration",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/inde/?outputType=xml",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/indonesie/?outputType=xml",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/intelligence-artificielle/?outputType=xml",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/intemperies-inondations-crues/?outputType=xml",
+      "title": "intempéries",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/?outputType=xml",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/irak/?outputType=xml",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/iran/?outputType=xml",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/irlande/?outputType=xml",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/islamophobie/?outputType=xml",
+      "title": "islamophobie",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/islande/?outputType=xml",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/israel/?outputType=xml",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/italie/?outputType=xml",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/jack-lang/?outputType=xml",
+      "title": "Jack Lang",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/japon/?outputType=xml",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/jeff-bezos/?outputType=xml",
+      "title": "Jeff Bezos",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/jeux-olympiques/?outputType=xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/jeux-video/?outputType=xml",
+      "title": "jeux vidéo",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/jo-hiver-2026-milan-cortina/?outputType=xml",
+      "title": "JO d'hiver 2026 de Milan-Cortina",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/jordan-bardella/?outputType=xml",
+      "title": "Jordan Bardella",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/jordanie/?outputType=xml",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/kenya/?outputType=xml",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/trump-imperialisme/?outputType=xml",
+      "title": "L'impérialisme trumpien",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/lfi/?outputType=xml",
+      "title": "La France Insoumise",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/lait-infantile-contamine/?outputType=xml",
+      "title": "Lait infantile contaminé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/eelv/?outputType=xml",
+      "title": "Les Écologistes",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/lr/?outputType=xml",
+      "title": "Les Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/liban/?outputType=xml",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/?outputType=xml",
+      "title": "lifestyle",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/livres/?outputType=xml",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/logement/?outputType=xml",
+      "title": "logement",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/lvmh/?outputType=xml",
+      "title": "LVMH",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/lyon/?outputType=xml",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/medias/?outputType=xml",
+      "title": "média",
+      "tags": [
+        "economie",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/madagascar/?outputType=xml",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mafia/?outputType=xml",
+      "title": "mafia",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/malaisie/?outputType=xml",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mali/?outputType=xml",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/malte/?outputType=xml",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/maroc/?outputType=xml",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/marseille/?outputType=xml",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mauritanie/?outputType=xml",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mayotte/?outputType=xml",
+      "title": "Mayotte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mexique/?outputType=xml",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/mode/?outputType=xml",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/moldavie/?outputType=xml",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/montenegro/?outputType=xml",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/montpellier/?outputType=xml",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/quentin-deranque/?outputType=xml",
+      "title": "Mort de Quentin Deranque à Lyon",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/moyen-orient/?outputType=xml",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/mozambique/?outputType=xml",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/municipales-elections-marseille/?outputType=xml",
+      "title": "Municipales 2026 à Marseille",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/musique/?outputType=xml",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nepal/?outputType=xml",
+      "title": "Népal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/namibie/?outputType=xml",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/natation/?outputType=xml",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/new-york/?outputType=xml",
+      "title": "New York",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nicaragua/?outputType=xml",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nice/?outputType=xml",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nicolas-maduro/?outputType=xml",
+      "title": "Nicolás Maduro",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nigeria/?outputType=xml",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/front-populaire/?outputType=xml",
+      "title": "Nouveau Front Populaire",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/nouvelle-zelande/?outputType=xml",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/nucleaire/?outputType=xml",
+      "title": "nucléaire",
+      "tags": [
+        "environnement",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/opinions/?outputType=xml",
+      "title": "opinions",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/ouganda/?outputType=xml",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/ouzbekistan/?outputType=xml",
+      "title": "Ouzbékistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/pakistan/?outputType=xml",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/palestine/?outputType=xml",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/paraguay/?outputType=xml",
+      "title": "Paraguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/paris/?outputType=xml",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/pcf/?outputType=xml",
+      "title": "Parti Communiste Français",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/ps/?outputType=xml",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/pays-bas/?outputType=xml",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/philippe-de-villiers/?outputType=xml",
+      "title": "Philippe de Villiers",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/photographie/?outputType=xml",
+      "title": "photographie",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/poesie/?outputType=xml",
+      "title": "poésie",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/police-justice/?outputType=xml",
+      "title": "police justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/environnement/pollution/?outputType=xml",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/pologne/?outputType=xml",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/portraits/?outputType=xml",
+      "title": "portrait",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/portugal/?outputType=xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/frederic-pechier/?outputType=xml",
+      "title": "Procès de Frédéric Péchier",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/prostitution/?outputType=xml",
+      "title": "prostitution",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/provence-alpes-cote-d-azur/?outputType=xml",
+      "title": "Provence-Alpes-Côte d'Azur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/qatar/?outputType=xml",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/rachida-dati/?outputType=xml",
+      "title": "Rachida Dati",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/racisme/?outputType=xml",
+      "title": "racisme",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/rn/?outputType=xml",
+      "title": "Rassemblement National",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/religions/?outputType=xml",
+      "title": "religions",
+      "tags": [
+        "culture",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/renaissance/?outputType=xml",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/royaume-uni/?outputType=xml",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/rugby/?outputType=xml",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/rwanda/?outputType=xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/senegal/?outputType=xml",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/series/?outputType=xml",
+      "title": "séries",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/sante/?outputType=xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/scenes/?outputType=xml",
+      "title": "scènes",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sciences/?outputType=xml",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/serbie/?outputType=xml",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/service-militaire/?outputType=xml",
+      "title": "Service national volontaire",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/sexualite-et-genres/?outputType=xml",
+      "title": "sexualité et genres",
+      "tags": [
+        "environnement",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/singapour/?outputType=xml",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/sncf/?outputType=xml",
+      "title": "SNCF",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/?variant=1&outputType=xml",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/social/?outputType=xml",
+      "title": "social",
+      "tags": [
+        "economie",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/soudan/?outputType=xml",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/?outputType=xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/sports-mecaniques/?outputType=xml",
+      "title": "sports mécaniques",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/sri-lanka/?outputType=xml",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/stellantis/?outputType=xml",
+      "title": "Stellantis",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/suede/?outputType=xml",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/suisse/?outputType=xml",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/super-bowl/?outputType=xml",
+      "title": "Super Bowl",
+      "tags": [
+        "sport",
+        "football_americain"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/syndicalisme/?outputType=xml",
+      "title": "syndicalisme",
+      "tags": [
+        "politique",
+        "syndicat"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/syrie/?outputType=xml",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/taiwan/?outputType=xml",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/tchad/?outputType=xml",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/tennis/?outputType=xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/thailande/?outputType=xml",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/tiktok/?outputType=xml",
+      "title": "TikTok",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/togo/?outputType=xml",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/toulon/?outputType=xml",
+      "title": "Toulon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/toulouse/?outputType=xml",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/transports/?outputType=xml",
+      "title": "transport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/idees-et-debats/tribunes/?outputType=xml",
+      "title": "tribune",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/trump-ii-an-tout-casser/?outputType=xml",
+      "title": "Trump II, un an à tout casser",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/tunisie/?outputType=xml",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/turquie/?outputType=xml",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/ukraine/?outputType=xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/union-europeenne/?outputType=xml",
+      "title": "Union Européenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/uruguay/?outputType=xml",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/venezuela/?outputType=xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/vietnam/?outputType=xml",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/societe/ville/?outputType=xml",
+      "title": "ville",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/violences-policieres/?outputType=xml",
+      "title": "violences policières",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/voitures-electriques/?outputType=xml",
+      "title": "voitures électriques",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/volodymyr-zelensky/?outputType=xml",
+      "title": "Volodymyr Zelensky",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/lifestyle/voyages/?outputType=xml",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/x-twitter/?outputType=xml",
+      "title": "X (ex-Twitter)",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/tags_slug/yemen/?outputType=xml",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

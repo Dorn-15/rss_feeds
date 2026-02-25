@@ -1,60 +1,4369 @@
 {
   "company": "BBC News",
   "host": "feeds.bbci.co.uk",
-  "img": "BBCNews.svg",
+  "img": "BBC_News.svg",
   "country": "uk",
   "language": "en",
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://feeds.bbci.co.uk/news/rss.xml?edition=uk",
-      "title": "News",
+      "url": "https://feeds.bbci.co.uk/news/topics/cllmr4e4z65t/rss.xml",
+      "title": "Abergele",
       "tags": [
-        "news"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/business/rss.xml?edition=uk",
-      "title": "Business",
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jw5r5t/rss.xml",
+      "title": "Afghanistan",
       "tags": [
-        "business"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml?edition=uk",
-      "title": "Entertainment and arts",
+      "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "title": "Africa",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crz4004j5zet/rss.xml",
+      "title": "Air travel",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4xwdt/rss.xml",
+      "title": "Alaska",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vglgpjt/rss.xml",
+      "title": "Albania",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vglgyet/rss.xml",
+      "title": "Algeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/american-football/rss.xml",
+      "title": "american football",
+      "tags": [
+        "sport",
+        "football_americain"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cj5pd6qpe7vt/rss.xml",
+      "title": "Amsterdam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gdgndt/rss.xml",
+      "title": "Andorra",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c28511xee27t/rss.xml",
+      "title": "Andrew Mountbatten-Windsor",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4q58t/rss.xml",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvwdxt/rss.xml",
+      "title": "Anguilla",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crjr0y4n0z9t/rss.xml",
+      "title": "Anthony Fauci",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvrlzt/rss.xml",
+      "title": "Antigua and Barbuda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0g4xt/rss.xml",
+      "title": "Antonio Guterres",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0gqqt/rss.xml",
+      "title": "Apple",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/archery/rss.xml",
+      "title": "archery",
+      "tags": [
+        "sport",
+        "tir_arc"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4e8w70d519t/rss.xml",
+      "title": "Arctic",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3mdm3rt/rss.xml",
+      "title": "Argentina",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgylg1t/rss.xml",
+      "title": "Armenia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4gjnt/rss.xml",
+      "title": "art",
       "tags": [
         "culture",
         "arts"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/health/rss.xml?edition=uk",
-      "title": "Health",
+      "url": "https://feeds.bbci.co.uk/sport/synchronised-swimming/rss.xml",
+      "title": "artistic swimming",
       "tags": [
-        "science",
-        "health"
+        "sport",
+        "natation"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/education/rss.xml?edition=uk",
-      "title": "Education",
+      "url": "https://feeds.bbci.co.uk/news/topics/c5rznn0nvvyt/rss.xml",
+      "title": "Asia",
       "tags": [
-        "education"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml?edition=uk",
-      "title": "Technology",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "title": "Asia news",
       "tags": [
-        "technology"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml?edition=uk",
-      "title": "World",
+      "url": "https://feeds.bbci.co.uk/sport/athletics/rss.xml",
+      "title": "athletics",
       "tags": [
-        "world"
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/australia/rss.xml",
+      "title": "Australia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxny7t/rss.xml",
+      "title": "Austria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q1z0t/rss.xml",
+      "title": "Azerbaijan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/badminton/rss.xml",
+      "title": "badminton",
+      "tags": [
+        "sport",
+        "badminton"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg01ndt/rss.xml",
+      "title": "Bahrain",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cxrlk204zm4t/rss.xml",
+      "title": "Ballygawley",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3md7grt/rss.xml",
+      "title": "Bangladesh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/baseball/rss.xml",
+      "title": "baseball",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp29j5lz6gyt/rss.xml",
+      "title": "Basingstoke",
+      "tags": [
+        "cite",
+        "commune"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/basketball/rss.xml",
+      "title": "basketball",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4y260l8ngzt/rss.xml",
+      "title": "Bedford",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdq78t/rss.xml",
+      "title": "Belarus",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gdgrdt/rss.xml",
+      "title": "Belgium",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgygnvt/rss.xml",
+      "title": "Belize",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlelw0t/rss.xml",
+      "title": "Benin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgyxt/rss.xml",
+      "title": "Benjamin Netanyahu",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/berkshire/rss.xml",
+      "title": "Berkshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3mdm7nt/rss.xml",
+      "title": "Bhutan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cerlz4j5m67t/rss.xml",
+      "title": "Birmingham",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4qe8t/rss.xml",
+      "title": "Bollywood",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edxeet/rss.xml",
+      "title": "Bosnia-Herzegovina",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3mdqypt/rss.xml",
+      "title": "Botswana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cr0meyljjxdt/rss.xml",
+      "title": "Bournemouth",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/bowls/rss.xml",
+      "title": "bowls",
+      "tags": [
+        "sport",
+        "bowls"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/boxing/rss.xml",
+      "title": "boxing",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c7z584wxzzlt/rss.xml",
+      "title": "Bracknell Forest Borough : council",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmw77wt/rss.xml",
+      "title": "Brazil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cgmxj6eyylxt/rss.xml",
+      "title": "Brighton",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+      "title": "Bristol",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0gent/rss.xml",
+      "title": "British Army",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cezyd024y2jt/rss.xml",
+      "title": "British cinema",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgylewt/rss.xml",
+      "title": "broadband",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cyqpx7l3eydt/rss.xml",
+      "title": "Broadcasting",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8l541jm9pnt/rss.xml",
+      "title": "Buckinghamshire : council",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0g83t/rss.xml",
+      "title": "Bulgaria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlelrrt/rss.xml",
+      "title": "Burkina Faso",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlel07t/rss.xml",
+      "title": "Burundi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "business",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gd5mzt/rss.xml",
+      "title": "California",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jwj8mt/rss.xml",
+      "title": "Cambodia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/cambridgeshire/rss.xml",
+      "title": "Cambridgeshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5p5jt/rss.xml",
+      "title": "Cameroon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0q41t/rss.xml",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/canoeing/rss.xml",
+      "title": "canoeing",
+      "tags": [
+        "sport",
+        "canoe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwmnet/rss.xml",
+      "title": "Cape Verde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edgxgt/rss.xml",
+      "title": "Cardiff",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvjk7vv0w40t/rss.xml",
+      "title": "cats",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2ede23t/rss.xml",
+      "title": "Central African Republic",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5zmt/rss.xml",
+      "title": "Chad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5g4t/rss.xml",
+      "title": "Chechnya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vglny2t/rss.xml",
+      "title": "Cheshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdlljt/rss.xml",
+      "title": "children",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyg45t/rss.xml",
+      "title": "Chile",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/asia/china/rss.xml",
+      "title": "China",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c630drz91jyt/rss.xml",
+      "title": "Christmas",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cme1vdy3vlmt/rss.xml",
+      "title": "cinemas",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edeqzt/rss.xml",
+      "title": "Cleveland : police",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwm1zt/rss.xml",
+      "title": "climate",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g04get/rss.xml",
+      "title": "Colombia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cljev49y9k1t/rss.xml",
+      "title": "comics",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/commonwealth-games/rss.xml",
+      "title": "Commonwealth Games",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/companies/rss.xml",
+      "title": "companies",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/cornwall/rss.xml",
+      "title": "Cornwall",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54mlnzt/rss.xml",
+      "title": "Cornwall : council",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v888t/rss.xml",
+      "title": "Costa Rica",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/coventry_and_warwickshire/rss.xml",
+      "title": "Coventry & Warwickshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54md43t/rss.xml",
+      "title": "CP - Conservative Party : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
+      "title": "cricket",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/afghanistan/rss.xml",
+      "title": "cricket : Afghanistan",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/australia/rss.xml",
+      "title": "cricket : Australia",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/bangladesh/rss.xml",
+      "title": "cricket : Bangladesh",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/birmingham-phoenix/rss.xml",
+      "title": "cricket : Birmingham Phoenix",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/england/rss.xml",
+      "title": "cricket : England Men's Cricket Team",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/england-women/rss.xml",
+      "title": "cricket : England Women's Cricket Team",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/india/rss.xml",
+      "title": "cricket : India",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/ireland/rss.xml",
+      "title": "cricket : Ireland",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/london-spirit/rss.xml",
+      "title": "cricket : London Spirit",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/manchester-originals/rss.xml",
+      "title": "cricket : Manchester Originals",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/netherlands/rss.xml",
+      "title": "cricket : Netherlands",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/new-zealand/rss.xml",
+      "title": "cricket : New Zealand",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/northern-superchargers/rss.xml",
+      "title": "cricket : Northern Superchargers",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/oval-invincibles/rss.xml",
+      "title": "cricket : Oval Invincibles",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/pakistan/rss.xml",
+      "title": "cricket : Pakistan",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/scotland/rss.xml",
+      "title": "cricket : Scotland",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/south-africa/rss.xml",
+      "title": "cricket : South Africa",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/southern-brave/rss.xml",
+      "title": "cricket : Southern Brave",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/sri-lanka/rss.xml",
+      "title": "cricket : Sri Lanka",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/trent-rockets/rss.xml",
+      "title": "cricket : Trent Rockets",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/welsh-fire/rss.xml",
+      "title": "cricket : Welsh Fire",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/west-indies/rss.xml",
+      "title": "cricket : West Indies",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cricket/teams/zimbabwe/rss.xml",
+      "title": "cricket : Zimbabwe",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cldy2dmy748t/rss.xml",
+      "title": "crime",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0zg4t/rss.xml",
+      "title": "Croatia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdqnlt/rss.xml",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/cumbria/rss.xml",
+      "title": "Cumbria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/curling/rss.xml",
+      "title": "curling",
+      "tags": [
+        "sport",
+        "curling"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+      "title": "cycling",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxnxmt/rss.xml",
+      "title": "Cyprus",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cm8m1leng1et/rss.xml",
+      "title": "Cyril Ramaphosa",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyg1lt/rss.xml",
+      "title": "Czechia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edewzt/rss.xml",
+      "title": "Dalai Lama",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1v7k704edwt/rss.xml",
+      "title": "dance",
+      "tags": [
+        "culture",
+        "dance"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/darts/rss.xml",
+      "title": "darts",
+      "tags": [
+        "sport",
+        "flechette"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwypr2kdxvwt/rss.xml",
+      "title": "David Attenborough",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crm5plqk980t/rss.xml",
+      "title": "deepfakes",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgylgwt/rss.xml",
+      "title": "Democratic Republic of the Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3mdqv1t/rss.xml",
+      "title": "Denmark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/derbyshire/rss.xml",
+      "title": "Derbyshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/devon/rss.xml",
+      "title": "Devon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvr2wt/rss.xml",
+      "title": "Diane Abbott",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/disability-sport/rss.xml",
+      "title": "disability sport",
+      "tags": [
+        "sport",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/diving/rss.xml",
+      "title": "diving",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvrnrt/rss.xml",
+      "title": "Djibouti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vgl2lgt/rss.xml",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/dorset/rss.xml",
+      "title": "Dorset",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c2rnyqn9gz4t/rss.xml",
+      "title": "Dublin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4y260l8510t/rss.xml",
+      "title": "Dungannon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp53ppt/rss.xml",
+      "title": "DUP - Democratic Unionist Party : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4qqrt/rss.xml",
+      "title": "Dyfed-Powys : police",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgylqdt/rss.xml",
+      "title": "East Sussex County Council",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4qj1t/rss.xml",
+      "title": "Ebola virus",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/economy/rss.xml",
+      "title": "economy",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cr0890k752et/rss.xml",
+      "title": "economy : France",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5378t/rss.xml",
+      "title": "economy : United Kingdom",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxypvt/rss.xml",
+      "title": "economy : United States",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c51z9eewmwrt/rss.xml",
+      "title": "Edinburgh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/education/rss.xml",
+      "title": "education",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5xzt/rss.xml",
+      "title": "Egypt",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvweet/rss.xml",
+      "title": "El Salvador",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c7047e7xdvmt/rss.xml",
+      "title": "Elton John",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
+      "title": "England",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "title": "entertainment and arts",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvw0et/rss.xml",
+      "title": "Equatorial Guinea",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/equestrian/rss.xml",
+      "title": "equestrian",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gdgjyt/rss.xml",
+      "title": "Eritrea",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/essex/rss.xml",
+      "title": "Essex",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwxv0t/rss.xml",
+      "title": "Estonia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4xjlt/rss.xml",
+      "title": "Eswatini",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz047jt/rss.xml",
+      "title": "Ethiopia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1y3r184ywpt/rss.xml",
+      "title": "Europe heatwaves",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0ljmt/rss.xml",
+      "title": "European Union",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjxv13v27dyt/rss.xml",
+      "title": "Fake News",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vglg3et/rss.xml",
+      "title": "Falkland Islands",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c121lnmqw47t/rss.xml",
+      "title": "family and education",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/fencing/rss.xml",
+      "title": "fencing",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0gzdt/rss.xml",
+      "title": "Finland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c279600zwzet/rss.xml",
+      "title": "Fintona",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8l4xqvygr2t/rss.xml",
+      "title": "fishing",
+      "tags": [
+        "environnement",
+        "maritime"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/teams/afc-bournemouth/rss.xml",
+      "title": "football : Bournemouth",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/championship/rss.xml",
+      "title": "football : championship",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/league-cup/rss.xml",
+      "title": "football : EFL Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/europa-league/rss.xml",
+      "title": "football : Europa League",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+      "title": "football : European",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/fa-cup/rss.xml",
+      "title": "football : FA Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/womens-world-cup/rss.xml",
+      "title": "football : FIFA Women's World Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/world-cup/rss.xml",
+      "title": "football : FIFA World Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/irish/rss.xml",
+      "title": "football : Irish",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/league-one/rss.xml",
+      "title": "football : league one",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/league-two/rss.xml",
+      "title": "football : league two",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/national-league/rss.xml",
+      "title": "football : national league",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+      "title": "football : premier league",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish/rss.xml",
+      "title": "football : Scottish",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-challenge-cup/rss.xml",
+      "title": "football : Scottish Challenge Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-championship/rss.xml",
+      "title": "football : Scottish Championship",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-cup/rss.xml",
+      "title": "football : Scottish Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-league-cup/rss.xml",
+      "title": "football : Scottish League Cup",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-league-one/rss.xml",
+      "title": "football : Scottish League One",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-league-two/rss.xml",
+      "title": "football : Scottish League Two",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/scottish-premiership/rss.xml",
+      "title": "football : Scottish Premiership",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/champions-league/rss.xml",
+      "title": "football : UEFA Champions League",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/womens-european-championship/rss.xml",
+      "title": "football : UEFA Women's EURO",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/welsh/rss.xml",
+      "title": "football : Welsh",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/teams/west-ham-united/rss.xml",
+      "title": "football : West Ham United",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+      "title": "football : womens",
+      "tags": [
+        "foot",
+        "feminin"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/football/womens-super-league/rss.xml",
+      "title": "football : Womens Super League",
+      "tags": [
+        "foot",
+        "feminin"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+      "title": "formula 1",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85qenyt/rss.xml",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q1e2t/rss.xml",
+      "title": "French Guiana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c9qdqqkgz27t/rss.xml",
+      "title": "FTSE 100",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0vm2t/rss.xml",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/northern-ireland/gaelic-games/rss.xml",
+      "title": "Gaelic Games",
+      "tags": [
+        "sport",
+        "jeux_gaeliques"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwml4t/rss.xml",
+      "title": "Georgia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3md4rdt/rss.xml",
+      "title": "Germany",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jejjlt/rss.xml",
+      "title": "Ghana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ck8vkvd8q9dt/rss.xml",
+      "title": "Ghislaine Maxwell",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cr0me11dlg6t/rss.xml",
+      "title": "Glasgow",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/gloucestershire/rss.xml",
+      "title": "Gloucestershire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/golf/rss.xml",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvy20t/rss.xml",
+      "title": "GPEW - Green Party England and Wales : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdqrlt/rss.xml",
+      "title": "Greece",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q1d0t/rss.xml",
+      "title": "Greenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp7r8vglg01t/rss.xml",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/europe/guernsey/rss.xml",
+      "title": "Guernsey",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwm72t/rss.xml",
+      "title": "Guinea",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgygd5t/rss.xml",
+      "title": "Guinea-Bissau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/gymnastics/rss.xml",
+      "title": "gymnastics",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjg3k09dr2kt/rss.xml",
+      "title": "Halloween",
+      "tags": [
+        "culture",
+        "ludique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/hampshire/rss.xml",
+      "title": "Hampshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "title": "health",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg1leymm60xt/rss.xml",
+      "title": "healthcare",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/hereford_and_worcester/rss.xml",
+      "title": "Hereford & Worcester",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlexwlt/rss.xml",
+      "title": "Hertfordshire : council",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmwj4z64323t/rss.xml",
+      "title": "higher education",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jw58pt/rss.xml",
+      "title": "history",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/hockey/rss.xml",
+      "title": "hockey",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c5rzdre1k8qt/rss.xml",
+      "title": "holidays",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx3xv05k4ydt/rss.xml",
+      "title": "Hollywood",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c0n1622710yt/rss.xml",
+      "title": "Holywell",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvg7xt/rss.xml",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/horse-racing/rss.xml",
+      "title": "horse racing",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edgj5t/rss.xml",
+      "title": "housing market",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/hull_and_east_yorkshire/rss.xml",
+      "title": "Hull & East Yorkshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/czp3vn6zkn6t/rss.xml",
+      "title": "Humza Yousaf",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0wjqt/rss.xml",
+      "title": "Hungary",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/ice-hockey/rss.xml",
+      "title": "ice hockey",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c6mk28y6dewt/rss.xml",
+      "title": "Iceland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+      "title": "In Pictures",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/bbcindepth/rss.xml",
+      "title": "InDepth",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+      "title": "India",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmw7vmt/rss.xml",
+      "title": "Indonesia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwvm77pxm9wt/rss.xml",
+      "title": "information technology",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4nrdv135zet/rss.xml",
+      "title": "International Business",
+      "tags": [
+        "economie",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq585jld56jt/rss.xml",
+      "title": "International Court of Justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0gd5t/rss.xml",
+      "title": "Internet",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4ggwt/rss.xml",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyljrt/rss.xml",
+      "title": "Iraq",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5ljt/rss.xml",
+      "title": "Israel",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54m4rqt/rss.xml",
+      "title": "Israel & the Palestinians",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c2vdnvdg6xxt/rss.xml",
+      "title": "Israel-Gaza war",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0d2wt/rss.xml",
+      "title": "Italy",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0gpgt/rss.xml",
+      "title": "Ivory Coast",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c62r52p1pket/rss.xml",
+      "title": "Jamie Foxx",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvnk3p2p53mt/rss.xml",
+      "title": "Janet Yellen",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4g7nt/rss.xml",
+      "title": "Japan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cpd6nj989nmt/rss.xml",
+      "title": "JD Sports",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cl7003r72r4t/rss.xml",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz041gt/rss.xml",
+      "title": "Jeremy Corbyn",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c5r37pn50l2t/rss.xml",
+      "title": "Jerome Powell",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c87vxgx65gpt/rss.xml",
+      "title": "John Swinney",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0g2nt/rss.xml",
+      "title": "Jordan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/judo/rss.xml",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c82dl119le7t/rss.xml",
+      "title": "K-pop",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/karate/rss.xml",
+      "title": "karate",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c008ql15dl7t/rss.xml",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v8rwt/rss.xml",
+      "title": "Keir Starmer",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/kent/rss.xml",
+      "title": "Kent",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdlzzt/rss.xml",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgv2m3t/rss.xml",
+      "title": "Kosovo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crgm752rwggt/rss.xml",
+      "title": "Lana Del Rey",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/lancashire/rss.xml",
+      "title": "Lancashire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5jjt/rss.xml",
+      "title": "Laos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "title": "Latin America",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvw5qt/rss.xml",
+      "title": "Latvia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgywg4t/rss.xml",
+      "title": "LD - Liberal Democrats : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jwjydt/rss.xml",
+      "title": "Lebanon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvrwyt/rss.xml",
+      "title": "Leeds",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/leicester/rss.xml",
+      "title": "Leicestershire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0z14t/rss.xml",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4w49pvqww3t/rss.xml",
+      "title": "Liam Gallagher",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3md70rt/rss.xml",
+      "title": "Liberia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlel1mt/rss.xml",
+      "title": "Libya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0gl5t/rss.xml",
+      "title": "Liechtenstein",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cn1rn5m78egt/rss.xml",
+      "title": "life",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cqeer179r4vt/rss.xml",
+      "title": "lifestyle",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/lincolnshire/rss.xml",
+      "title": "Lincolnshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwv47pt/rss.xml",
+      "title": "Lithuania",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/czjm25l2x7nt/rss.xml",
+      "title": "litter",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwdnm99je6gt/rss.xml",
+      "title": "Liverpool",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/london/rss.xml",
+      "title": "London",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0dg1t/rss.xml",
+      "title": "LP - Labour Party : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvp59396q42t/rss.xml",
+      "title": "Lucy Letby",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlelg3t/rss.xml",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnx0llt/rss.xml",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5pert/rss.xml",
+      "title": "Malawi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0523t/rss.xml",
+      "title": "Malaysia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgnxt/rss.xml",
+      "title": "Maldives",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvrqwt/rss.xml",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg01edt/rss.xml",
+      "title": "Malta",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjkm56d0p7et/rss.xml",
+      "title": "Manchester",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c0repy5vn95t/rss.xml",
+      "title": "manufacturing",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jejv7t/rss.xml",
+      "title": "Mauritania",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edxept/rss.xml",
+      "title": "Mauritius",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cddqqndv7rmt/rss.xml",
+      "title": "Mediterranean Sea",
+      "tags": [
+        "general",
+        "maritime"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz04egt/rss.xml",
+      "title": "Mental health",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cm1rm9z259kt/rss.xml",
+      "title": "Meta",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0vr2t/rss.xml",
+      "title": "Mexico",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jej2wt/rss.xml",
+      "title": "MI6",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "title": "Middle East",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp3mvp0jk5gt/rss.xml",
+      "title": "mining",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/mixed-martial-arts/rss.xml",
+      "title": "mixed martial arts",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jejzgt/rss.xml",
+      "title": "Moldova",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvg08t/rss.xml",
+      "title": "Monaco",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgylmwt/rss.xml",
+      "title": "Montenegro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0gylt/rss.xml",
+      "title": "Morocco",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/motorsport/rss.xml",
+      "title": "motorsport",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4x1lt/rss.xml",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gd872t/rss.xml",
+      "title": "music",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5vzt/rss.xml",
+      "title": "Myanmar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5pret/rss.xml",
+      "title": "Namibia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cyxzyr5ndpyt/rss.xml",
+      "title": "Nayib Bukele",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cyg1kew2kn4t/rss.xml",
+      "title": "Nazism",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyld1t/rss.xml",
+      "title": "Nepal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/netball/rss.xml",
+      "title": "netball",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgywd2t/rss.xml",
+      "title": "Netherlands",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gd8v2t/rss.xml",
+      "title": "New Zealand",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "title": "news",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/newsround/rss.xml",
+      "title": "Newsround",
+      "tags": [
+        "general",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2ede8zt/rss.xml",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jw5jpt/rss.xml",
+      "title": "Nigel Farage",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgygmgt/rss.xml",
+      "title": "Niger",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v132t/rss.xml",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/norfolk/rss.xml",
+      "title": "Norfolk",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q147t/rss.xml",
+      "title": "North Macedonia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/north_yorkshire/rss.xml",
+      "title": "North Yorkshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwdnmry5d4nt/rss.xml",
+      "title": "Northampton",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/northamptonshire/rss.xml",
+      "title": "Northamptonshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+      "title": "Northern Ireland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5mgxt/rss.xml",
+      "title": "Norway",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/nottingham/rss.xml",
+      "title": "Nottinghamshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0w2qt/rss.xml",
+      "title": "Office for National Statistics",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmjpj223708t/rss.xml",
+      "title": "oil",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/olympics/rss.xml",
+      "title": "olympics",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c680ypke814t/rss.xml",
+      "title": "Omagh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5q4t/rss.xml",
+      "title": "Oman",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c12kgp8341gt/rss.xml",
+      "title": "Organised crime",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4y3wxdx24nt/rss.xml",
+      "title": "Our Planet Now",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/oxford/rss.xml",
+      "title": "Oxfordshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c008ql15vpyt/rss.xml",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2eder8t/rss.xml",
+      "title": "Palestinian territories",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v411t/rss.xml",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvx0dt/rss.xml",
+      "title": "Paraguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz3nmk0rx7zt/rss.xml",
+      "title": "Parental leave",
+      "tags": [
+        "cite",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cxw7q5zm562t/rss.xml",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxe4rt/rss.xml",
+      "title": "Peru",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753je2r4t/rss.xml",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ck58xg8p9k5t/rss.xml",
+      "title": "poetry",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0q1mt/rss.xml",
+      "title": "Poland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+      "title": "politics",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1xp1978235t/rss.xml",
+      "title": "politics : French",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/northern_ireland/northern_ireland_politics/rss.xml",
+      "title": "politics : Northern Ireland",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwnpxwzd269t/rss.xml",
+      "title": "politics : US",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cr0mejz7k7jt/rss.xml",
+      "title": "Pomeroy",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/czm9g685x25t/rss.xml",
+      "title": "Porthmadog",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp29jzedx6pt/rss.xml",
+      "title": "Portsmouth",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlelm3t/rss.xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c347895qxj8t/rss.xml",
+      "title": "poverty",
+      "tags": [
+        "cite",
+        "caritatif"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cml9kkqnq60t/rss.xml",
+      "title": "Princess Beatrice",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ck39z2vymzwt/rss.xml",
+      "title": "Princess Eugenie",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gdge5t/rss.xml",
+      "title": "psychology",
+      "tags": [
+        "culture",
+        "psychologie"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0ze8t/rss.xml",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crxd18199v9t/rss.xml",
+      "title": "Quizzes of the Week",
+      "tags": [
+        "culture",
+        "ludique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c342d8py37qt/rss.xml",
+      "title": "Rachel Reeves",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdd52egw46kt/rss.xml",
+      "title": "Reading",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvxmdt/rss.xml",
+      "title": "Refugees and asylum seekers",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cxw7qng7vx8t/rss.xml",
+      "title": "relations : China-US",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cv3nj70d4mqt/rss.xml",
+      "title": "relations : Iran-US",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54mdq7t/rss.xml",
+      "title": "Republic of Ireland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxnlmt/rss.xml",
+      "title": "Republic of the Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cm8m1lj50l9t/rss.xml",
+      "title": "Rohingya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cr0pw0nq39nt/rss.xml",
+      "title": "Roma community",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jennet/rss.xml",
+      "title": "Romania",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rowing/rss.xml",
+      "title": "rowing",
+      "tags": [
+        "sport",
+        "aviron"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/bath/rss.xml",
+      "title": "rugby : Bath",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/bristol/rss.xml",
+      "title": "rugby : Bristol",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/cardiff-blues/rss.xml",
+      "title": "rugby : Cardiff",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/connacht/rss.xml",
+      "title": "rugby : Connacht",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/ng-dragons/rss.xml",
+      "title": "rugby : Dragons",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/edinburgh/rss.xml",
+      "title": "rugby : Edinburgh",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/english/rss.xml",
+      "title": "rugby : English",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/exeter/rss.xml",
+      "title": "rugby : Exeter Chiefs",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/glasgow/rss.xml",
+      "title": "rugby : Glasgow",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/gloucester/rss.xml",
+      "title": "rugby : Gloucester",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/harlequins/rss.xml",
+      "title": "rugby : Harlequins",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/irish/rss.xml",
+      "title": "rugby : Irish",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/leicester/rss.xml",
+      "title": "rugby : Leicester Tigers",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/leinster/rss.xml",
+      "title": "rugby : Leinster",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/munster/rss.xml",
+      "title": "rugby : Munster",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/newcastle/rss.xml",
+      "title": "rugby : Newcastle Falcons",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/northampton/rss.xml",
+      "title": "rugby : Northampton Saints",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/ospreys/rss.xml",
+      "title": "rugby : Ospreys",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/sale/rss.xml",
+      "title": "rugby : Sale",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/saracens/rss.xml",
+      "title": "rugby : Saracens",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/scarlets/rss.xml",
+      "title": "rugby : Scarlets",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/scottish/rss.xml",
+      "title": "rugby : Scottish",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/teams/ulster/rss.xml",
+      "title": "rugby : Ulster",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/welsh/rss.xml",
+      "title": "rugby : Welsh",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-league/rss.xml",
+      "title": "rugby league",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml",
+      "title": "rugby union",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlegnyt/rss.xml",
+      "title": "Russia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0zdet/rss.xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g045pt/rss.xml",
+      "title": "Sadiq Khan",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/sailing/rss.xml",
+      "title": "sailing",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jejext/rss.xml",
+      "title": "Sao Tome and Principe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8yey8n8yz4t/rss.xml",
+      "title": "Sarah Ferguson, Duchess of York",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0zl4t/rss.xml",
+      "title": "Saudi Arabia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "title": "science and environment",
+      "tags": [
+        "environnement",
+        "science"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "title": "Scotland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cez73j9xnppt/rss.xml",
+      "title": "security",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jw8yjt/rss.xml",
+      "title": "Serbia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg05wpt/rss.xml",
+      "title": "Severe weather",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5nmlt/rss.xml",
+      "title": "Seychelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c347vzp58nzt/rss.xml",
+      "title": "Shamima Begum case",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/scotland/shinty/rss.xml",
+      "title": "shinty",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/shooting/rss.xml",
+      "title": "shooting",
+      "tags": [
+        "sport",
+        "tir"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q5mlt/rss.xml",
+      "title": "Sierra Leone",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85qe3yt/rss.xml",
+      "title": "Singapor",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/skateboarding/rss.xml",
+      "title": "skateboarding",
+      "tags": [
+        "sport",
+        "skate"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdnpj5jz9gyt/rss.xml",
+      "title": "slavery",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g04w4t/rss.xml",
+      "title": "Slovakia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v0pvt/rss.xml",
+      "title": "Slovenia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/snooker/rss.xml",
+      "title": "snooker",
+      "tags": [
+        "sport",
+        "billard"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54m4pdt/rss.xml",
+      "title": "social media",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jejqwt/rss.xml",
+      "title": "Somalia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/somerset/rss.xml",
+      "title": "Somerset",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvyl7t/rss.xml",
+      "title": "South Africa",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jej1xt/rss.xml",
+      "title": "South Korea",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85q54lt/rss.xml",
+      "title": "South Sudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/south_yorkshire/rss.xml",
+      "title": "South Yorkshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cml9e982d1dt/rss.xml",
+      "title": "space",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyww4t/rss.xml",
+      "title": "space exploration",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c302m85qenvt/rss.xml",
+      "title": "Spain",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/africa/rss.xml",
+      "title": "sport : Africa",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/england/rss.xml",
+      "title": "sport : England",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/northern-ireland/rss.xml",
+      "title": "sport : Northern Ireland",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/scotland/rss.xml",
+      "title": "sport : Scotland",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/wales/rss.xml",
+      "title": "sport : Wales",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/sport-climbing/rss.xml",
+      "title": "sport climbing",
+      "tags": [
+        "sport",
+        "escalade"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/sports-personality/rss.xml",
+      "title": "Sports Personality",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c7rmrr2w79xt/rss.xml",
+      "title": "spying",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/squash/rss.xml",
+      "title": "squash",
+      "tags": [
+        "sport",
+        "squash"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0gxgt/rss.xml",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/stoke_and_staffordshire/rss.xml",
+      "title": "Stoke & Staffordshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cym524y9ejpt/rss.xml",
+      "title": "Strike action",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmmqx9w8k5wt/rss.xml",
+      "title": "students",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
+      "title": "Sudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1yy8q1re0kt/rss.xml",
+      "title": "Sudan crisis",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/suffolk/rss.xml",
+      "title": "Suffolk",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/surfing/rss.xml",
+      "title": "surfing",
+      "tags": [
+        "sport",
+        "surf"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c008ql1517rt/rss.xml",
+      "title": "Suriname",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/surrey/rss.xml",
+      "title": "Surrey",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/sussex/rss.xml",
+      "title": "Sussex",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3md4rwt/rss.xml",
+      "title": "Sweden",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/swimming/rss.xml",
+      "title": "swimming",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gd5rlt/rss.xml",
+      "title": "Switzerland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c289x2jlpg4t/rss.xml",
+      "title": "Sydney attack",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0w5zt/rss.xml",
+      "title": "Syria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/table-tennis/rss.xml",
+      "title": "table tennis",
+      "tags": [
+        "sport",
+        "tennis_de_table"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/taekwondo/rss.xml",
+      "title": "taekwondo",
+      "tags": [
+        "sport",
+        "taekwondo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvw2qt/rss.xml",
+      "title": "Taiwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0g8et/rss.xml",
+      "title": "Tajikistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4qdrt/rss.xml",
+      "title": "Tanzania",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "title": "technology",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyl2dt/rss.xml",
+      "title": "Texas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3md4vdt/rss.xml",
+      "title": "Thailand",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5pjrt/rss.xml",
+      "title": "The Bahamas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cpzp9nl04ygt/rss.xml",
+      "title": "The Church of England",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edeydt/rss.xml",
+      "title": "The Gambia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g0gr0t/rss.xml",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c255806071xt/rss.xml",
+      "title": "TikTok",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0gj4t/rss.xml",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c0eledl9rlmt/rss.xml",
+      "title": "tourism",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c5vz82vqnr1t/rss.xml",
+      "title": "travel",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/triathlon/rss.xml",
+      "title": "triathlon",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c9vwxgl4p0dt/rss.xml",
+      "title": "Trump tariffs",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwlw3xz0lmvt/rss.xml",
+      "title": "Tunisia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54mdq3t/rss.xml",
+      "title": "Turkey",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cjnwl8q4gnwt/rss.xml",
+      "title": "TUV - Traditional Unionist Voice : news",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmwme4t/rss.xml",
+      "title": "Uganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp8pw5zpye8t/rss.xml",
+      "title": "UK newspapers",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg0gzdt/rss.xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/czp0dgvmjrpt/rss.xml",
+      "title": "UN peacekeeping",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlexjet/rss.xml",
+      "title": "United Arab Emirates",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "title": "United Kingdom",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cmj34zmw7xwt/rss.xml",
+      "title": "United Nations",
+      "tags": [
+        "politique",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx1m7zg01xyt/rss.xml",
+      "title": "United States",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "title": "United States and Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cx2pk70323et/rss.xml",
+      "title": "Uplifting stories",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1038wnxen8t/rss.xml",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c50znx8v4qet/rss.xml",
+      "title": "US Federal Reserve",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54mdl3t/rss.xml",
+      "title": "US gun violence",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cljevyzxlelt/rss.xml",
+      "title": "US immigration",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cywd23g04yqt/rss.xml",
+      "title": "Utah",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/clm1wxp5pzwt/rss.xml",
+      "title": "Uzbekistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgyl8qt/rss.xml",
+      "title": "Vale of Clwyd",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cnx753jen11t/rss.xml",
+      "title": "Vale of Glamorgan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c8nq32jwjjmt/rss.xml",
+      "title": "Vatican",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cg41ylwvwgxt/rss.xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cp3mvpm3933t/rss.xml",
+      "title": "Venezuela : crisis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/bbcverify/rss.xml",
+      "title": "Verify",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cyz077w5rxxt/rss.xml",
+      "title": "veterans",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c207p54m4n2t/rss.xml",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cvenzmgywd4t/rss.xml",
+      "title": "Vladimir Putin",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/volleyball/rss.xml",
+      "title": "volleyball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4vvr0ergrzt/rss.xml",
+      "title": "Volodymyr Zelensky",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/wales/rss.xml",
+      "title": "Wales",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/water-polo/rss.xml",
+      "title": "water polo",
+      "tags": [
+        "sport",
+        "water_polo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c1kr68g2l85t/rss.xml",
+      "title": "Watford",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/weightlifting/rss.xml",
+      "title": "weightlifting",
+      "tags": [
+        "sport",
+        "halterophilie"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cgemke1zwzrt/rss.xml",
+      "title": "wellbeing",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/west_yorkshire/rss.xml",
+      "title": "West Yorkshire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz4pr2gdg3yt/rss.xml",
+      "title": "Western Sahara",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce2gz9mdde3t/rss.xml",
+      "title": "Wildfires",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c51z9ypg9ljt/rss.xml",
+      "title": "Winchester",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/winter-sports/rss.xml",
+      "title": "winter sports",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/ce1qrvlel7mt/rss.xml",
+      "title": "women",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cwdnmry506pt/rss.xml",
+      "title": "Worcester",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "title": "world",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c4gmdg9ne38t/rss.xml",
+      "title": "World of Business",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cz5jl9e9091t/rss.xml",
+      "title": "World War Two",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/wrestling/rss.xml",
+      "title": "wrestling",
+      "tags": [
+        "sport",
+        "lutte"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c77jz3mdq72t/rss.xml",
+      "title": "Yemen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/cdl8n2edezlt/rss.xml",
+      "title": "Zambia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c40rjmqdq38t/rss.xml",
+      "title": "Zanzibar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/c461d4mx4gwt/rss.xml",
+      "title": "Zarah Sultana",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/topics/crr7mlg0rpvt/rss.xml",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
       ]
     }
   ]

@@ -1,0 +1,978 @@
+{
+  "company": "BFM",
+  "host": "www.bfmtv.com",
+  "img": "BFM.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.bfmtv.com/rss/economie/",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/international/",
+      "title": "économie monde",
+      "tags": [
+        "economie",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/economie-social/",
+      "title": "économie sociale",
+      "tags": [
+        "economie",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/egypte/",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/energie/",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-nord/etats-unis/",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/aeronautique/",
+      "title": "aéronautique",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/afghanistan/",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/afrique-sud/",
+      "title": "Afrique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/algerie/",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/allemagne/",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-nord/",
+      "title": "Amérique du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-latine/",
+      "title": "Amérique latine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/animaux/",
+      "title": "animaux",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/oceanie/australie/",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/auto/",
+      "title": "auto",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/",
+      "title": "banque assurance",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/bastia/",
+      "title": "Bastia",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/belgique/",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/bordeaux/",
+      "title": "Bordeaux",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-latine/bresil/",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/brest/",
+      "title": "Brest",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/cote-d-azur/",
+      "title": "Côte d'Azur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/cote-ivoire/",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-nord/canada/",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/chine/",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/people/cinema/",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/clermont-ferrand/",
+      "title": "Clermont-Ferrand",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/environnement/climat/",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-latine/colombie/",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/consommation/",
+      "title": "consommation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/coree-nord/",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/coree-sud/",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/crypto/",
+      "title": "crypto",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/cuisine/",
+      "title": "cuisine",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/culture/",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/culture-web/",
+      "title": "culture web",
+      "tags": [
+        "culture",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/emploi/",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/",
+      "title": "entreprise",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/culture-loisirs/",
+      "title": "entreprises loisirs",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/environnement/",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/espagne/",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/experts/",
+      "title": "experts",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/economie-social/finances-publiques/",
+      "title": "finances publiques",
+      "tags": [
+        "economie",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/gaming/",
+      "title": "gaming",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/grece/",
+      "title": "Grèce",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/grand-lille/",
+      "title": "Grand Lille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/grand-littoral/",
+      "title": "Grand Littoral",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-latine/haiti/",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/",
+      "title": "high tech",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/immobilier/",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/impots-fiscalite/",
+      "title": "impôts fiscalité",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/inde/",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/industries/",
+      "title": "industries",
+      "tags": [
+        "technologie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/intelligence-artificielle/",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/irak/",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/iran/",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/irlande/",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/israel/",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/italie/",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/japon/",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/podcasts/la-question-eco/",
+      "title": "La question éco",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/podcasts/la-question-info/",
+      "title": "La question info",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/podcasts/le-titre-a-la-une/",
+      "title": "Le titre à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/libye/",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/lyon/",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/meteo/canicule/",
+      "title": "météo : canicule",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/meteo/neige/",
+      "title": "météo : neige",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/mali/",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/maroc/",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/marseille/",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/amerique-latine/mexique/",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/people/mode/",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/montpellier/",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/people/musique/",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/nancy/",
+      "title": "Nancy",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/news-24-7/",
+      "title": "news 24-7",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/normandie/",
+      "title": "Normandie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/nouveautes-produits/",
+      "title": "nouveautés produits tech",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/oceanie/nouvelle-zelande/",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/oceanie/",
+      "title": "Océanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/pakistan/",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/palestine/",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/paris/",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/",
+      "title": "patrimoine",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/immobilier/",
+      "title": "patrimoine immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/people/",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/placements-epargne/",
+      "title": "placements épargne",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/police-justice/",
+      "title": "police justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/politique/",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/rennes/",
+      "title": "Rennes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/retraite/",
+      "title": "retraite",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/angleterre/",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/russie/",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/senegal/",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/people/series/",
+      "title": "séries",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/saint-etienne/",
+      "title": "Saint Étienne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/sante/",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/services/",
+      "title": "services",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/societe/",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/economie-social/social/",
+      "title": "social",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/patrimoine/succession/",
+      "title": "succession",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/europe/suisse/",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/syrie/",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/asie/thailande/",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/toulouse/",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tours/",
+      "title": "Tours",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/entreprises/transports/",
+      "title": "transports",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/afrique/tunisie/",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/international/moyen-orient/turquie/",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/var/",
+      "title": "Var",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/var/videos/",
+      "title": "Var : vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/videos/",
+      "title": "vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/",
+      "title": "vie de bureau",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/tech/vie-numerique/",
+      "title": "vie numérique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.bfmtv.com/rss/voyage/",
+      "title": "voyage",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    }
+  ]
+}

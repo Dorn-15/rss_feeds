@@ -1,0 +1,417 @@
+Broadcasting	https://feeds.bbci.co.uk/news/topics/cyqpx7l3eydt/rss.xml
+Fake News	https://feeds.bbci.co.uk/news/topics/cjxv13v27dyt/rss.xml
+In Pictures	https://feeds.bbci.co.uk/news/in_pictures/rss.xml
+InDepth	https://feeds.bbci.co.uk/news/bbcindepth/rss.xml
+news	https://feeds.bbci.co.uk/news/rss.xml
+Newsround	https://feeds.bbci.co.uk/newsround/rss.xml
+UK newspapers	https://feeds.bbci.co.uk/news/topics/cp8pw5zpye8t/rss.xml
+sport	https://feeds.bbci.co.uk/sport/rss.xml
+sport : Africa	https://feeds.bbci.co.uk/sport/africa/rss.xml
+sport : England	https://feeds.bbci.co.uk/sport/england/rss.xml
+sport : Northern Ireland	https://feeds.bbci.co.uk/sport/northern-ireland/rss.xml
+sport : Scotland	https://feeds.bbci.co.uk/sport/scotland/rss.xml
+sport : Wales	https://feeds.bbci.co.uk/sport/wales/rss.xml
+Verify	https://feeds.bbci.co.uk/news/bbcverify/rss.xml
+world	https://feeds.bbci.co.uk/news/world/rss.xml
+Abergele	https://feeds.bbci.co.uk/news/topics/cllmr4e4z65t/rss.xml
+Afghanistan	https://feeds.bbci.co.uk/news/topics/c8nq32jw5r5t/rss.xml
+Africa	https://feeds.bbci.co.uk/news/world/africa/rss.xml
+Alaska	https://feeds.bbci.co.uk/news/topics/cjnwl8q4xwdt/rss.xml
+Albania	https://feeds.bbci.co.uk/news/topics/cp7r8vglgpjt/rss.xml
+Algeria	https://feeds.bbci.co.uk/news/topics/cp7r8vglgyet/rss.xml
+Amsterdam	https://feeds.bbci.co.uk/news/topics/cj5pd6qpe7vt/rss.xml
+Andorra	https://feeds.bbci.co.uk/news/topics/cz4pr2gdgndt/rss.xml
+Angola	https://feeds.bbci.co.uk/news/topics/cjnwl8q4q58t/rss.xml
+Anguilla	https://feeds.bbci.co.uk/news/topics/cg41ylwvwdxt/rss.xml
+Antigua and Barbuda	https://feeds.bbci.co.uk/news/topics/cq23pdgvrlzt/rss.xml
+Arctic	https://feeds.bbci.co.uk/news/topics/c4e8w70d519t/rss.xml
+Argentina	https://feeds.bbci.co.uk/news/topics/c77jz3mdm3rt/rss.xml
+Armenia	https://feeds.bbci.co.uk/news/topics/cvenzmgylg1t/rss.xml
+Asia	https://feeds.bbci.co.uk/news/topics/c5rznn0nvvyt/rss.xml
+Asia news	https://feeds.bbci.co.uk/news/world/asia/rss.xml
+Australia	https://feeds.bbci.co.uk/news/world/australia/rss.xml
+Austria	https://feeds.bbci.co.uk/news/topics/c1038wnxny7t/rss.xml
+Azerbaijan	https://feeds.bbci.co.uk/news/topics/c302m85q1z0t/rss.xml
+Bahrain	https://feeds.bbci.co.uk/news/topics/cx1m7zg01ndt/rss.xml
+Ballygawley	https://feeds.bbci.co.uk/news/topics/cxrlk204zm4t/rss.xml
+Bangladesh	https://feeds.bbci.co.uk/news/topics/c77jz3md7grt/rss.xml
+Bedford	https://feeds.bbci.co.uk/news/topics/c4y260l8ngzt/rss.xml
+Belarus	https://feeds.bbci.co.uk/news/topics/c40rjmqdq78t/rss.xml
+Belgium	https://feeds.bbci.co.uk/news/topics/cz4pr2gdgrdt/rss.xml
+Belize	https://feeds.bbci.co.uk/news/topics/cvenzmgygnvt/rss.xml
+Benin	https://feeds.bbci.co.uk/news/topics/ce1qrvlelw0t/rss.xml
+Berkshire	https://feeds.bbci.co.uk/news/england/berkshire/rss.xml
+Bhutan	https://feeds.bbci.co.uk/news/topics/c77jz3mdm7nt/rss.xml
+Birmingham	https://feeds.bbci.co.uk/news/topics/cerlz4j5m67t/rss.xml
+Bosnia-Herzegovina	https://feeds.bbci.co.uk/news/topics/cdl8n2edxeet/rss.xml
+Botswana	https://feeds.bbci.co.uk/news/topics/c77jz3mdqypt/rss.xml
+Bournemouth	https://feeds.bbci.co.uk/news/topics/cr0meyljjxdt/rss.xml
+Brazil	https://feeds.bbci.co.uk/news/topics/cmj34zmw77wt/rss.xml
+Brighton	https://feeds.bbci.co.uk/news/topics/cgmxj6eyylxt/rss.xml
+Bristol	https://feeds.bbci.co.uk/news/england/bristol/rss.xml
+Bulgaria	https://feeds.bbci.co.uk/news/topics/crr7mlg0g83t/rss.xml
+Burkina Faso	https://feeds.bbci.co.uk/news/topics/ce1qrvlelrrt/rss.xml
+Burundi	https://feeds.bbci.co.uk/news/topics/ce1qrvlel07t/rss.xml
+California	https://feeds.bbci.co.uk/news/topics/cz4pr2gd5mzt/rss.xml
+Cambodia	https://feeds.bbci.co.uk/news/topics/c8nq32jwj8mt/rss.xml
+Cambridgeshire	https://feeds.bbci.co.uk/news/england/cambridgeshire/rss.xml
+Cameroon	https://feeds.bbci.co.uk/news/topics/clm1wxp5p5jt/rss.xml
+Canada	https://feeds.bbci.co.uk/news/topics/cywd23g0q41t/rss.xml
+Cape Verde	https://feeds.bbci.co.uk/news/topics/cmj34zmwmnet/rss.xml
+Cardiff	https://feeds.bbci.co.uk/news/topics/cdl8n2edgxgt/rss.xml
+Central African Republic	https://feeds.bbci.co.uk/news/topics/cdl8n2ede23t/rss.xml
+Chad	https://feeds.bbci.co.uk/news/topics/c302m85q5zmt/rss.xml
+Chechnya	https://feeds.bbci.co.uk/news/topics/c302m85q5g4t/rss.xml
+Cheshire	https://feeds.bbci.co.uk/news/topics/cp7r8vglny2t/rss.xml
+Chile	https://feeds.bbci.co.uk/news/topics/cvenzmgyg45t/rss.xml
+China	https://feeds.bbci.co.uk/news/world/asia/china/rss.xml
+Colombia	https://feeds.bbci.co.uk/news/topics/cywd23g04get/rss.xml
+Cornwall	https://feeds.bbci.co.uk/news/england/cornwall/rss.xml
+Costa Rica	https://feeds.bbci.co.uk/news/topics/c50znx8v888t/rss.xml
+Coventry & Warwickshire	https://feeds.bbci.co.uk/news/england/coventry_and_warwickshire/rss.xml
+Croatia	https://feeds.bbci.co.uk/news/topics/cwlw3xz0zg4t/rss.xml
+Cuba	https://feeds.bbci.co.uk/news/topics/c40rjmqdqnlt/rss.xml
+Cumbria	https://feeds.bbci.co.uk/news/england/cumbria/rss.xml
+Cyprus	https://feeds.bbci.co.uk/news/topics/c1038wnxnxmt/rss.xml
+Czechia	https://feeds.bbci.co.uk/news/topics/cvenzmgyg1lt/rss.xml
+Democratic Republic of the Congo	https://feeds.bbci.co.uk/news/topics/cvenzmgylgwt/rss.xml
+Denmark	https://feeds.bbci.co.uk/news/topics/c77jz3mdqv1t/rss.xml
+Derbyshire	https://feeds.bbci.co.uk/news/england/derbyshire/rss.xml
+Devon	https://feeds.bbci.co.uk/news/england/devon/rss.xml
+Djibouti	https://feeds.bbci.co.uk/news/topics/cq23pdgvrnrt/rss.xml
+Dorset	https://feeds.bbci.co.uk/news/england/dorset/rss.xml
+Dublin	https://feeds.bbci.co.uk/news/topics/c2rnyqn9gz4t/rss.xml
+Dungannon	https://feeds.bbci.co.uk/news/topics/c4y260l8510t/rss.xml
+Edinburgh	https://feeds.bbci.co.uk/news/topics/c51z9eewmwrt/rss.xml
+Egypt	https://feeds.bbci.co.uk/news/topics/c302m85q5xzt/rss.xml
+El Salvador	https://feeds.bbci.co.uk/news/topics/cg41ylwvweet/rss.xml
+England	https://feeds.bbci.co.uk/news/england/rss.xml
+Equatorial Guinea	https://feeds.bbci.co.uk/news/topics/cg41ylwvw0et/rss.xml
+Eritrea	https://feeds.bbci.co.uk/news/topics/cz4pr2gdgjyt/rss.xml
+Essex	https://feeds.bbci.co.uk/news/england/essex/rss.xml
+Estonia	https://feeds.bbci.co.uk/news/topics/cmj34zmwxv0t/rss.xml
+Eswatini	https://feeds.bbci.co.uk/news/topics/cjnwl8q4xjlt/rss.xml
+Ethiopia	https://feeds.bbci.co.uk/news/topics/cwlw3xz047jt/rss.xml
+Europe	https://feeds.bbci.co.uk/news/world/europe/rss.xml
+Falkland Islands	https://feeds.bbci.co.uk/news/topics/cp7r8vglg3et/rss.xml
+Finland	https://feeds.bbci.co.uk/news/topics/crr7mlg0gzdt/rss.xml
+Fintona	https://feeds.bbci.co.uk/news/topics/c279600zwzet/rss.xml
+France	https://feeds.bbci.co.uk/news/topics/c302m85qenyt/rss.xml
+French Guiana	https://feeds.bbci.co.uk/news/topics/c302m85q1e2t/rss.xml
+Gabon	https://feeds.bbci.co.uk/news/topics/crr7mlg0vm2t/rss.xml
+Georgia	https://feeds.bbci.co.uk/news/topics/cmj34zmwml4t/rss.xml
+Germany	https://feeds.bbci.co.uk/news/topics/c77jz3md4rdt/rss.xml
+Ghana	https://feeds.bbci.co.uk/news/topics/cnx753jejjlt/rss.xml
+Glasgow	https://feeds.bbci.co.uk/news/topics/cr0me11dlg6t/rss.xml
+Gloucestershire	https://feeds.bbci.co.uk/news/england/gloucestershire/rss.xml
+Greece	https://feeds.bbci.co.uk/news/topics/c40rjmqdqrlt/rss.xml
+Greenland	https://feeds.bbci.co.uk/news/topics/c302m85q1d0t/rss.xml
+Guatemala	https://feeds.bbci.co.uk/news/topics/cp7r8vglg01t/rss.xml
+Guernsey	https://feeds.bbci.co.uk/news/world/europe/guernsey/rss.xml
+Guinea	https://feeds.bbci.co.uk/news/topics/cmj34zmwm72t/rss.xml
+Guinea-Bissau	https://feeds.bbci.co.uk/news/topics/cvenzmgygd5t/rss.xml
+Hampshire	https://feeds.bbci.co.uk/news/england/hampshire/rss.xml
+Hereford & Worcester	https://feeds.bbci.co.uk/news/england/hereford_and_worcester/rss.xml
+Holywell	https://feeds.bbci.co.uk/news/topics/c0n1622710yt/rss.xml
+Honduras	https://feeds.bbci.co.uk/news/topics/cq23pdgvg7xt/rss.xml
+Hull & East Yorkshire	https://feeds.bbci.co.uk/news/england/hull_and_east_yorkshire/rss.xml
+Hungary	https://feeds.bbci.co.uk/news/topics/cx1m7zg0wjqt/rss.xml
+Iceland	https://feeds.bbci.co.uk/news/topics/c6mk28y6dewt/rss.xml
+India	https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+Indonesia	https://feeds.bbci.co.uk/news/topics/cmj34zmw7vmt/rss.xml
+Iran	https://feeds.bbci.co.uk/news/topics/cjnwl8q4ggwt/rss.xml
+Iraq	https://feeds.bbci.co.uk/news/topics/cvenzmgyljrt/rss.xml
+Israel	https://feeds.bbci.co.uk/news/topics/c302m85q5ljt/rss.xml
+Italy	https://feeds.bbci.co.uk/news/topics/crr7mlg0d2wt/rss.xml
+Ivory Coast	https://feeds.bbci.co.uk/news/topics/cywd23g0gpgt/rss.xml
+Japan	https://feeds.bbci.co.uk/news/topics/cjnwl8q4g7nt/rss.xml
+Jordan	https://feeds.bbci.co.uk/news/topics/crr7mlg0g2nt/rss.xml
+Kazakhstan	https://feeds.bbci.co.uk/news/topics/c008ql15dl7t/rss.xml
+Kent	https://feeds.bbci.co.uk/news/england/kent/rss.xml
+Kenya	https://feeds.bbci.co.uk/news/topics/c40rjmqdlzzt/rss.xml
+Kosovo	https://feeds.bbci.co.uk/news/topics/cq23pdgv2m3t/rss.xml
+Lancashire	https://feeds.bbci.co.uk/news/england/lancashire/rss.xml
+Laos	https://feeds.bbci.co.uk/news/topics/c302m85q5jjt/rss.xml
+Latin America	https://feeds.bbci.co.uk/news/world/latin_america/rss.xml
+Latvia	https://feeds.bbci.co.uk/news/topics/cg41ylwvw5qt/rss.xml
+Lebanon	https://feeds.bbci.co.uk/news/topics/c8nq32jwjydt/rss.xml
+Leeds	https://feeds.bbci.co.uk/news/topics/cq23pdgvrwyt/rss.xml
+Leicestershire	https://feeds.bbci.co.uk/news/england/leicester/rss.xml
+Lesotho	https://feeds.bbci.co.uk/news/topics/cwlw3xz0z14t/rss.xml
+Liberia	https://feeds.bbci.co.uk/news/topics/c77jz3md70rt/rss.xml
+Libya	https://feeds.bbci.co.uk/news/topics/ce1qrvlel1mt/rss.xml
+Liechtenstein	https://feeds.bbci.co.uk/news/topics/cx1m7zg0gl5t/rss.xml
+Lincolnshire	https://feeds.bbci.co.uk/news/england/lincolnshire/rss.xml
+Lithuania	https://feeds.bbci.co.uk/news/topics/cg41ylwv47pt/rss.xml
+Liverpool	https://feeds.bbci.co.uk/news/topics/cwdnm99je6gt/rss.xml
+London	https://feeds.bbci.co.uk/news/england/london/rss.xml
+Luxembourg	https://feeds.bbci.co.uk/news/topics/ce1qrvlelg3t/rss.xml
+Madagascar	https://feeds.bbci.co.uk/news/topics/c1038wnx0llt/rss.xml
+Malawi	https://feeds.bbci.co.uk/news/topics/clm1wxp5pert/rss.xml
+Malaysia	https://feeds.bbci.co.uk/news/topics/cx1m7zg0523t/rss.xml
+Maldives	https://feeds.bbci.co.uk/news/topics/cq23pdgvgnxt/rss.xml
+Mali	https://feeds.bbci.co.uk/news/topics/cq23pdgvrqwt/rss.xml
+Malta	https://feeds.bbci.co.uk/news/topics/cx1m7zg01edt/rss.xml
+Manchester	https://feeds.bbci.co.uk/news/topics/cjkm56d0p7et/rss.xml
+Mauritania	https://feeds.bbci.co.uk/news/topics/cnx753jejv7t/rss.xml
+Mauritius	https://feeds.bbci.co.uk/news/topics/cdl8n2edxept/rss.xml
+Mediterranean Sea	https://feeds.bbci.co.uk/news/topics/cddqqndv7rmt/rss.xml
+Mexico	https://feeds.bbci.co.uk/news/topics/crr7mlg0vr2t/rss.xml
+Middle East	https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+Moldova	https://feeds.bbci.co.uk/news/topics/cnx753jejzgt/rss.xml
+Monaco	https://feeds.bbci.co.uk/news/topics/cq23pdgvg08t/rss.xml
+Montenegro	https://feeds.bbci.co.uk/news/topics/cvenzmgylmwt/rss.xml
+Morocco	https://feeds.bbci.co.uk/news/topics/cx1m7zg0gylt/rss.xml
+Mozambique	https://feeds.bbci.co.uk/news/topics/cjnwl8q4x1lt/rss.xml
+Myanmar	https://feeds.bbci.co.uk/news/topics/c302m85q5vzt/rss.xml
+Namibia	https://feeds.bbci.co.uk/news/topics/clm1wxp5pret/rss.xml
+Nepal	https://feeds.bbci.co.uk/news/topics/cvenzmgyld1t/rss.xml
+Netherlands	https://feeds.bbci.co.uk/news/topics/cvenzmgywd2t/rss.xml
+New Zealand	https://feeds.bbci.co.uk/news/topics/cz4pr2gd8v2t/rss.xml
+Nicaragua	https://feeds.bbci.co.uk/news/topics/cdl8n2ede8zt/rss.xml
+Niger	https://feeds.bbci.co.uk/news/topics/cvenzmgygmgt/rss.xml
+Nigeria	https://feeds.bbci.co.uk/news/topics/c50znx8v132t/rss.xml
+Norfolk	https://feeds.bbci.co.uk/news/england/norfolk/rss.xml
+North Macedonia	https://feeds.bbci.co.uk/news/topics/c302m85q147t/rss.xml
+North Yorkshire	https://feeds.bbci.co.uk/news/england/north_yorkshire/rss.xml
+Northampton	https://feeds.bbci.co.uk/news/topics/cwdnmry5d4nt/rss.xml
+Northamptonshire	https://feeds.bbci.co.uk/news/england/northamptonshire/rss.xml
+Northern Ireland	https://feeds.bbci.co.uk/news/northern_ireland/rss.xml
+Norway	https://feeds.bbci.co.uk/news/topics/clm1wxp5mgxt/rss.xml
+Nottinghamshire	https://feeds.bbci.co.uk/news/england/nottingham/rss.xml
+Omagh	https://feeds.bbci.co.uk/news/topics/c680ypke814t/rss.xml
+Oman	https://feeds.bbci.co.uk/news/topics/c302m85q5q4t/rss.xml
+Oxfordshire	https://feeds.bbci.co.uk/news/england/oxford/rss.xml
+Pakistan	https://feeds.bbci.co.uk/news/topics/c008ql15vpyt/rss.xml
+Palestinian territories	https://feeds.bbci.co.uk/news/topics/cdl8n2eder8t/rss.xml
+Panama	https://feeds.bbci.co.uk/news/topics/c50znx8v411t/rss.xml
+Paraguay	https://feeds.bbci.co.uk/news/topics/cg41ylwvx0dt/rss.xml
+Paris	https://feeds.bbci.co.uk/news/topics/cxw7q5zm562t/rss.xml
+Peru	https://feeds.bbci.co.uk/news/topics/c1038wnxe4rt/rss.xml
+Philippines	https://feeds.bbci.co.uk/news/topics/cnx753je2r4t/rss.xml
+Poland	https://feeds.bbci.co.uk/news/topics/cywd23g0q1mt/rss.xml
+Pomeroy	https://feeds.bbci.co.uk/news/topics/cr0mejz7k7jt/rss.xml
+Porthmadog	https://feeds.bbci.co.uk/news/topics/czm9g685x25t/rss.xml
+Portsmouth	https://feeds.bbci.co.uk/news/topics/cp29jzedx6pt/rss.xml
+Portugal	https://feeds.bbci.co.uk/news/topics/ce1qrvlelm3t/rss.xml
+Qatar	https://feeds.bbci.co.uk/news/topics/cwlw3xz0ze8t/rss.xml
+Republic of Ireland	https://feeds.bbci.co.uk/news/topics/c207p54mdq7t/rss.xml
+Republic of the Congo	https://feeds.bbci.co.uk/news/topics/c1038wnxnlmt/rss.xml
+Rohingya	https://feeds.bbci.co.uk/news/topics/cm8m1lj50l9t/rss.xml
+Romania	https://feeds.bbci.co.uk/news/topics/cnx753jennet/rss.xml
+Russia	https://feeds.bbci.co.uk/news/topics/ce1qrvlegnyt/rss.xml
+Rwanda	https://feeds.bbci.co.uk/news/topics/cwlw3xz0zdet/rss.xml
+Sao Tome and Principe	https://feeds.bbci.co.uk/news/topics/cnx753jejext/rss.xml
+Saudi Arabia	https://feeds.bbci.co.uk/news/topics/cwlw3xz0zl4t/rss.xml
+Scotland	https://feeds.bbci.co.uk/news/scotland/rss.xml
+Serbia	https://feeds.bbci.co.uk/news/topics/c8nq32jw8yjt/rss.xml
+Seychelles	https://feeds.bbci.co.uk/news/topics/clm1wxp5nmlt/rss.xml
+Sierra Leone	https://feeds.bbci.co.uk/news/topics/c302m85q5mlt/rss.xml
+Singapor	https://feeds.bbci.co.uk/news/topics/c302m85qe3yt/rss.xml
+Slovakia	https://feeds.bbci.co.uk/news/topics/cywd23g04w4t/rss.xml
+Slovenia	https://feeds.bbci.co.uk/news/topics/c50znx8v0pvt/rss.xml
+Somalia	https://feeds.bbci.co.uk/news/topics/cnx753jejqwt/rss.xml
+Somerset	https://feeds.bbci.co.uk/news/england/somerset/rss.xml
+South Africa	https://feeds.bbci.co.uk/news/topics/cq23pdgvyl7t/rss.xml
+South Korea	https://feeds.bbci.co.uk/news/topics/cnx753jej1xt/rss.xml
+South Sudan	https://feeds.bbci.co.uk/news/topics/c302m85q54lt/rss.xml
+South Yorkshire	https://feeds.bbci.co.uk/news/england/south_yorkshire/rss.xml
+Spain	https://feeds.bbci.co.uk/news/topics/c302m85qenvt/rss.xml
+Sri Lanka	https://feeds.bbci.co.uk/news/topics/cywd23g0gxgt/rss.xml
+Stoke & Staffordshire	https://feeds.bbci.co.uk/news/england/stoke_and_staffordshire/rss.xml
+Sudan	https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml
+Suffolk	https://feeds.bbci.co.uk/news/england/suffolk/rss.xml
+Suriname	https://feeds.bbci.co.uk/news/topics/c008ql1517rt/rss.xml
+Surrey	https://feeds.bbci.co.uk/news/england/surrey/rss.xml
+Sussex	https://feeds.bbci.co.uk/news/england/sussex/rss.xml
+Sweden	https://feeds.bbci.co.uk/news/topics/c77jz3md4rwt/rss.xml
+Switzerland	https://feeds.bbci.co.uk/news/topics/cz4pr2gd5rlt/rss.xml
+Syria	https://feeds.bbci.co.uk/news/topics/cx1m7zg0w5zt/rss.xml
+Taiwan	https://feeds.bbci.co.uk/news/topics/cg41ylwvw2qt/rss.xml
+Tajikistan	https://feeds.bbci.co.uk/news/topics/cx1m7zg0g8et/rss.xml
+Tanzania	https://feeds.bbci.co.uk/news/topics/cjnwl8q4qdrt/rss.xml
+Texas	https://feeds.bbci.co.uk/news/topics/cvenzmgyl2dt/rss.xml
+Thailand	https://feeds.bbci.co.uk/news/topics/c77jz3md4vdt/rss.xml
+The Bahamas	https://feeds.bbci.co.uk/news/topics/clm1wxp5pjrt/rss.xml
+The Gambia	https://feeds.bbci.co.uk/news/topics/cdl8n2edeydt/rss.xml
+Tibet	https://feeds.bbci.co.uk/news/topics/cywd23g0gr0t/rss.xml
+Togo	https://feeds.bbci.co.uk/news/topics/cx1m7zg0gj4t/rss.xml
+Tunisia	https://feeds.bbci.co.uk/news/topics/cwlw3xz0lmvt/rss.xml
+Turkey	https://feeds.bbci.co.uk/news/topics/c207p54mdq3t/rss.xml
+Uganda	https://feeds.bbci.co.uk/news/topics/cmj34zmwme4t/rss.xml
+Ukraine	https://feeds.bbci.co.uk/news/topics/cx1m7zg0gzdt/rss.xml
+United Arab Emirates	https://feeds.bbci.co.uk/news/topics/ce1qrvlexjet/rss.xml
+United Kingdom	https://feeds.bbci.co.uk/news/uk/rss.xml
+United States	https://feeds.bbci.co.uk/news/topics/cx1m7zg01xyt/rss.xml
+United States and Canada	https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+Uruguay	https://feeds.bbci.co.uk/news/topics/c1038wnxen8t/rss.xml
+Utah	https://feeds.bbci.co.uk/news/topics/cywd23g04yqt/rss.xml
+Uzbekistan	https://feeds.bbci.co.uk/news/topics/clm1wxp5pzwt/rss.xml
+Vale of Clwyd	https://feeds.bbci.co.uk/news/topics/cvenzmgyl8qt/rss.xml
+Vale of Glamorgan	https://feeds.bbci.co.uk/news/topics/cnx753jen11t/rss.xml
+Vatican	https://feeds.bbci.co.uk/news/topics/c8nq32jwjjmt/rss.xml
+Venezuela	https://feeds.bbci.co.uk/news/topics/cg41ylwvwgxt/rss.xml
+Venezuela : crisis	https://feeds.bbci.co.uk/news/topics/cp3mvpm3933t/rss.xml
+Vietnam	https://feeds.bbci.co.uk/news/topics/c207p54m4n2t/rss.xml
+Wales	https://feeds.bbci.co.uk/news/wales/rss.xml
+Watford	https://feeds.bbci.co.uk/news/topics/c1kr68g2l85t/rss.xml
+West Yorkshire	https://feeds.bbci.co.uk/news/england/west_yorkshire/rss.xml
+Western Sahara	https://feeds.bbci.co.uk/news/topics/cz4pr2gdg3yt/rss.xml
+Winchester	https://feeds.bbci.co.uk/news/topics/c51z9ypg9ljt/rss.xml
+Worcester	https://feeds.bbci.co.uk/news/topics/cwdnmry506pt/rss.xml
+Yemen	https://feeds.bbci.co.uk/news/topics/c77jz3mdq72t/rss.xml
+Zambia	https://feeds.bbci.co.uk/news/topics/cdl8n2edezlt/rss.xml
+Zanzibar	https://feeds.bbci.co.uk/news/topics/c40rjmqdq38t/rss.xml
+Zimbabwe	https://feeds.bbci.co.uk/news/topics/crr7mlg0rpvt/rss.xml
+Anthony Fauci	https://feeds.bbci.co.uk/news/topics/crjr0y4n0z9t/rss.xml
+cats	https://feeds.bbci.co.uk/news/topics/cvjk7vv0w40t/rss.xml
+climate	https://feeds.bbci.co.uk/news/topics/cmj34zmwm1zt/rss.xml
+Ebola virus	https://feeds.bbci.co.uk/news/topics/cjnwl8q4qj1t/rss.xml
+Europe heatwaves	https://feeds.bbci.co.uk/news/topics/c1y3r184ywpt/rss.xml
+fishing	https://feeds.bbci.co.uk/news/topics/c8l4xqvygr2t/rss.xml
+health	https://feeds.bbci.co.uk/news/health/rss.xml
+healthcare	https://feeds.bbci.co.uk/news/topics/cg1leymm60xt/rss.xml
+litter	https://feeds.bbci.co.uk/news/topics/czjm25l2x7nt/rss.xml
+Mental health	https://feeds.bbci.co.uk/news/topics/cwlw3xz04egt/rss.xml
+Our Planet Now	https://feeds.bbci.co.uk/news/topics/c4y3wxdx24nt/rss.xml
+science and environment	https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+Severe weather	https://feeds.bbci.co.uk/news/topics/cx1m7zg05wpt/rss.xml
+wellbeing	https://feeds.bbci.co.uk/news/topics/cgemke1zwzrt/rss.xml
+Wildfires	https://feeds.bbci.co.uk/news/topics/ce2gz9mdde3t/rss.xml
+Andrew Mountbatten-Windsor	https://feeds.bbci.co.uk/news/topics/c28511xee27t/rss.xml
+Basingstoke	https://feeds.bbci.co.uk/news/topics/cp29j5lz6gyt/rss.xml
+Bracknell Forest Borough : council	https://feeds.bbci.co.uk/news/topics/c7z584wxzzlt/rss.xml
+British Army	https://feeds.bbci.co.uk/news/topics/crr7mlg0gent/rss.xml
+Buckinghamshire : council	https://feeds.bbci.co.uk/news/topics/c8l541jm9pnt/rss.xml
+Cleveland : police	https://feeds.bbci.co.uk/news/topics/cdl8n2edeqzt/rss.xml
+Cornwall : council	https://feeds.bbci.co.uk/news/topics/c207p54mlnzt/rss.xml
+crime	https://feeds.bbci.co.uk/news/topics/cldy2dmy748t/rss.xml
+Dyfed-Powys : police	https://feeds.bbci.co.uk/news/topics/cjnwl8q4qqrt/rss.xml
+East Sussex County Council	https://feeds.bbci.co.uk/news/topics/cvenzmgylqdt/rss.xml
+Ghislaine Maxwell	https://feeds.bbci.co.uk/news/topics/ck8vkvd8q9dt/rss.xml
+Hertfordshire : council	https://feeds.bbci.co.uk/news/topics/ce1qrvlexwlt/rss.xml
+International Court of Justice	https://feeds.bbci.co.uk/news/topics/cq585jld56jt/rss.xml
+Israel & the Palestinians	https://feeds.bbci.co.uk/news/topics/c207p54m4rqt/rss.xml
+Israel-Gaza war	https://feeds.bbci.co.uk/news/topics/c2vdnvdg6xxt/rss.xml
+Jeffrey Epstein	https://feeds.bbci.co.uk/news/topics/cl7003r72r4t/rss.xml
+Lucy Letby	https://feeds.bbci.co.uk/news/topics/cvp59396q42t/rss.xml
+MI6	https://feeds.bbci.co.uk/news/topics/cnx753jej2wt/rss.xml
+Nazism	https://feeds.bbci.co.uk/news/topics/cyg1kew2kn4t/rss.xml
+Office for National Statistics	https://feeds.bbci.co.uk/news/topics/cx1m7zg0w2qt/rss.xml
+Organised crime	https://feeds.bbci.co.uk/news/topics/c12kgp8341gt/rss.xml
+Parental leave	https://feeds.bbci.co.uk/news/topics/cz3nmk0rx7zt/rss.xml
+poverty	https://feeds.bbci.co.uk/news/topics/c347895qxj8t/rss.xml
+Reading	https://feeds.bbci.co.uk/news/topics/cdd52egw46kt/rss.xml
+Refugees and asylum seekers	https://feeds.bbci.co.uk/news/topics/cg41ylwvxmdt/rss.xml
+Roma community	https://feeds.bbci.co.uk/news/topics/cr0pw0nq39nt/rss.xml
+security	https://feeds.bbci.co.uk/news/topics/cez73j9xnppt/rss.xml
+Shamima Begum case	https://feeds.bbci.co.uk/news/topics/c347vzp58nzt/rss.xml
+slavery	https://feeds.bbci.co.uk/news/topics/cdnpj5jz9gyt/rss.xml
+Strike action	https://feeds.bbci.co.uk/news/topics/cym524y9ejpt/rss.xml
+Sudan crisis	https://feeds.bbci.co.uk/news/topics/c1yy8q1re0kt/rss.xml
+Sydney attack	https://feeds.bbci.co.uk/news/topics/c289x2jlpg4t/rss.xml
+The Church of England	https://feeds.bbci.co.uk/news/topics/cpzp9nl04ygt/rss.xml
+US gun violence	https://feeds.bbci.co.uk/news/topics/c207p54mdl3t/rss.xml
+US immigration	https://feeds.bbci.co.uk/news/topics/cljevyzxlelt/rss.xml
+veterans	https://feeds.bbci.co.uk/news/topics/cyz077w5rxxt/rss.xml
+women	https://feeds.bbci.co.uk/news/topics/ce1qrvlel7mt/rss.xml
+Antonio Guterres	https://feeds.bbci.co.uk/news/topics/cywd23g0g4xt/rss.xml
+Benjamin Netanyahu	https://feeds.bbci.co.uk/news/topics/cq23pdgvgyxt/rss.xml
+CP - Conservative Party : news	https://feeds.bbci.co.uk/news/topics/c207p54md43t/rss.xml
+Cyril Ramaphosa	https://feeds.bbci.co.uk/news/topics/cm8m1leng1et/rss.xml
+Dalai Lama	https://feeds.bbci.co.uk/news/topics/cdl8n2edewzt/rss.xml
+Diane Abbott	https://feeds.bbci.co.uk/news/topics/cq23pdgvr2wt/rss.xml
+Donald Trump	https://feeds.bbci.co.uk/news/topics/cp7r8vgl2lgt/rss.xml
+DUP - Democratic Unionist Party : news	https://feeds.bbci.co.uk/news/topics/clm1wxp53ppt/rss.xml
+European Union	https://feeds.bbci.co.uk/news/topics/cwlw3xz0ljmt/rss.xml
+GPEW - Green Party England and Wales : news	https://feeds.bbci.co.uk/news/topics/cq23pdgvy20t/rss.xml
+Humza Yousaf	https://feeds.bbci.co.uk/news/topics/czp3vn6zkn6t/rss.xml
+Jeremy Corbyn	https://feeds.bbci.co.uk/news/topics/cwlw3xz041gt/rss.xml
+John Swinney	https://feeds.bbci.co.uk/news/topics/c87vxgx65gpt/rss.xml
+Keir Starmer	https://feeds.bbci.co.uk/news/topics/c50znx8v8rwt/rss.xml
+LD - Liberal Democrats : news	https://feeds.bbci.co.uk/news/topics/cvenzmgywg4t/rss.xml
+LP - Labour Party : news	https://feeds.bbci.co.uk/news/topics/crr7mlg0dg1t/rss.xml
+Nayib Bukele	https://feeds.bbci.co.uk/news/topics/cyxzyr5ndpyt/rss.xml
+Nigel Farage	https://feeds.bbci.co.uk/news/topics/c8nq32jw5jpt/rss.xml
+politics	https://feeds.bbci.co.uk/news/politics/rss.xml
+politics : French	https://feeds.bbci.co.uk/news/topics/c1xp1978235t/rss.xml
+politics : Northern Ireland	https://feeds.bbci.co.uk/news/northern_ireland/northern_ireland_politics/rss.xml
+politics : Northern Ireland	https://feeds.bbci.co.uk/news/northern_ireland/northern_ireland_politics/
+politics : US	https://feeds.bbci.co.uk/news/topics/cwnpxwzd269t/rss.xml
+Rachel Reeves	https://feeds.bbci.co.uk/news/topics/c342d8py37qt/rss.xml
+relations : China-US	https://feeds.bbci.co.uk/news/topics/cxw7qng7vx8t/rss.xml
+relations : Iran-US	https://feeds.bbci.co.uk/news/topics/cv3nj70d4mqt/rss.xml
+Sadiq Khan	https://feeds.bbci.co.uk/news/topics/cywd23g045pt/rss.xml
+spying	https://feeds.bbci.co.uk/news/topics/c7rmrr2w79xt/rss.xml
+TUV - Traditional Unionist Voice : news	https://feeds.bbci.co.uk/news/topics/cjnwl8q4gnwt/rss.xml
+UN peacekeeping	https://feeds.bbci.co.uk/news/topics/czp0dgvmjrpt/rss.xml
+United Nations	https://feeds.bbci.co.uk/news/topics/cmj34zmw7xwt/rss.xml
+Vladimir Putin	https://feeds.bbci.co.uk/news/topics/cvenzmgywd4t/rss.xml
+Volodymyr Zelensky	https://feeds.bbci.co.uk/news/topics/c4vvr0ergrzt/rss.xml
+Zarah Sultana	https://feeds.bbci.co.uk/news/topics/c461d4mx4gwt/rss.xml
+art	https://feeds.bbci.co.uk/news/topics/cjnwl8q4gjnt/rss.xml
+Bollywood	https://feeds.bbci.co.uk/news/topics/cjnwl8q4qe8t/rss.xml
+British cinema	https://feeds.bbci.co.uk/news/topics/cezyd024y2jt/rss.xml
+children	https://feeds.bbci.co.uk/news/topics/c40rjmqdlljt/rss.xml
+Christmas	https://feeds.bbci.co.uk/news/topics/c630drz91jyt/rss.xml
+cinemas	https://feeds.bbci.co.uk/news/topics/cme1vdy3vlmt/rss.xml
+comics	https://feeds.bbci.co.uk/news/topics/cljev49y9k1t/rss.xml
+dance	https://feeds.bbci.co.uk/news/topics/c1v7k704edwt/rss.xml
+David Attenborough	https://feeds.bbci.co.uk/news/topics/cwypr2kdxvwt/rss.xml
+education	https://feeds.bbci.co.uk/news/education/rss.xml
+Elton John	https://feeds.bbci.co.uk/news/topics/c7047e7xdvmt/rss.xml
+entertainment and arts	https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+family and education	https://feeds.bbci.co.uk/news/topics/c121lnmqw47t/rss.xml
+Halloween	https://feeds.bbci.co.uk/news/topics/cjg3k09dr2kt/rss.xml
+higher education	https://feeds.bbci.co.uk/news/topics/cmwj4z64323t/rss.xml
+history	https://feeds.bbci.co.uk/news/topics/c8nq32jw58pt/rss.xml
+holidays	https://feeds.bbci.co.uk/news/topics/c5rzdre1k8qt/rss.xml
+Hollywood	https://feeds.bbci.co.uk/news/topics/cx3xv05k4ydt/rss.xml
+Jamie Foxx	https://feeds.bbci.co.uk/news/topics/c62r52p1pket/rss.xml
+K-pop	https://feeds.bbci.co.uk/news/topics/c82dl119le7t/rss.xml
+Lana Del Rey	https://feeds.bbci.co.uk/news/topics/crgm752rwggt/rss.xml
+Liam Gallagher	https://feeds.bbci.co.uk/news/topics/c4w49pvqww3t/rss.xml
+life	https://feeds.bbci.co.uk/news/topics/cn1rn5m78egt/rss.xml
+lifestyle	https://feeds.bbci.co.uk/news/topics/cqeer179r4vt/rss.xml
+music	https://feeds.bbci.co.uk/news/topics/cz4pr2gd872t/rss.xml
+poetry	https://feeds.bbci.co.uk/news/topics/ck58xg8p9k5t/rss.xml
+Princess Beatrice	https://feeds.bbci.co.uk/news/topics/cml9kkqnq60t/rss.xml
+Princess Eugenie	https://feeds.bbci.co.uk/news/topics/ck39z2vymzwt/rss.xml
+psychology	https://feeds.bbci.co.uk/news/topics/cz4pr2gdge5t/rss.xml
+Quizzes of the Week	https://feeds.bbci.co.uk/news/topics/crxd18199v9t/rss.xml
+Sarah Ferguson, Duchess of York	https://feeds.bbci.co.uk/news/topics/c8yey8n8yz4t/rss.xml
+students	https://feeds.bbci.co.uk/news/topics/cmmqx9w8k5wt/rss.xml
+travel	https://feeds.bbci.co.uk/news/topics/c5vz82vqnr1t/rss.xml
+Uplifting stories	https://feeds.bbci.co.uk/news/topics/cx2pk70323et/rss.xml
+World War Two	https://feeds.bbci.co.uk/news/topics/cz5jl9e9091t/rss.xml
+Janet Yellen	https://feeds.bbci.co.uk/news/topics/cvnk3p2p53mt/rss.xml
+Jerome Powell	https://feeds.bbci.co.uk/news/topics/c5r37pn50l2t/rss.xml
+US Federal Reserve	https://feeds.bbci.co.uk/news/topics/c50znx8v4qet/rss.xml
+broadband	https://feeds.bbci.co.uk/news/topics/cvenzmgylewt/rss.xml
+deepfakes	https://feeds.bbci.co.uk/news/topics/crm5plqk980t/rss.xml
+information technology	https://feeds.bbci.co.uk/news/topics/cwvm77pxm9wt/rss.xml
+Internet	https://feeds.bbci.co.uk/news/topics/cywd23g0gd5t/rss.xml
+social media	https://feeds.bbci.co.uk/news/topics/c207p54m4pdt/rss.xml
+space	https://feeds.bbci.co.uk/news/topics/cml9e982d1dt/rss.xml
+space exploration	https://feeds.bbci.co.uk/news/topics/cvenzmgyww4t/rss.xml
+technology	https://feeds.bbci.co.uk/news/technology/rss.xml
+Air travel	https://feeds.bbci.co.uk/news/topics/crz4004j5zet/rss.xml
+Apple	https://feeds.bbci.co.uk/news/topics/crr7mlg0gqqt/rss.xml
+business	https://feeds.bbci.co.uk/news/business/rss.xml
+companies	https://feeds.bbci.co.uk/news/business/companies/rss.xml
+economy	https://feeds.bbci.co.uk/news/business/economy/rss.xml
+economy : France	https://feeds.bbci.co.uk/news/topics/cr0890k752et/rss.xml
+economy : United Kingdom	https://feeds.bbci.co.uk/news/topics/clm1wxp5378t/rss.xml
+economy : United States	https://feeds.bbci.co.uk/news/topics/c1038wnxypvt/rss.xml
+FTSE 100	https://feeds.bbci.co.uk/news/topics/c9qdqqkgz27t/rss.xml
+housing market	https://feeds.bbci.co.uk/news/topics/cdl8n2edgj5t/rss.xml
+International Business	https://feeds.bbci.co.uk/news/topics/c4nrdv135zet/rss.xml
+JD Sports	https://feeds.bbci.co.uk/news/topics/cpd6nj989nmt/rss.xml
+manufacturing	https://feeds.bbci.co.uk/news/topics/c0repy5vn95t/rss.xml
+Meta	https://feeds.bbci.co.uk/news/topics/cm1rm9z259kt/rss.xml
+mining	https://feeds.bbci.co.uk/news/topics/cp3mvp0jk5gt/rss.xml
+oil	https://feeds.bbci.co.uk/news/topics/cmjpj223708t/rss.xml
+TikTok	https://feeds.bbci.co.uk/news/topics/c255806071xt/rss.xml
+tourism	https://feeds.bbci.co.uk/news/topics/c0eledl9rlmt/rss.xml
+Trump tariffs	https://feeds.bbci.co.uk/news/topics/c9vwxgl4p0dt/rss.xml
+World of Business	https://feeds.bbci.co.uk/news/topics/c4gmdg9ne38t/rss.xml

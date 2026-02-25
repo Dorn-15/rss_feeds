@@ -1,0 +1,530 @@
+{
+  "company": "Le Figaro",
+  "host": "www.lefigaro.fr",
+  "img": "Le_Figaro.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "title": "à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_elections.xml",
+      "title": "élections",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "title": "actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_arts-expositions.xml",
+      "title": "arts expositions",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_assurance.xml",
+      "title": "assurance",
+      "tags": [
+        "economie",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_automobile.xml",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_bd.xml",
+      "title": "bande dessinée",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_basket.xml",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_bourse.xml",
+      "title": "bourse",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_cinema.xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_conjoncture.xml",
+      "title": "conjoncture",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_conso.xml",
+      "title": "consommation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_culture.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_cyclisme.xml",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_decideurs.xml",
+      "title": "décideurs",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_emploi.xml",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_societes.xml",
+      "title": "entreprise",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_faits-divers.xml",
+      "title": "faits divers",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_finances-perso.xml",
+      "title": "finances perso",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_flash-eco.xml",
+      "title": "flash économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_flash-actu.xml",
+      "title": "flash actu",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_football.xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_football-transfert.xml",
+      "title": "football : transferts",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_formule-1.xml",
+      "title": "formule 1",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_gastronomie.xml",
+      "title": "gastronomie",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/golf_flash.xml",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_handball.xml",
+      "title": "hanball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_histoire.xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_horlogerie.xml",
+      "title": "horlogerie",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_immobilier.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_impots.xml",
+      "title": "impôts",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_industrie-mode.xml",
+      "title": "industrie de la mode",
+      "tags": [
+        "economie",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_jardin.xml",
+      "title": "jardin",
+      "tags": [
+        "environnement",
+        "jardin"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_jeux-olympiques.xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_langue-francaise.xml",
+      "title": "langue française",
+      "tags": [
+        "culture",
+        "linguistique"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_politique_le-scan.xml",
+      "title": "Le scan politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_lifestyle.xml",
+      "title": "lifestyle",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_livres.xml",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_medias.xml",
+      "title": "média et publicité",
+      "tags": [
+        "economie",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/madame.xml",
+      "title": "madame",
+      "tags": [
+        "culture",
+        "feminin"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml",
+      "title": "magazine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
+      "title": "mode homme",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_musique.xml",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_photos.xml",
+      "title": "photo",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_placement.xml",
+      "title": "placement",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_politique.xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_retraite.xml",
+      "title": "retraite",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_rugby.xml",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_sciences.xml",
+      "title": "sciences et environnement",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
+      "title": "société",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_sortir-paris.xml",
+      "title": "Sortir à Paris",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_sport.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_style.xml",
+      "title": "style",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
+      "title": "tech et web",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_tennis.xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_theatre.xml",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/tvmag.xml",
+      "title": "TV mag",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_videos.xml",
+      "title": "vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_vins.xml",
+      "title": "vins",
+      "tags": [
+        "culture",
+        "viniculture"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_voile.xml",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_vox.xml",
+      "title": "Vox",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lefigaro.fr/rss/figaro_voyages.xml",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    }
+  ]
+}

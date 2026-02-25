@@ -1,0 +1,1850 @@
+{
+  "company": "L'Humanité",
+  "host": "www.humanite.fr",
+  "img": "L_Humanite.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.humanite.fr/mot-cle/france-travail/feed",
+      "title": "France Travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/education-nationale/feed",
+      "title": "éducation nationale",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/egalite-femmes-hommes/feed",
+      "title": "égalité femmes hommes",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/egypte/feed",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/emirats-arabes-unis/feed",
+      "title": "Émirats arabes unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/energie/feed",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/etats-unis/feed",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/ile-de-france/feed",
+      "title": "Île-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/2e-guerre-mondiale/feed",
+      "title": "2e guerre mondiale",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/afrique/feed",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/agriculture/feed",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/albanie/feed",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/algerie/feed",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/allemagne/feed",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/amerique-latine/feed",
+      "title": "Amérique latine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/arabie-saoudite/feed",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/archeologie/feed",
+      "title": "archéologie",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/argentine/feed",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/armenie/feed",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/arte/feed",
+      "title": "Arte",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/asie/feed",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/assurance-chomage/feed",
+      "title": "assurance chômage",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/astrophysique/feed",
+      "title": "astrophysique",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/athletisme/feed",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/auchan/feed",
+      "title": "Auchan",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/autriche/feed",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/auvergne-rhone-alpes/feed",
+      "title": "Auvergne-Rhône-Alpes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/aviation/feed",
+      "title": "aviation",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/azawad/feed",
+      "title": "Azawad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/azerbaidjan/feed",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/banlieue-et-quartiers-populaires/feed",
+      "title": "banlieue et quartiers populaires",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/basket/feed",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/belgique/feed",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bien-etre/feed",
+      "title": "bien être",
+      "tags": [
+        "culture",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/biodiversite/feed",
+      "title": "biodiversité",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/birmanie/feed",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bitcoin/feed",
+      "title": "bitcoin",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bon-et-sain/feed",
+      "title": "bon et sain",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bosnie-herzegovine/feed",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bourgogne-franche-comte/feed",
+      "title": "Bourgogne-Franche-Comté",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/boxe/feed",
+      "title": "boxe",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bresil/feed",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/bretagne/feed",
+      "title": "Bretagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/budget/feed",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/cambodge/feed",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/chili/feed",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/chine/feed",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/cinema/feed",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/climat/feed",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/coree-du-sud/feed",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/corse/feed",
+      "title": "Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/culture-et-savoir/feed",
+      "title": "culture et savoir",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/cyberattaque/feed",
+      "title": "cyberattaque",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/cybercriminalite/feed",
+      "title": "cybercriminalité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/cyclisme/feed",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/tour-de-france/feed",
+      "title": "cyclisme : tour de france",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/deces/feed",
+      "title": "décès",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/decouverte/feed",
+      "title": "découverte",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/danemark/feed",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/documentaire/feed",
+      "title": "documentaire",
+      "tags": [
+        "cite",
+        "documentaire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/donald-trump/feed",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/droit-a-lavortement/feed",
+      "title": "droit à l'avortement",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/droit-du-travail/feed",
+      "title": "droit du travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/droits-des-femmes/feed",
+      "title": "droits des femmes",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/emmanuel-macron/feed",
+      "title": "Emmanuel Macron",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/emploi/feed",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/en-debat/feed",
+      "title": "en débat",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/entreprise/feed",
+      "title": "entreprise",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/entretiens/feed",
+      "title": "entretiens",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/environnement/feed",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/espagne/feed",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/estonie/feed",
+      "title": "Estonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/exiles/feed",
+      "title": "exilés",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/expositions/feed",
+      "title": "expositions",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/extreme-droite/feed",
+      "title": "extrême-droite",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/feminisme/feed",
+      "title": "féminisme",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/fonctionnaires/feed",
+      "title": "fonctionnaires",
+      "tags": [
+        "politique",
+        "administration"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/football/feed",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/generation-climat/feed",
+      "title": "génération climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/georgie/feed",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/gabon/feed",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/giec/feed",
+      "title": "GIEC",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/gouvernement/feed",
+      "title": "gouvernement",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/grece/feed",
+      "title": "Grèce",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/grand-est/feed",
+      "title": "Grand Est",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/guadeloupe/feed",
+      "title": "Guadeloupe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/guerre-dalgerie/feed",
+      "title": "guerre d'Algérie",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/guillaume-meurice/feed",
+      "title": "Guillaume Meurice",
+      "tags": [
+        "cite",
+        "humour"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/gymnastique/feed",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/haiti/feed",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/handball/feed",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/hauts-de-france/feed",
+      "title": "Hauts-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/histoire/feed",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/hong-kong/feed",
+      "title": "Hong Kong",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/hongrie/feed",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/inde/feed",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/internet/feed",
+      "title": "internet",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/irak/feed",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/iran/feed",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/irlande/feed",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/islande/feed",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/israel/feed",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/italie/feed",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/japon/feed",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/jeffrey-epstein/feed",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/jeunesse/feed",
+      "title": "jeunesse",
+      "tags": [
+        "culture",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/jeux-olympiques/feed",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/jeux-video/feed",
+      "title": "jeux vidéo",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/jordan-bardella/feed",
+      "title": "Jordan Bardella",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/judo/feed",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/justice/feed",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/justice-climatique/feed",
+      "title": "justice climatique",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/koweit/feed",
+      "title": "Koweït",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/la-chronique-de-charlotte-recoquillon/feed",
+      "title": "La chronique de Charlotte Recoquillon",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/la-chronique-de-cynthia-fleury/feed",
+      "title": "La chronique de Cynthia Fleury",
+      "tags": [
+        "culture",
+        "philosophie"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/la-chronique-feministe-de-violaine-de-filippis-abate/feed",
+      "title": "La chronique féministe de Violaine de Filippis Abate",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/la-reunion/feed",
+      "title": "La Réunion",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/le-billet-de-maurice-ulrich/feed",
+      "title": "Le billet de Maurice Ulrich",
+      "tags": [
+        "cite",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/le-billet-du-dr-christophe-prudhomme/feed",
+      "title": "Le billet du Dr Christophe Prudhomme",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/france-insoumise/feed",
+      "title": "LFI - La France Insoumise",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/liban/feed",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/libye/feed",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/lille/feed",
+      "title": "Lille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/litterature/feed",
+      "title": "littérature",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/livres/feed",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/logement/feed",
+      "title": "logement",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/les-republicains/feed",
+      "title": "LR - Les Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/lyon/feed",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/medias/feed",
+      "title": "médias",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/madagascar/feed",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/malaisie/feed",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/manga/feed",
+      "title": "manga",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/maroc/feed",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/marseille/feed",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/la-martinique/feed",
+      "title": "Martinique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/mathematiques/feed",
+      "title": "mathématiques",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/mauritanie/feed",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/metoo/feed",
+      "title": "metoo",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/mexique/feed",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/migrants/feed",
+      "title": "migrants",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/moldavie/feed",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/monde/feed",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/montpellier/feed",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/moyen-orient/feed",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/musique/feed",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nepal/feed",
+      "title": "Népal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/natation/feed",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nations-unies/feed",
+      "title": "Nations Unies",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nouveau-front-populaire/feed",
+      "title": "NFP - Nouveau Front Populaire",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nice/feed",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nigeria/feed",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/normandie/feed",
+      "title": "Normandie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nouvelle-aquitaine/feed",
+      "title": "Nouvelle-Aquitaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/nouvelle-zelande/feed",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/numerique/feed",
+      "title": "numérique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/occitanie/feed",
+      "title": "Occitanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/oman/feed",
+      "title": "Oman",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/outre-mer/feed",
+      "title": "Outre-mer",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/perou/feed",
+      "title": "Pérou",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/palestine/feed",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/gaza/feed",
+      "title": "Palestine : Gaza",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/paris/feed",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/parite/feed",
+      "title": "parité",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/parti-republicain/feed",
+      "title": "Parti républicain",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/parti-socialiste/feed",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/pays-de-loire/feed",
+      "title": "Pays de la Loire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/pays-bas/feed",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/pcf/feed",
+      "title": "PCF - Parti Communiste Français",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/physique/feed",
+      "title": "physique",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/politique/feed",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/pollution/feed",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/pologne/feed",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/portugal/feed",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/presse-ecrite/feed",
+      "title": "presse écrite",
+      "tags": [
+        "general",
+        "revue_de_presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/provence-alpes-cote-dazur/feed",
+      "title": "Provence-Alpes-Côte d'Azur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/qatar/feed",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/resistance/feed",
+      "title": "résistance",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/revelations-humanite/feed",
+      "title": "révélations Humanité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/rassemblement-national/feed",
+      "title": "Rassemblement National",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/larem-renaissance/feed",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/roumanie/feed",
+      "title": "Roumanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/royaume-uni/feed",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/rugby/feed",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/russie/feed",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/rwanda/feed",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/senegal/feed",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/series-televisees/feed",
+      "title": "séries télévisées",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/salaires-et-pouvoir-dachat/feed",
+      "title": "salaires et pouvoir d'achat",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sante/feed",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sciences/feed",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sciences-humaines/feed",
+      "title": "sciences humaines",
+      "tags": [
+        "culture",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sierra-leone/feed",
+      "title": "Sierra Leone",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/singapour/feed",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/ski/feed",
+      "title": "ski",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/societe/feed",
+      "title": "société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/social-et-economie/feed",
+      "title": "social et économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/solidarite/feed",
+      "title": "solidarité",
+      "tags": [
+        "cite",
+        "caritatif"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sondages/feed",
+      "title": "sondages",
+      "tags": [
+        "politique",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/soudan/feed",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/spectacle-vivant/feed",
+      "title": "spectacle vivant",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/sports/feed",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sport-amateur/feed",
+      "title": "sport amateur",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/sri-lanka/feed",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/suede/feed",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/suisse/feed",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/syndicats/feed",
+      "title": "syndicats",
+      "tags": [
+        "politique",
+        "syndicat"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/syrie/feed",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/television/feed",
+      "title": "télévision",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/taiwan/feed",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/tchad/feed",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/theatre/feed",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/thailande/feed",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/togo/feed",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/feed",
+      "title": "toute l'actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/tribunes/feed",
+      "title": "tribunes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/tunisie/feed",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/turquie/feed",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/ukraine/feed",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/guerre-en-ukraine/feed",
+      "title": "Ukraine : guerre en Ukraine",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/un-jour-avec/feed",
+      "title": "un jour avec",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/union-europeenne/feed",
+      "title": "Union-Européenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/uruguay/feed",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/venezuela/feed",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/sections/vie-quotidienne/feed",
+      "title": "vie quotidienne",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/violences-faites-aux-femmes/feed",
+      "title": "violences faites aux femmes",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/violences-policieres/feed",
+      "title": "violences policière",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/voile/feed",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/volley-ball/feed",
+      "title": "volley-ball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/vos-droits/feed",
+      "title": "vos droits",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.humanite.fr/mot-cle/yemen/feed",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

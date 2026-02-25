@@ -1,0 +1,2162 @@
+{
+  "company": "France24",
+  "host": "www.france24.com",
+  "img": "France24.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-laffiche/podcast",
+      "title": "À l'affiche : podcast",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-laffiche/rss",
+      "title": "À l'affiche : vidéo",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/rss",
+      "title": "à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9conomie/rss",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/rss",
+      "title": "économie tech",
+      "tags": [
+        "economie",
+        "technologie"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9gypte/rss",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9rythr%C3%A9e/rss",
+      "title": "Érythrée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9tats-unis/rss",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9thiopie/rss",
+      "title": "Éthiopie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%AEle-maurice/rss",
+      "title": "Île Maurice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/podcast",
+      "title": "ActuELLES : podcast",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/rss",
+      "title": "ActuELLES : vidéo",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/afghanistan/rss",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/afrique/rss",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/albanie/rss",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/alg%C3%A9rie/rss",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/allemagne/rss",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/am%C3%A9riques/rss",
+      "title": "Amérique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/angola/rss",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/arabie-saoudite/rss",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/argentine/rss",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/arm%C3%A9nie/rss",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/art/rss",
+      "title": "art",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/asie-pacifique/rss",
+      "title": "Asie Pacifique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/assassinat-de-jfk/rss",
+      "title": "Assassinat de JFK",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/athl%C3%A9tisme/rss",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/podcast",
+      "title": "Au coeur de l'info - l'invité : podcast",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/rss",
+      "title": "Au coeur de l'info - l'invité : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/australie/rss",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/autriche/rss",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/europe-%C3%A9tats/rss",
+      "title": "Aux 4 coins de l'Europe : vidéo",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/azerba%C3%AFdjan/rss",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/b%C3%A9nin/rss",
+      "title": "Bénin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/banques/rss",
+      "title": "banques",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/basket-ball/rss",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/belgique/rss",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/billet-retour/podcast",
+      "title": "Billet retour : podcast",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/billet-retour/rss",
+      "title": "Billet retour : vidéo",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/birmanie/rss",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/bolivie/rss",
+      "title": "Bolivie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/bosnie-herz%C3%A9govine/rss",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/botswana/rss",
+      "title": "Botswana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/bourses/rss",
+      "title": "bourses",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/boxe/rss",
+      "title": "boxe",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/bretagne/rss",
+      "title": "Bretagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/c%C3%B4te-d-ivoire/rss",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cachemire/rss",
+      "title": "Cachemire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cambodge/rss",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cameroun/rss",
+      "title": "Cameroun",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/canada/rss",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cap-vert/rss",
+      "title": "Cap-Vert",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/capture-de-nicolas-maduro/rss",
+      "title": "Capture de Nicolas Maduro",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/caucase/rss",
+      "title": "Caucase",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/centrafrique/rss",
+      "title": "Centrafrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/chili/rss",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/chine/rss",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/%C3%A9conomie-chinoise/rss",
+      "title": "Chine : économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/chypre/rss",
+      "title": "Chypre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cin%C3%A9ma/rss",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/colombie/rss",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/commerce/rss",
+      "title": "commerce",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/comores/rss",
+      "title": "Comores",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/conflit-isra%C3%A9lo-palestinien/rss",
+      "title": "conflit israélo-palestinien",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cor%C3%A9e-du-nord/rss",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cor%C3%A9e-du-sud/rss",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/corse/rss",
+      "title": "Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/costa-rica/rss",
+      "title": "Costa Rica",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/croatie/rss",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cryptomonnaie/rss",
+      "title": "cryptomonnaie",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cuba/rss",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/culture/rss",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cybers%C3%A9curit%C3%A9/rss",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/cyclisme/rss",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/danemark/rss",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/discrimination/rss",
+      "title": "discrimination",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/djibouti/rss",
+      "title": "Djibouti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/donald-trump/rss",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/elon-musk/rss",
+      "title": "Elon Musk",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/emmanuel-macron/rss",
+      "title": "Emmanuel Macron",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/environnement//rss",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/espace/rss",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/espagne/rss",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/estonie/rss",
+      "title": "Estonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/eswatini/rss",
+      "title": "Eswatini",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/europe/rss",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/fidji/rss",
+      "title": "Fidji",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/focus/podcast",
+      "title": "Focus : podcast",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/focus/rss",
+      "title": "Focus : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/football/rss",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/fran%C3%A7ois-ruffin/rss",
+      "title": "François Ruffin",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/g%C3%A9orgie/rss",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/gabon/rss",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/google/rss",
+      "title": "Google",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/greta-thunberg/rss",
+      "title": "Greta Thunberg",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/groenland/rss",
+      "title": "Groenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/guadeloupe/rss",
+      "title": "Guadeloupe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/guatemala/rss",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/guin%C3%A9e-bissau/rss",
+      "title": "Guinée-Bissau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/guyana/rss",
+      "title": "Guyana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/guyane/rss",
+      "title": "Guyane",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/gymnastique/rss",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ha%C3%AFti/rss",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/handball/rss",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/histoire/rss",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/honduras/rss",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/hongrie/rss",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ice/rss",
+      "title": "ICE",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/immigration/rss",
+      "title": "immigration",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/immobilier/rss",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/inde/rss",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/indon%C3%A9sie/rss",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/inflation/rss",
+      "title": "inflation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/intelligence-artificielle/rss",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/irak/rss",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/iran/rss",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/irlande/rss",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/islande/rss",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/isra%C3%ABl/rss",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/italie/rss",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/japon/rss",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/jeffrey-epstein/rss",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/jeux-olympiques-jo-paris-2024/rss",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/jo-2026/rss",
+      "title": "JO 2026",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/jordanie/rss",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/judo/rss",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/kazakhstan/rss",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/kenya/rss",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/kowe%C3%AFt/rss",
+      "title": "Koweït",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/podcast",
+      "title": "Légendes urbaines : podcast",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/rss",
+      "title": "Légendes urbaines : vidéo",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/entretien-intelligence-%C3%A9conomique/podcast",
+      "title": "L'Entretien de l'intelligence économique : podcast",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/entretien-intelligence-%C3%A9conomique/rss",
+      "title": "L'Entretien de l'intelligence économique : vidéo",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/l-instant-positif/rss",
+      "title": "L'instant positif",
+      "tags": [
+        "cite",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/invit%C3%A9-%C3%A9co/podcast",
+      "title": "L'invité de l'éco : podcast",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/invit%C3%A9-%C3%A9co/rss",
+      "title": "L'invité de l'éco : vidéo",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/semaine-%C3%A9co/podcast",
+      "title": "La semaine de l'éco : podcast",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/semaine-%C3%A9co/rss",
+      "title": "La semaine de l'éco : vidéo",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/la-semaine-en-images/rss",
+      "title": "La semaine en images",
+      "tags": [
+        "general",
+        "photo"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/podcast",
+      "title": "Le café des sports : podcast",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/rss",
+      "title": "Le café des sports : vidéo",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/d%C3%A9bat/podcast",
+      "title": "Le débat : podcast",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/d%C3%A9bat/rss",
+      "title": "Le débat : vidéo",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/monde-%C3%A9tats/podcast",
+      "title": "Le monde dans tous ses États : podcast",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/monde-%C3%A9tats/rss",
+      "title": "Le monde dans tous ses États : vidéo",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/paris-arts/podcast",
+      "title": "Le Paris des arts : podcast",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/paris-arts/rss",
+      "title": "Le Paris des arts : vidéo",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/lesotho/rss",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/lettonie/rss",
+      "title": "Lettonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/liberia/rss",
+      "title": "Libéria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/liban/rss",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/libye/rss",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/liechtenstein/rss",
+      "title": "Liechtenstein",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/lituanie/rss",
+      "title": "Lituanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/loi-duplomb/rss",
+      "title": "Loi Duplomb",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/luxembourg/rss",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/lyon/rss",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mac%C3%A9doine-du-nord/rss",
+      "title": "Macédoine du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/madagascar/rss",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/maghreb/rss",
+      "title": "Maghreb",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/malaisie/rss",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/malawi/rss",
+      "title": "Malawi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/maldives/rss",
+      "title": "Maldives",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mali/rss",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/malte/rss",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mark-carney/rss",
+      "title": "Mark Carney",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/maroc/rss",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/marseille/rss",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/martinique/rss",
+      "title": "Martinique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mauritanie/rss",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mercosur/rss",
+      "title": "MERCOSUR",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mexique/rss",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/michel-barnier/rss",
+      "title": "Michel Barnier",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/mode/podcast",
+      "title": "Mode : podcast",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/mode/rss",
+      "title": "Mode : vidéo",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/moldavie/rss",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/environnement/rss",
+      "title": "monde : environnement",
+      "tags": [
+        "environnement",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/montpellier-h%C3%A9rault-sc/rss",
+      "title": "Montpellier SC",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/moyen-orient/rss",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/mozambique/rss",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/musique/rss",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/n%C3%A9pal/rss",
+      "title": "Népal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/namibie/rss",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/natation/rss",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/nicaragua/rss",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/nice/rss",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/nigeria/rss",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/norv%C3%A8ge/rss",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/nouvelle-z%C3%A9lande/rss",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/oman/rss",
+      "title": "Oman",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/onu/rss",
+      "title": "ONU - Organisation des Nations Unies",
+      "tags": [
+        "cite",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/otan/rss",
+      "title": "OTAN",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ouganda/rss",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/podcast",
+      "title": "Outre-Mer",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ouzb%C3%A9kistan/rss",
+      "title": "Ouzbékistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ovni/rss",
+      "title": "ovni",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/pakistan/rss",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/panama/rss",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/paris/rss",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-invit%C3%A9s/podcast",
+      "title": "Parlons-en, les invités : podcast",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-invit%C3%A9s/rss",
+      "title": "Parlons-en, les invités : vidéo",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/parti-socialiste/rss",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/pays-bas/rss",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/philippines/rss",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/politique-fran%C3%A7aise/rss",
+      "title": "politique française",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/pologne/rss",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/portugal/rss",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/pour-aller-plus-loin/rss",
+      "title": "Pour aller plus loin",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/qatar/rss",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/r%C3%A9publique-dominicaine/rss",
+      "title": "République Dominicaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/r%C3%A9publique-tch%C3%A8que/rss",
+      "title": "République Tchèque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/r%C3%A9seaux-sociaux/rss",
+      "title": "réseaux sociaux",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/recherche/rss",
+      "title": "recherche",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/derni%C3%A8res-%C3%A9missions/rss",
+      "title": "replay : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/reportage-france-24/rss",
+      "title": "Reportage",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/revue-de-presse/rss",
+      "title": "Revue de presse",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/royaume-uni/rss",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/rugby/rss",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/russie/rss",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/rwanda/rss",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/s%C3%A9bastien-lecornu/rss",
+      "title": "Sébastien Lecornu",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/s%C3%A9n%C3%A9gal/rss",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/sahara-occidental/rss",
+      "title": "Sahara occidental",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/salvador/rss",
+      "title": "Salvador",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/sant%C3%A9/rss",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/sao-tome-e-principe/rss",
+      "title": "Sao Tomé-et-Principe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/serbie/rss",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/seychelles/rss",
+      "title": "Seychelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/sierra-leone/rss",
+      "title": "Sierra Leone",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/singapour/rss",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/slov%C3%A9nie/rss",
+      "title": "Slovénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/somalie/rss",
+      "title": "Somalie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/soudan/rss",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/soudan-du-sud/rss",
+      "title": "Soudan du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/sports/rss",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/sri-lanka/rss",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/su%C3%A8de/rss",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/suisse/rss",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/suriname/rss",
+      "title": "Suriname",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/syrie/rss",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ta%C3%AFwan/rss",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tanzanie/rss",
+      "title": "Tanzanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tch%C3%A9tch%C3%A9nie/rss",
+      "title": "Tchétchénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tchad/rss",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/tech24/podcast",
+      "title": "Tech 24 : podcast",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/Ã©missions/tech24/rss",
+      "title": "Tech24 : vidéo",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/technologie/rss",
+      "title": "technologie",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tennis/rss",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/territoires-palestiniens/rss",
+      "title": "territoires palestiniens",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/th%C3%A9%C3%A2tre/rss",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tha%C3%AFlande/rss",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tibet/rss",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/timor-oriental/rss",
+      "title": "Timor-Oriental",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/togo/rss",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/toulouse/rss",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/transnistrie/rss",
+      "title": "Transnistrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/trinit%C3%A9-et-tobago/rss",
+      "title": "Trinité-et-Tobago",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tunisie/rss",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/turquie/rss",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/tuvalu/rss",
+      "title": "Tuvalu",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/ukraine/rss",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/uruguay/rss",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/venezuela/rss",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/vid%C3%A9o/rss",
+      "title": "vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/vietnam/rss",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/podcast",
+      "title": "Vu de Russie : podcast",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/rss",
+      "title": "Vu de Russie : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/y%C3%A9men/rss",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/zambie/rss",
+      "title": "Zambie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/fr/tag/zimbabwe/rss",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

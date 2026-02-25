@@ -1,0 +1,1266 @@
+{
+  "company": "AGEFI",
+  "host": "www.agefi.fr",
+  "img": "AGEFI.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.agefi.fr/theme/economie.rss",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/editorial.rss",
+      "title": "éditorial",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/energie.rss",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/epargne.rss",
+      "title": "épargne",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/index.rss",
+      "title": "À la une",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/a-la-une-am.rss",
+      "title": "À la Une AM",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/news/economie-marches.rss",
+      "title": "économie marchés",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/etats-unis.rss",
+      "title": "États-Unis",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/aeronautique-defense.rss",
+      "title": "aéronautique - défense",
+      "tags": [
+        "economie",
+        "aviation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/activisme.rss",
+      "title": "activisme",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/affacturage.rss",
+      "title": "affacturage",
+      "tags": [
+        "economie",
+        "finance"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/allocation-dactifs.rss",
+      "title": "allocation d'actifs",
+      "tags": [
+        "economie",
+        "finance"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/amazon.rss",
+      "title": "Amazon",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/ambitions.rss",
+      "title": "Ambitions",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/amtechday.rss",
+      "title": "AMTech",
+      "tags": [
+        "economie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/apple.rss",
+      "title": "Apple",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/art.rss",
+      "title": "Art",
+      "tags": [
+        "economie",
+        "art"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/assurance.rss",
+      "title": "assurance",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/assurance-credit.rss",
+      "title": "assurance crédit",
+      "tags": [
+        "economie",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/assurance-emprunteur.rss",
+      "title": "assurance emprunteur",
+      "tags": [
+        "economie",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/assurance-vie.rss",
+      "title": "assurance vie",
+      "tags": [
+        "economie",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/automobile.rss",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/avocat.rss",
+      "title": "avocat",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/axa.rss",
+      "title": "Axa",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/banque.rss",
+      "title": "banque",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/news/banque-assurance.rss",
+      "title": "banque assurance",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/banque-centrale.rss",
+      "title": "banque centrale",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/banque-dinvestissement.rss",
+      "title": "banque d'investissement",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/banque-privee.rss",
+      "title": "banque privée",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/bce.rss",
+      "title": "BCE",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/biodiversite.rss",
+      "title": "biodiversité",
+      "tags": [
+        "economie",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/blackrock.rss",
+      "title": "BlackRock",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/blockchain.rss",
+      "title": "blockchain",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/bnp-paribas.rss",
+      "title": "BNP - Banque nationale de Paris Paribas",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/bpce.rss",
+      "title": "BPCE - Banque Populaire Caisse d'Épargne",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/btp.rss",
+      "title": "BTP",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/budget.rss",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/capital-investissement.rss",
+      "title": "capital investissement",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/conseiller-en-gestion-de-patrimoine.rss",
+      "title": "CGP",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/changes.rss",
+      "title": "changes",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/chine.rss",
+      "title": "Chine",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/climat.rss",
+      "title": "climat",
+      "tags": [
+        "economie",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/commerce.rss",
+      "title": "commerce",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/concurrence.rss",
+      "title": "concurrence",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/conformite.rss",
+      "title": "conformité",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/conseil.rss",
+      "title": "conseil",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/convictions-dinstit.rss",
+      "title": "convictions d'instit",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/courtage.rss",
+      "title": "courtage",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/covid-19.rss",
+      "title": "Covid-19",
+      "tags": [
+        "economie",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/credit.rss",
+      "title": "crédit",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/credit-a-la-consommation.rss",
+      "title": "crédit à la consommation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/credit-agricole.rss",
+      "title": "Crédit Agricole",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/amundi.rss",
+      "title": "Crédit Agricole : Amundi",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/credit-mutuel.rss",
+      "title": "Crédit Mutuel",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/crowdfunding.rss",
+      "title": "crowdfunding",
+      "tags": [
+        "economie",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/crypto.rss",
+      "title": "crypto",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/cyber.rss",
+      "title": "cyber",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/decryptage.rss",
+      "title": "décryptage",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/dette-publique.rss",
+      "title": "dette publique",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/distribution.rss",
+      "title": "distribution",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/droit.rss",
+      "title": "droit",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/edf.rss",
+      "title": "EDF",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/emploi.rss",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/engie.rss",
+      "title": "Engie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/news/entreprises.rss",
+      "title": "entreprises",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/esg.rss",
+      "title": "ESG",
+      "tags": [
+        "economie",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/etf.rss",
+      "title": "ETF",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/faillite-de-svb.rss",
+      "title": "Faillite de SVB",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/family-office.rss",
+      "title": "Family Office",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/reserve-federale.rss",
+      "title": "Fed",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/financement.rss",
+      "title": "financement",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fintech.rss",
+      "title": "Fintech",
+      "tags": [
+        "economie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fiscalite.rss",
+      "title": "fiscalité",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fonds.rss",
+      "title": "fonds",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fonds-de-pension.rss",
+      "title": "fonds de pension",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fonds-souverain.rss",
+      "title": "fonds souverain",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/forumesg.rss",
+      "title": "Forum ESG",
+      "tags": [
+        "economie",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/forumgi.rss",
+      "title": "Forum Instit",
+      "tags": [
+        "economie",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/france.rss",
+      "title": "France",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fraude.rss",
+      "title": "fraude",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/fusions-acquisitions.rss",
+      "title": "fusions-acquisitions",
+      "tags": [
+        "economie",
+        "netrprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/gestion-dactifs.rss",
+      "title": "Gestion d'actifs",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/gestion-de-fortune.rss",
+      "title": "Gestion de fortune",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/goldman-sachs.rss",
+      "title": "Goldman Sachs",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/google.rss",
+      "title": "Google",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/gouvernance.rss",
+      "title": "Gouvernance",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/grand-angle.rss",
+      "title": "Grand angle",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/h2o.rss",
+      "title": "H2O",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/hedge-funds.rss",
+      "title": "Hedge funds",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/ia.rss",
+      "title": "IA",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/immobilier/*.rss",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/indices.rss",
+      "title": "indices",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/industrie.rss",
+      "title": "industrie",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/inflation-et-deflation.rss",
+      "title": "inflation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/infrastructures.rss",
+      "title": "infrastructures",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/introduction-en-bourse.rss",
+      "title": "Introduction en Bourse",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/investissement.rss",
+      "title": "investissement",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/japon.rss",
+      "title": "Japon",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/jni.rss",
+      "title": "JNI",
+      "tags": [
+        "economie",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/jpmorgan.rss",
+      "title": "JPMorgan",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/lbo.rss",
+      "title": "LBO",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/leasing.rss",
+      "title": "leasing",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/interview-am.rss",
+      "title": "Les Voix de la gestion",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/luxe.rss",
+      "title": "luxe",
+      "tags": [
+        "economie",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/medias.rss",
+      "title": "médias",
+      "tags": [
+        "economie",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/marche-monetaire.rss",
+      "title": "marché monétaire",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/marches-actions.rss",
+      "title": "marchés actions",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/marches-obligataires.rss",
+      "title": "marchés obligataires",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/marches-de-matieres-premieres.rss",
+      "title": "matières premières",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/nominations.rss",
+      "title": "nominations",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/notaires.rss",
+      "title": "notaires",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/agences-de-notation.rss",
+      "title": "notation",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/numerique.rss",
+      "title": "numérique",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/operateurs-de-marche.rss",
+      "title": "opérateurs de marché",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/opa-ope.rss",
+      "title": "OPA-OPE",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/or-et-metaux-precieux.rss",
+      "title": "or et métaux précieux",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/petrole.rss",
+      "title": "pétrole",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/paiement.rss",
+      "title": "paiement",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/panels-agefi.rss",
+      "title": "Panels Agefi",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/patrimoine-online.rss",
+      "title": "patrimoine online",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/pays-emergents.rss",
+      "title": "Pays émergents",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/pe-france.rss",
+      "title": "PE France",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/per.rss",
+      "title": "PER",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/pharmacie.rss",
+      "title": "pharmacie",
+      "tags": [
+        "economie",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/pierre-papier.rss",
+      "title": "Pierre papier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/place-financiere-de-paris.rss",
+      "title": "Place de Paris",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/politique.rss",
+      "title": "politique",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/post-marche.rss",
+      "title": "Post-marché",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/prevoyance.rss",
+      "title": "prévoyance",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/private-equity-1.rss",
+      "title": "Private Equity",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/produits-derives.rss",
+      "title": "produits dérivés",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/push.rss",
+      "title": "Push",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/reglementation.rss",
+      "title": "réglementation",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/remuneration.rss",
+      "title": "rémunération",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/reassurance.rss",
+      "title": "réassurance",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/resultats-financiers.rss",
+      "title": "résultats",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/rachats-dactions.rss",
+      "title": "rachats d'actions",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/renault.rss",
+      "title": "Renault",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/restructurations.rss",
+      "title": "restructurations",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/retraite.rss",
+      "title": "retraite",
+      "tags": [
+        "economie",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/royaume-uni.rss",
+      "title": "Royaume-Uni",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/societe-generale.rss",
+      "title": "Société Générale",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/start-up.rss",
+      "title": "Start-up",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/succession.rss",
+      "title": "succession",
+      "tags": [
+        "economie",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/telecoms.rss",
+      "title": "télécoms",
+      "tags": [
+        "economie",
+        "reseau"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/talent-for-finance.rss",
+      "title": "Talent for Finance",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/news/tech-finance.rss",
+      "title": "tech finance",
+      "tags": [
+        "economie",
+        "technologie"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/tesla.rss",
+      "title": "Tesla",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/titrisation.rss",
+      "title": "titrisation",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/totalenergies.rss",
+      "title": "TotalEnergies",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/tresorerie.rss",
+      "title": "trésorerie",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/transport.rss",
+      "title": "transport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/tribunes.rss",
+      "title": "tribunes",
+      "tags": [
+        "economie",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/union-europeenne.rss",
+      "title": "Union Européenne",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/universwiftnet.rss",
+      "title": "Universwiftnet",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/utilities.rss",
+      "title": "utilities",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.agefi.fr/theme/zone-euro.rss",
+      "title": "Zone euro",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "company": "L'Indépendant",
+  "host": "www.lindependant.fr",
+  "img": "L_Independant.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.lindependant.fr/rss.xml",
+      "title": "home",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/rss.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/education/rss.xml",
+      "title": "éducation",
+      "tags": [
+        "cite",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/energie/rss.xml",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/agriculture/rss.xml",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/argeles-sur-mer/rss.xml",
+      "title": "Argelès-sur-Mer",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/arts-martiaux/rss.xml",
+      "title": "arts martiaux",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/athletisme/rss.xml",
+      "title": "athlétisme",
+      "tags": [
+        "general",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/rss.xml",
+      "title": "Aude",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/auto-moto/rss.xml",
+      "title": "auto-moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/balades-et-randonnees/rss.xml",
+      "title": "balades et randonnées",
+      "tags": [
+        "environnement",
+        "montagne"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/basket/rss.xml",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/sport-boules/rss.xml",
+      "title": "boules",
+      "tags": [
+        "sport",
+        "petanque"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/boxe/rss.xml",
+      "title": "boxe",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/ceret/rss.xml",
+      "title": "Céret",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/carcassonne/rss.xml",
+      "title": "Carcassonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/castelnaudary/rss.xml",
+      "title": "Castelnaudary",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/communes/catalogne/rss.xml",
+      "title": "Catalogne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/cinema/rss.xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/solutions/comment-mieux-vivre-ensemble/rss.xml",
+      "title": "Comment mieux vivre ensemble ?",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/solutions/comment-se-preparer-au-changement-climatique/rss.xml",
+      "title": "Comment se préparer au changement climatique ?",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/commerce/rss.xml",
+      "title": "commerce",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/conditions-de-circulation/rss.xml",
+      "title": "conditions de circulation",
+      "tags": [
+        "cite",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/course-a-pied/rss.xml",
+      "title": "course à pied",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/rss.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/cyclisme/rss.xml",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/personnalites/donald-trump/rss.xml",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/environnement/rss.xml",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/expositions/rss.xml",
+      "title": "expositions",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/ferias/rss.xml",
+      "title": "férias",
+      "tags": [
+        "culture",
+        "evenement"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/fetes-et-festivals/rss.xml",
+      "title": "fêtes et festivals",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/faits-divers/rss.xml",
+      "title": "faits divers",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/foires-et-salons/rss.xml",
+      "title": "Foires et salons",
+      "tags": [
+        "culture",
+        "evenement"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/football/rss.xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/patrimoine/chateaux-cathares/rss.xml",
+      "title": "Forteresses royales du Languedoc",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/gastronomie-et-terroir/rss.xml",
+      "title": "gastronomie et terroir",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/grands-sites/rss.xml",
+      "title": "Grands sites",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/international/guerre-en-ukraine/rss.xml",
+      "title": "guerre en Ukraine",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/handball/rss.xml",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/innovation-high-tech/rss.xml",
+      "title": "hi-tech",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/idees-de-sorties/rss.xml",
+      "title": "idées de sorties",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/immobilier/rss.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/insolite/rss.xml",
+      "title": "insolite",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/intemperies/rss.xml",
+      "title": "intempéries",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/international/rss.xml",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/jeux-olympiques/rss.xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/justice/rss.xml",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/lezignan-corbieres/rss.xml",
+      "title": "Lézignan-Corbières",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/le-petit-train-jaune/rss.xml",
+      "title": "Le petit train jaune",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/collections/series/les-catalans-qui-gagnent/rss.xml",
+      "title": "Les Catalans qui gagnent",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/football/ligue-1/rss.xml",
+      "title": "Ligue 1",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/limoux/rss.xml",
+      "title": "Limoux",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/livres-bandes-dessinees/rss.xml",
+      "title": "livres bandes dessinées",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/meteo/rss.xml",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/communes/marseille/rss.xml",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/communes/montpellier/rss.xml",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/elections/municipales/rss.xml",
+      "title": "municipales 2026",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/narbonne/rss.xml",
+      "title": "Narbonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/natation/rss.xml",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/patrimoine/rss.xml",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/divertissement/people/rss.xml",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/perpignan/rss.xml",
+      "title": "Perpignan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/politique/rss.xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/aude/port-la-nouvelle/rss.xml",
+      "title": "Port-la-Nouvelle",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/prades/rss.xml",
+      "title": "Prades",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/rss.xml",
+      "title": "Pyrénées Orientales",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-vii/rss.xml",
+      "title": "rugby à VII",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xiii/rss.xml",
+      "title": "rugby à XIII",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xiii/super-league/rss.xml",
+      "title": "rugby à XIII : Super League",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xiii/super-xlll/rss.xml",
+      "title": "rugby à XIII : Super XIII",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xv/rss.xml",
+      "title": "rugby à XV",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xv/pro-d2/rss.xml",
+      "title": "rugby à XV : Pro D2",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xv/top-14/rss.xml",
+      "title": "rugby à XV : top-14",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sante/rss.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/sciences-et-techniques/rss.xml",
+      "title": "sciences et techniques",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/actu/societe/rss.xml",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/tennis/rss.xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/transports/tgv/rss.xml",
+      "title": "TGV",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/theatre/rss.xml",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/tourisme/rss.xml",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/culture-et-loisirs/traditions/rss.xml",
+      "title": "traditions",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/economie/transports/rss.xml",
+      "title": "transports",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/rugby-xv/usap/rss.xml",
+      "title": "USAP",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/pyrenees-orientales/vinca/rss.xml",
+      "title": "Vinça",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lindependant.fr/sport/volley/rss.xml",
+      "title": "volley",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    }
+  ]
+}

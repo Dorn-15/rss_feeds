@@ -1,0 +1,1686 @@
+{
+  "company": "France3",
+  "host": "france3-regions.franceinfo.fr",
+  "img": "France3.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://france3-regions.franceinfo.fr/environnement/ecologie/rss",
+      "title": "écologie",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=provence-alpes-cote-d-azur",
+      "title": "économie : Provence-Alpes-Côte d'Azur",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/economie-numerique/rss",
+      "title": "économie numérique",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/education/rss",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/environnement/energie/rss",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/criminalite/etudiante-tuee-par-balle-a-ponte-leccia/rss",
+      "title": "Étudiante tuée par balle à Ponte Leccia",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/evenements/rss",
+      "title": "évènements",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/actu/rss",
+      "title": "Île-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=paris-ile-de-france",
+      "title": "Île-de-France : économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/rss?r=paris-ile-de-france",
+      "title": "Île-de-France : culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/meteo/rss?r=paris-ile-de-france",
+      "title": "Île-de-France : météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=paris-ile-de-france",
+      "title": "Île-de-France : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/aeronautique/rss",
+      "title": "aéronautique",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/transports-aeriens/aeroport-marignane/rss",
+      "title": "Aéroport de Marignane",
+      "tags": [
+        "cite",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/transports-aeriens/aeroports-paris/rss",
+      "title": "Aéroport de Paris",
+      "tags": [
+        "cite",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/accident/rss",
+      "title": "accident",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/agriculture/rss",
+      "title": "agriculture",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/entreprises/airbus/rss",
+      "title": "Airbus",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/rss",
+      "title": "Aisne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/rss",
+      "title": "Aix-en-Provence",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/alimentation/rss",
+      "title": "alimentation",
+      "tags": [
+        "economie",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/rss",
+      "title": "Alpes-de-Haute-Provence",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/rss",
+      "title": "Alpes-Maritimes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace/rss",
+      "title": "Alsace",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/environnement/amenagement-du-territoire/rss",
+      "title": "aménagement du territoire",
+      "tags": [
+        "cite",
+        "collectivite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/nature/animaux/rss",
+      "title": "animaux",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/rss",
+      "title": "Antibes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/agriculture/apiculture/rss",
+      "title": "apiculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/patrimoine/archeologie/rss",
+      "title": "archéologie",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/arles/rss",
+      "title": "Arles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/art/rss",
+      "title": "art",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/athletisme/rss",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/entreprises/auchan/rss",
+      "title": "Auchan",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/aude/rss",
+      "title": "Aude",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/auto-moto/rss",
+      "title": "auto-moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/actu/rss",
+      "title": "Auvergne Rhône-Alpes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=auvergne-rhone-alpes",
+      "title": "Auvergne-Rhône-Alpes : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/aeronautique/aviation/rss",
+      "title": "aviation",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/vaucluse/avignon/rss",
+      "title": "Avignon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/livres/bande-dessinee/rss",
+      "title": "bande-dessinée",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/criminalite/banditisme/rss",
+      "title": "banditisme",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/basket-ball/rss",
+      "title": "basket-ball",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/international/belgique/rss",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/gastronomie/biere/rss",
+      "title": "bière",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/rss",
+      "title": "Bouches-du-Rhône",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/actu/rss",
+      "title": "Bourgogne-Franche-Comté",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=bourgogne-franche-comte",
+      "title": "Bourgogne-Franche-Comté : économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/agriculture/rss?r=bourgogne-franche-comte",
+      "title": "Bourgogne-Franche-Comté : agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/rss?r=bourgogne-franche-comte",
+      "title": "Bourgogne-Franche-Comté : culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=bourgogne-franche-comte",
+      "title": "Bourgogne-Franche-Comté : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=bourgogne-franche-comte",
+      "title": "Bourgogne-Franche-Comté : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/bretagne/actu/rss",
+      "title": "Bretagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=bretagne",
+      "title": "Bretagne : économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=bretagne",
+      "title": "Bretagne : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=bretagne",
+      "title": "Bretagne : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/rss",
+      "title": "Calais",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/rss",
+      "title": "Cannes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/elections/elections-municipales/rss?r=centre-val-de-loire",
+      "title": "Centre : élections municipales",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=centre-val-de-loire",
+      "title": "Centre : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/actu/rss",
+      "title": "Centre-Val de Loire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/grand-est/champagne-ardenne/rss",
+      "title": "Champagne-Ardenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/cher/rss",
+      "title": "Cher",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/nature/animaux/cheval/rss",
+      "title": "Cheval",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/cinema/rss",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/environnement/climat/rss",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/agriculture/agriculteurs-en-colere/rss",
+      "title": "Colère des agriculteurs",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/course-pied/rss",
+      "title": "course à pied",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/criminalite/rss",
+      "title": "criminalité",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/culture-regionale/culture-bretonne/rss",
+      "title": "culture bretonne",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/cyclisme/rss",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/digne-les-bains/rss",
+      "title": "Digne-les-Bains",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/disparitions/rss",
+      "title": "disparitions",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/draguignan/rss",
+      "title": "Draguignan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/emploi/rss",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/entreprises/erdf/rss",
+      "title": "Enedis",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/environnement/rss",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/escalade/rss",
+      "title": "escalade",
+      "tags": [
+        "sport",
+        "escalade"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/esport/rss",
+      "title": "esport",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/eure-et-loir/rss",
+      "title": "Eure-et-Loir",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/evenements/expositions/rss",
+      "title": "expositions",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/evenements/fetes-locales/rss",
+      "title": "fêtes locales",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/rss",
+      "title": "faits divers",
+      "tags": [
+        "general",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/famille/rss",
+      "title": "famille",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/evenements/festival/rss",
+      "title": "festival",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/livres/bande-dessinee/festival-bd-angouleme/rss",
+      "title": "Festival de la BD d'Angoulême",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/football/ligue-1/rss",
+      "title": "foot : Ligue 1",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/football/ligue-2/rss",
+      "title": "foot : Ligue 2",
+      "tags": [
+        "foot",
+        "ligue_2"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/francois-bayrou/rss",
+      "title": "François Bayrou",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/francois-hollande/rss",
+      "title": "François Hollande",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/front-de-gauche/rss",
+      "title": "Front de Gauche",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/hautes-alpes/gap/rss",
+      "title": "Gap",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/gastronomie/rss",
+      "title": "gastronomie",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/volley-ball/gfc-ajaccio-volley/rss",
+      "title": "GFCA Volley",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/gilets-jaunes/rss",
+      "title": "gilets jaunes",
+      "tags": [
+        "politique",
+        "syndicat"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/grand-est/rss",
+      "title": "Grand Est",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/sante/grippe/rss",
+      "title": "grippe",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/gymnastique/rss",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/rss",
+      "title": "Hérault",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/handicap/rss",
+      "title": "handicap",
+      "tags": [
+        "cite",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/rss",
+      "title": "Haute-Garonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/hautes-alpes/rss",
+      "title": "Hautes-Alpes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/actu/rss",
+      "title": "Hauts-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=hauts-de-france",
+      "title": "Hauts-de-France : économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=hauts-de-france",
+      "title": "Hauts-de-France : politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/rss?r=hauts-de-france",
+      "title": "Hauts-de-France : société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=hauts-de-france",
+      "title": "Hauts-de-France : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/histoire/rss",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/immobilier/rss",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/incendie/rss",
+      "title": "incendie",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre/rss",
+      "title": "Indre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/famille/jeunesse/rss",
+      "title": "jeunesse",
+      "tags": [
+        "culture",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/jeux/rss",
+      "title": "jeux",
+      "tags": [
+        "culture",
+        "ludique"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/judo/rss",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/justice/rss",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/karate/rss",
+      "title": "karaté",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/la-baule/rss",
+      "title": "La Baule",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/europe-ecologie-les-verts/rss",
+      "title": "Les Écologistes",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/les-republicains/rss",
+      "title": "Les Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/rss",
+      "title": "Lille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille-metropole/rss",
+      "title": "Lille métropole",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/livres/rss",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loir-cher/rss",
+      "title": "Loir-et-Cher",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/rss",
+      "title": "Loiret",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/grand-est/lorraine/rss",
+      "title": "Lorraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/nature/animaux/loup/rss",
+      "title": "Loup",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/rss",
+      "title": "Lyon"
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/nature/mer/mediterranee/rss",
+      "title": "méditerranée",
+      "tags": [
+        "environnement",
+        "maritime"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rassemblement-national/marine-pen/rss",
+      "title": "Marine Le Pen",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/marion-marechal-le-pen/rss",
+      "title": "Marion Maréchal",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/rss",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/martine-aubry/rss",
+      "title": "Martine Aubry",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/people/miss-france/rss",
+      "title": "Miss France",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/mobilite/rss",
+      "title": "mobilités",
+      "tags": [
+        "cite",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/rss",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/musee/rss",
+      "title": "musée",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/musique/rss",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/rss",
+      "title": "Nîmes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/rss",
+      "title": "Nantes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/natation/rss",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/natation/championnats-france-natation/rss",
+      "title": "natation : championnats de France",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/natation/championnats-du-monde-de-natation/rss",
+      "title": "natation : championnats du monde",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/rss",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/nicolas-sarkozy/rss",
+      "title": "Nicolas Sarkozy",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-pas-calais/rss",
+      "title": "Nord Pas-de-Calais",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/normandie/actu/rss",
+      "title": "Normandie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=normandie",
+      "title": "Normandie : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/front-populaire/rss",
+      "title": "Nouveau Front Populaire",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/actu/rss",
+      "title": "Nouvelle-Aquitaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/actu/rss",
+      "title": "Occitanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=occitanie",
+      "title": "Occitanie : politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/petanque/rss",
+      "title": "pétanque",
+      "tags": [
+        "sport",
+        "petanque"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/parti-socialiste/rss",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/patrimoine/rss",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/actu/rss",
+      "title": "Pays de la Loire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/mayenne/rss",
+      "title": "Pays de la Loire : Mayenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=pays-de-la-loire",
+      "title": "Pays de la Loire : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/international/pays-bas/rss",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/art/peinture/rss",
+      "title": "peinture",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/art/photographie/rss",
+      "title": "photographie",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/actu/rss",
+      "title": "Provence-Alpes Côte d'Azur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/elections/elections-municipales/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes Côte d'Azur : élection munipicales",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes Côte d'Azur : culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes Côte d'Azur : faits divers",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/meteo/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes Côte d'Azur : météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes Côte d'Azur : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/agriculture/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes-Côte d'Azur : agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes-Côte d'Azur : société",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rss?r=provence-alpes-cote-d-azur",
+      "title": "Provence-Alpes-Côte d'Azur : sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rassemblement-national/rss",
+      "title": "Rassemblement National",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/republique-marche/rss",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/rss",
+      "title": "Rennes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/international/royaume-uni/rss",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/rugby/rss",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/securite/rss",
+      "title": "sécurité",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/rss",
+      "title": "Saint-Nazaire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/aeronautique/salon-du-bourget/rss",
+      "title": "Salon du Bourget",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/sante/rss",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/sciences/rss",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/art/sculpture/rss",
+      "title": "sculpture",
+      "tags": [
+        "culture",
+        "art"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/histoire/seconde-guerre-mondiale/rss",
+      "title": "seconde guerre mondiale",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/solidarite/rss",
+      "title": "solidarité",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/sports-nautiques/rss",
+      "title": "sports nautiques",
+      "tags": [
+        "sport",
+        "maritime"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/entreprises/start-up/rss",
+      "title": "start-up",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/entreprises/psa/rss",
+      "title": "Stellantis",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/international/suisse/rss",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/rss",
+      "title": "Toulon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/rss",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/tourisme/rss",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/rss",
+      "title": "transports",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/transports-aeriens/rss",
+      "title": "transports aériens",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/transports/transports-maritimes/rss",
+      "title": "transports maritimes",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/international/ukraine/rss",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sorties-loisirs/vacances/rss",
+      "title": "vacances",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/rss",
+      "title": "Var",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/vaucluse/rss",
+      "title": "Vaucluse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/volley-ball/rss",
+      "title": "volley-ball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/economie/rss?r=corse",
+      "title": "ViaStella : économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/rss",
+      "title": "ViaStella : Ajaccio",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/rss",
+      "title": "ViaStella : Corse-du-Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/rss?r=corse",
+      "title": "ViaStella : culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/faits-divers/rss?r=corse",
+      "title": "ViaStella : faits divers",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/sport/football/rss?r=corse",
+      "title": "ViaStella : football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/corse/haute-corse/rss",
+      "title": "ViaStella : Haute-Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/culture/histoire/rss?r=corse",
+      "title": "ViaStella : histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/corse/actu/rss",
+      "title": "ViaStella : info",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/politique/rss?r=corse",
+      "title": "ViaStella : politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/societe/rss?r=corse",
+      "title": "ViaStella : société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/rss",
+      "title": "France3 Bourgogne-Franche-Comté : Montbéliard",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

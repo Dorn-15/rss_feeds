@@ -1,0 +1,1562 @@
+{
+  "company": "La Croix",
+  "host": "www.la-croix.com",
+  "img": "La_Croix.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.la-croix.com/feeds/rss/site.xml",
+      "title": "à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/economie.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/France.xml",
+      "title": "économie France",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Monde.xml",
+      "title": "économie mondiale",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Economie-solidaire.xml",
+      "title": "économie solidaire",
+      "tags": [
+        "economie",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Debats/Editos.xml",
+      "title": "éditos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Famille/Education.xml",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Monde/Egypte.xml",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/economie/electricite.xml",
+      "title": "électricité",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/erythree-actualite-info-pays.xml",
+      "title": "Érythrée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/etats-unis-usa-actualite-info.xml",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/tag/jeffrey-epstein.xml",
+      "title": "Affaire Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/En-Afghanistan-guerre-sans-fin.xml",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique.xml",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/agriculture-agriculteur.xml",
+      "title": "agriculture",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/France/Air-France-compagnie-aerienne-tourmente.xml",
+      "title": "Air France",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Entreprises/airbus-constructeur-avion-aeronautique-europeen-europe.xml",
+      "title": "Airbus",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/albanie-actu-info.xml",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/Algerie-vers-lelection-presidentielle.xml",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/allemagne-actualite-info.xml",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international/amerique-centrale-pays.xml",
+      "title": "Amérique centrale",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international/amerique-nord-pays.xml",
+      "title": "Amérique du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international/amerique-sud-pays.xml",
+      "title": "Amérique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques.xml",
+      "title": "Amériques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/angola-actualite-info-pays.xml",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/Arabie-saoudite.xml",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/Argentine.xml",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/armenie-actualite-info.xml",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/art-de-vivre.xml",
+      "title": "art de vivre",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-Oceanie.xml",
+      "title": "Asie-Océanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/australie-actualite-info.xml",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/automobile.xml",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/autriche-actu-info.xml",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/azerbaijan-actualite-info.xml",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/benin-actualite-info-pays.xml",
+      "title": "Bénin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences-et-ethique/Environnement/Biodiversite.xml",
+      "title": "biodiversité",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Entreprises/boeing-constructeur-avion-aeronautique-spatiale-americain-usa.xml",
+      "title": "Boeing",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/bosnie-herzegovine-actu-info.xml",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Bouddhisme.xml",
+      "title": "Bouddhisme",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/economie/budget.xml",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Monde/Burkina-Faso.xml",
+      "title": "Burkina Faso",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/cote-divoire-actualite-info.xml",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/Le-Cambodge-pays-essor-tenu-dune-main-fer.xml",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/cap-vert-actualite-info-etat-insulaire.xml",
+      "title": "Cap-Vert",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/economie/capgemini-entreprise.xml",
+      "title": "Capgemini",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Catholicisme.xml",
+      "title": "Catholicisme",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/caucase-actu-info.xml",
+      "title": "Caucase",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/Chili.xml",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/chine-actualite-info.xml",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/religion/christianisme-chretien.xml",
+      "title": "Christianisme",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Debats/Chroniques.xml",
+      "title": "chroniques",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/Cinema.xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Ethique/Environnement/Climat.xml",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/colombie-actualite-info.xml",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/comores-actualite-info-iles.xml",
+      "title": "Comores",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/conflit-ukrainien-religions-ukraine.xml",
+      "title": "conflit ukrainien et religions",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Monde/Coree-du-Nord.xml",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/coree-du-sud-actu-info.xml",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Famille/Couple.xml",
+      "title": "couple",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Debats/Courrier.xml",
+      "title": "courrier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/tag/crise-etats-unis-venezuela-actualites-infos-conflit-relation-usa.xml",
+      "title": "Crise États-Unis Venezuela",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/culture.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences-et-ethique/cyberattaque-piratage-informatique.xml",
+      "title": "cyberattaque",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/debat.xml",
+      "title": "débats",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/danemark-actualite-info.xml",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Famille/Enfants-et-adolescents.xml",
+      "title": "enfants et adolescents",
+      "tags": [
+        "culture",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Entreprises.xml",
+      "title": "entreprises",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences-et-ethique/espace-exploration-spatiale.xml",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/Espagne.xml",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/Exclusion.xml",
+      "title": "exclusion",
+      "tags": [
+        "cite",
+        "caritatif"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/Expositions.xml",
+      "title": "expositions",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/faits-divers.xml",
+      "title": "faits divers",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Famille.xml",
+      "title": "famille",
+      "tags": [
+        "cite",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/geopolitique-relations-internationales-pays.xml",
+      "title": "géopolitique",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/georgie-actu-info.xml",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/gabon-actualite-info-pays.xml",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Gaza.xml",
+      "title": "Gaza",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/ghana-actualite-info-pays.xml",
+      "title": "Ghana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/tag/groenland-actualite-info.xml",
+      "title": "Groenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/guatemala-actu-info.xml",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international/guerre-crise-et-conflit.xml",
+      "title": "guerre crise et conflit",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/guinee-bissau-actualite-info-pays.xml",
+      "title": "Guinée-Bissau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+      "title": "handicap",
+      "tags": [
+        "cite",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international/dossier-histoire.xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/honduras-actu-info.xml",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/hongrie-actualite-info.xml",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/economie/immobilier.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/LInde-puissance-emergente.xml",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/LIndonesie-important-pays-musulman-monde.xml",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences-et-ethique/intelligence-artificielle-ia.xml",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/international.xml",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/Irak.xml",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/Iran-2018-01-02.xml",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/Irlande-actualite-info-eire.xml",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Islam.xml",
+      "title": "Islam",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/islande-actu-info.xml",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/conflit-israelo-palestinien-guerre-israel-palestine.xml",
+      "title": "Israël : conflit israélo-palestinien",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/Italie.xml",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/japon-actualite-info.xml",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sport/jeux-olympiques-ete-hiver-actu-info-jo.xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/jordanie-actu-info.xml",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Judaisme.xml",
+      "title": "Judaïsme",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/Justice.xml",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/kazakhstan-actu-info.xml",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/kenya-actualite-info-pays.xml",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/laos-actu-info.xml",
+      "title": "Laos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Actualite/Le-pape-Francois.xml",
+      "title": "Le pape François",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/lesotho-actu-info.xml",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/lettonie-actualite-info.xml",
+      "title": "Lettonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/Liban.xml",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/libye-actualite-info.xml",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/lituanie-actualite-info.xml",
+      "title": "Lituanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/Livres-et-idees.xml",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/lyon-actualite-information.xml",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/madagascar-actualite-info.xml",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/mafia.xml",
+      "title": "mafia",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/malaisie-actu-info.xml",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/malawi-actualite-info-pays.xml",
+      "title": "Malawi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/Le-Mali-pays-eclate.xml",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/malte-actualite-info.xml",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/maroc-actualite-info.xml",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/marseille-actualite-information.xml",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/mauritanie-actualite-info-pays.xml",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/mexique-actualite-info.xml",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/moldavie-actu-info.xml",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/montenegro-actu-info.xml",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/montagne-chaine-montagneuse-massif.xml",
+      "title": "montagne",
+      "tags": [
+        "environnement",
+        "montagne"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/montpellier-actualite-info.xml",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient.xml",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/mozambique-actualite-info-pays.xml",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/musee.xml",
+      "title": "musée",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/Musique.xml",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/birmanie-myanmar-actualite-info-pays.xml",
+      "title": "Myanmar (Birmanie)",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/namibie-actualite-info-pays.xml",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/Crise-politique-Nicaragua.xml",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/nice-actualite-info.xml",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/nigeria-actualite-info.xml",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/norvege.xml",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Debats/Opinions-et-debats.xml",
+      "title": "opinions et débats",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Orthodoxie.xml",
+      "title": "Orthodoxie",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/ouganda-actualite-info-pays.xml",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/Pakistan.xml",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/panama-actu-info.xml",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/paris-actualite-information.xml",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/pays-bas-actualite-info.xml",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/philippines-actu-info.xml",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/police-nationale-municipale-securite.xml",
+      "title": "police",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences/Environnement/pollution.xml",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/pologne-actualite-info.xml",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/portugal-actualite-info.xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Religion/Protestantisme.xml",
+      "title": "Protestantisme",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/qatar-actualite-info.xml",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/religion.xml",
+      "title": "religion",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Europe/Royaume-Uni.xml",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Rwanda.xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/Securite.xml",
+      "title": "sécurité",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/senegal-actualite-info.xml",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/sante.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Sciences-et-ethique/Ethique.xml",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/serbie.xml",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Asie-et-Oceanie/singapour-actualite-info.xml",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/societe.xml",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/Social.xml",
+      "title": "social",
+      "tags": [
+        "economie",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/somalie-actualite-info.xml",
+      "title": "Somalie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/soudan-actualite-info-pays.xml",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/soudan-sud-actualite-info-pays.xml",
+      "title": "Soudan du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/sport.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/sri-lanka.xml",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/suede-actualite-info.xml",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Europe/suisse-actualite-info-2020-06-11-1201099239.xml",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Syrie.xml",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/taiwan-actu-info.xml",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tadjikistan-actu-info.xml",
+      "title": "Tadjikistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tanzanie-actualite-info-pays.xml",
+      "title": "Tanzanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tchetchenie-la-republique-tchetchene-actu-info.xml",
+      "title": "Tchétchénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tchad.xml",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/Theatre.xml",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/thailande-actu-info.xml",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tibet-actu-info.xml",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/togo-actualite-info-pays.xml",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/France/toulouse-actualite-info.xml",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/environnement/transition-energetique.xml",
+      "title": "transition énergétique",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Economie/travail.xml",
+      "title": "travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/tunisie-actualite-info-pays.xml",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Monde/Turquie.xml",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Culture/TV-Radio.xml",
+      "title": "TV",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Actualite/Europe/Ukraine.xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Union-europeenne.xml",
+      "title": "Union Européenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/uruguay-actualite-info.xml",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Ameriques/Crise-Venezuela-2017-07-19.xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/vietnam-actu-info.xml",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Moyen-Orient/Yemen.xml",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.la-croix.com/feeds/rss/Monde/Afrique/Zimbabwe.xml",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

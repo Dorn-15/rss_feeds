@@ -1,0 +1,914 @@
+{
+  "company": "RTBF",
+  "host": "rss.rtbf.be",
+  "img": "RTBF.svg",
+  "country": "be",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_ecologie.xml?source=internal",
+      "title": "écologie",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_info-economie.xml?source=internal",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_energie.xml?source=internal",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-equitation.xml?source=internal",
+      "title": "équitation",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-afrique.xml?source=internal",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_agriculture.xml?source=internal",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-amerique-centrale.xml?source=internal",
+      "title": "Amérique centrale",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-amerique-du-nord.xml?source=internal",
+      "title": "Amérique du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-amerique-du-sud.xml?source=internal",
+      "title": "Amérique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_animaux-de-compagnie.xml?source=internal",
+      "title": "animaux de compagnie",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_app-mobiles.xml?source=internal",
+      "title": "app mobiles",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-exposition.xml?source=internal",
+      "title": "arts plastiques",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-asie.xml?source=internal",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-others-athletisme.xml?source=internal",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-basket.xml?source=internal",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-bd.xml?source=internal",
+      "title": "BD",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_tendance-beaute.xml?source=internal",
+      "title": "beauté",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_info-belgique.xml?source=internal",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_biodiversite.xml?source=internal",
+      "title": "biodiversité",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-brabant-wallon.xml?source=internal",
+      "title": "Brabant wallon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_bricolage.xml?source=internal",
+      "title": "bricolage",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-bruxelles.xml?source=internal",
+      "title": "Bruxelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_budget.xml?source=internal",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_catastrophes-naturelles.xml?source=internal",
+      "title": "catastrophes naturelles",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_radio_a-la-une-sur-jam.xml?source=internal",
+      "title": "chaîne : Jam",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_mediaz_a-la-une-sur-tarmac.xml?source=internal",
+      "title": "chaîne : Tarmac",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_lpm-info-actu.xml?source=internal",
+      "title": "chaîne : La Première",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_a-la-une-sur-vivacite.xml?source=internal",
+      "title": "chaîne : Vivacité",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-popup-jeuxvideo.xml?source=internal",
+      "title": "chaînes : IXPé",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_rtbfinfo-chroniques.xml?source=internal",
+      "title": "chroniques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-cinema.xml?source=internal",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_climat.xml?source=internal",
+      "title": "climat",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_tendance-cuisine.xml?source=internal",
+      "title": "cuisine",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-popup.xml?source=internal",
+      "title": "culture web",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-cyclisme.xml?source=internal",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_decouvertes-scientifiques.xml?source=internal",
+      "title": "découvertes scientifiques",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_decrypte.xml?source=internal",
+      "title": "décrypte",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml",
+      "title": "dernière minute",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-football-diablesrouges.xml?source=internal",
+      "title": "Diables Rouges",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbfservices_emploi.xml?source=internal",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-moteurs-endurance.xml?source=internal",
+      "title": "endurance",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_environnement-et-nature.xml?source=internal",
+      "title": "environnement et nature",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_espace.xml?source=internal",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-europe.xml?source=internal",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_fact-checking.xml?source=internal",
+      "title": "faky fact checking",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_famille.xml?source=internal",
+      "title": "famille",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-flandre.xml?source=internal",
+      "title": "Flandre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-football.xml?source=internal",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-moteurs-formule-1.xml?source=internal",
+      "title": "Formule 1",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-formulee.xml?source=internal",
+      "title": "formule E",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-golf.xml?source=internal",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-gymnastique.xml?source=internal",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-hainaut.xml?source=internal",
+      "title": "Hainaut",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-handball.xml?source=internal",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_onpdp-high-tech.xml?source=internal",
+      "title": "high-tech",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-hockey.xml?source=internal",
+      "title": "hockey",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_immobilier.xml?source=internal",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal",
+      "title": "info",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_investigation.xml?source=internal",
+      "title": "investigation",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_jardinage.xml?source=internal",
+      "title": "jardinage",
+      "tags": [
+        "environnement",
+        "jardin"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_jeux-olympiques-paris-2024.xml?source=internal",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_jeux-video.xml?source=internal",
+      "title": "jeux vidéo",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-judo.xml?source=internal",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-liege.xml?source=internal",
+      "title": "Liège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-litterature.xml?source=internal",
+      "title": "littérature",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-luxembourg.xml",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_medias.xml?source=internal",
+      "title": "médias",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbfservices_services_meteo.xml?source=internal",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_maison.xml?source=internal",
+      "title": "maison",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbfservices_service_mobilinfo.xml?source=internal",
+      "title": "mobilinfo",
+      "tags": [
+        "cite",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_mobilite.xml?source=internal",
+      "title": "mobilité",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_tendance-mode.xml?source=internal",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_moteurs-motocross.xml?source=internal",
+      "title": "motocross",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-moteurs-motogp.xml?source=internal",
+      "title": "MotoGP",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-moyen-orient.xml?source=internal",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_musique.xml?source=internal",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_regions-namur.xml?source=internal",
+      "title": "Namur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-natation.xml?source=internal",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_nutrition.xml?source=internal",
+      "title": "nutrition",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_monde-oceanie.xml?source=internal",
+      "title": "Océanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-arts-patrimoine.xml?source=internal",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_tv_people-rtbf-actualites.xml?source=internal",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_philo.xml?source=internal",
+      "title": "philosophie",
+      "tags": [
+        "culture",
+        "philosophie"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_pollution.xml?source=internal",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-football-jupiler-pro-league.xml?source=internal",
+      "title": "Pro League",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_protection-vie-privee.xml?source=internal",
+      "title": "protection de la vie privée",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_questions-reponses.xml?source=internal",
+      "title": "Questions-Réponses",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_reseaux-sociaux.xml?source=internal",
+      "title": "réseaux sociaux",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-moteurs-rallye.xml?source=internal",
+      "title": "rallye",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_recyclage.xml?source=internal",
+      "title": "recyclage",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_relationnel.xml?source=internal",
+      "title": "relationnel",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-others-rugby.xml?source=internal",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-cinema-seriestv.xml?source=internal",
+      "title": "séries",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sante-et-bien-etre.xml?source=internal",
+      "title": "santé et bien-être",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_tendance-bienetre-psycho.xml?source=internal",
+      "title": "santé mentale",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sante_physique.xml?source=internal",
+      "title": "santé physique",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_culture-scene.xml?source=internal",
+      "title": "scène",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sciences-et-technologies.xml?source=internal",
+      "title": "sciences et technologies",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sciences-insolites.xml?source=internal",
+      "title": "sciences insolites",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sexualite.xml?source=internal",
+      "title": "sexualité",
+      "tags": [
+        "environnement",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sommeil.xml?source=internal",
+      "title": "sommeil",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_agenda-sorties.xml?source=internal",
+      "title": "sorties",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport.xml?source=internal",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-sportsdhiver.xml?source=internal",
+      "title": "sports d'hiver",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-sportsextremes.xml?source=internal",
+      "title": "sports extrêmes",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-tennis.xml?source=internal",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-tennisdetable.xml?source=internal",
+      "title": "tennis de table",
+      "tags": [
+        "sport",
+        "tennis_de_table"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_vie-pratique.xml?source=internal",
+      "title": "vie pratique",
+      "tags": [
+        "cite",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_vivre-ici.xml?source=internal",
+      "title": "Vivre ici",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-voile.xml?source=internal",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_sport-volley.xml?source=internal",
+      "title": "volley",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_tendance-voyage.xml?source=internal",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_zero-dechet.xml?source=internal",
+      "title": "zéro déchet",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    }
+  ]
+}

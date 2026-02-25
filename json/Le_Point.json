@@ -1,0 +1,650 @@
+{
+  "company": "Le Point",
+  "host": "www.lepoint.fr",
+  "img": "Le_Point.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/economie/",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/editos-du-point/",
+      "title": "éditos du point",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/education/",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/etats-unis/",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/evenements/",
+      "title": "événements",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/afrique/",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/algerie/",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/allemagne/",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/argent/",
+      "title": "argent",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/serie-argent-content/",
+      "title": "Argent content",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/arts/",
+      "title": "arts",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/astronomie/",
+      "title": "astronomie",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/automobile/",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/autriche/",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/belgique/",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/budget/",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/cambodge/",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/cinema/",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/culture/",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/cybersecurite/",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/debats/",
+      "title": "débats",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/armement/",
+      "title": "défense",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/danemark/",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/environnement/",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/eureka/",
+      "title": "Eurêka",
+      "tags": [
+        "culture",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/gastronomie/",
+      "title": "gastronomie",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/histoire/",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/hongrie/",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/immobilier/",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/inde/",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/irlande/",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/israel/",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/japon/",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/jean-luc-melenchon/",
+      "title": "Jean-Luc Mélenchon",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/jeffrey-epstein/",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/jeux-olympiques-d-ete/",
+      "title": "jeux olympiques d'été",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/kenya/",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/series-les-experts/",
+      "title": "Les experts",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/liban/",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/libye/",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/livres/",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/lyon/",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/madagascar/",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/maroc/",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/marseille/",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/mexique/",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/monde/",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/montres/",
+      "title": "montres",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/musique/",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/namibie/",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/nantes/",
+      "title": "Nantes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/nice/",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/nouvelle-zelande/",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/palestine/",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/paris/",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/pays-bas/",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/politique/",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/pologne/",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/pop-culture/",
+      "title": "Pop",
+      "tags": [
+        "culture",
+        "geek"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/postillon/",
+      "title": "postillon",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/senegal/",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/series-t/",
+      "title": "séries et fictions",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/sante/",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/science/",
+      "title": "science",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/sciences-nature/",
+      "title": "sciences et innovation",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/societe/",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/stories/",
+      "title": "stories",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/art-de-vivre/",
+      "title": "style",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/suede/",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/tchad/",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/high-tech-internet/",
+      "title": "tech et net",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/toulon/",
+      "title": "Toulon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/tunisie/",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/ukraine/",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/actu-du-jour/",
+      "title": "une",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/venezuela/",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/video/",
+      "title": "vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/tags_slug/vie-au-travail/",
+      "title": "Vie au travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/vin/",
+      "title": "vin",
+      "tags": [
+        "culture",
+        "viniculture"
+      ]
+    },
+    {
+      "url": "https://www.lepoint.fr/arc/outboundfeeds/rss/category/voyages/",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    }
+  ]
+}

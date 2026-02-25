@@ -1,0 +1,2578 @@
+{
+  "company": "Radio France Internationale",
+  "host": "www.rfi.fr",
+  "img": "Radio_France_Internationale.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/%C3%A0-la-une-en-asie/podcast",
+      "title": "À la Une en Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/%C3%A7a-va-%C3%A7a-va-le-monde/podcast",
+      "title": "Ça va le monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/%C3%A9co-ici-%C3%A9co-ailleurs/podcast",
+      "title": "Éco d'ici Éco d'ailleurs",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/rss",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/%C3%A9couter-monde/podcast",
+      "title": "Écouter le monde",
+      "tags": [
+        "cite",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9gypte/rss",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9mirats-arabes-unis/rss",
+      "title": "Émirats arabes unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9quateur//rss",
+      "title": "Équateur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9rythr%C3%A9e/rss",
+      "title": "Érythrée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9tats-unis/rss",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/%C3%A9thiopie/rss",
+      "title": "Éthiopie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/100-pourcent-cr%C3%A9ation/rss",
+      "title": "100 % création",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/8-milliards-voisins/rss",
+      "title": "7 milliards de voisins",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/a%C3%A9ronautique/rss",
+      "title": "aéronautique",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/accents-europe/podcast",
+      "title": "Accent d'Europe",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/accents-monde/rss",
+      "title": "Accents du monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/rss",
+      "title": "actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/affaire-epstein/rss",
+      "title": "Affaire Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/afghanistan/rss",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/afrique/rss",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/podcast",
+      "title": "Afrique économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/afrique-du-sud/rss",
+      "title": "Afrique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/12h30-13h00-tu-afrique-midi/podcast",
+      "title": "Afrique Midi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/agriculture-et-p%C3%AAche/rss",
+      "title": "agriculture et pêche",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/albanie/rss",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/alg%C3%A9rie/rss",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/allemagne/rss",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/rss",
+      "title": "Amériques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/angola/rss",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/appels-actualit%C3%A9/podcast",
+      "title": "Appels sur l'actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/arabie-saoudite/rss",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/argentine/rss",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/arm%C3%A9nie/rss",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/arts/rss",
+      "title": "arts plastiques",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/asie-pacifique/rss",
+      "title": "Asie Pacifique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/atelier-m%C3%A9dias/podcast",
+      "title": "Atelier des médias",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/athl%C3%A9tisme/rss",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/australie/rss",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/autour-question/podcast",
+      "title": "Autour de la question",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/autriche/rss",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/azerba%C3%AFdjan/rss",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/b%C3%A9nin/rss",
+      "title": "Bénin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bahamas/rss",
+      "title": "Bahamas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bahre%C3%AFn/rss",
+      "title": "Bahreïn",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bangladesh/rss",
+      "title": "Bangladesh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/banque-mondiale/rss",
+      "title": "banque mondiale",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/belgique/rss",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/belize//rss",
+      "title": "Belize",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/belize/rss",
+      "title": "Belize",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bhoutan/rss",
+      "title": "Bhoutan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bi%C3%A9lorussie/rss",
+      "title": "Biélorussie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/birmanie/rss",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bolivie/rss",
+      "title": "Bolivie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bosnie-herz%C3%A9govine/rss",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/botswana/rss",
+      "title": "Botswana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/bonnes-pulsations-du-monde/podcast",
+      "title": "BPM - Bonnes Pulsations du Monde",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/br%C3%A9sil/rss",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/brunei/rss",
+      "title": "Brunei",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/bulgarie/rss",
+      "title": "Bulgarie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/burkina-faso/rss",
+      "title": "Burkina Faso",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/burundi/rss",
+      "title": "Burundi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/c%C3%B4te-d-ivoire/rss",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/c-est-nature/podcast",
+      "title": "C'est dans ta nature",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/cest-pas-du-vent/podcast",
+      "title": "C'est pas du vent",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cachemire/rss",
+      "title": "Cachemire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/Cambodge/rss",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cameroun/rss",
+      "title": "Cameroun",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/canada/rss",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cap-vert/rss",
+      "title": "Cap-Vert",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/centrafrique/rss",
+      "title": "Centrafrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chemins-d-%C3%A9criture/podcast",
+      "title": "Chemins d'écriture",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/chili/rss",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/chine/rss",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-jean-baptiste-placca/podcast",
+      "title": "Chronique de Jean-Baptiste Placca",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast",
+      "title": "Chronique de Mamane",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-m%C3%A9dias/podcast",
+      "title": "Chronique des médias",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-mati%C3%A8res-premi%C3%A8res/podcast",
+      "title": "Chronique des matières premières",
+      "tags": [
+        "economie",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-transports/podcast",
+      "title": "Chronique transport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/chypre/rss",
+      "title": "Chypre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/ciel-d-afrique/podcast",
+      "title": "Ciel d'Afrique",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/colombie/rss",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/comores/rss",
+      "title": "Comores",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/connaissances/rss",
+      "title": "connaissances",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/conseil-sant%C3%A9/podcast",
+      "title": "conseil santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/consommation/rss",
+      "title": "consommation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cor%C3%A9e-du-nord/rss",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cor%C3%A9e-du-sud/rss",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/costa-rica/rss",
+      "title": "Costa Rica",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/couleurs-tropicales/podcast",
+      "title": "Couleurs tropicales",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/criminalit%C3%A9/rss",
+      "title": "criminalité",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/croatie//rss",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cryptomonnaies/rss",
+      "title": "cryptomonnaies",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cuba/rss",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
+      "title": "culture médias",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/cybercriminalit%C3%A9/rss",
+      "title": "cybercriminalité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9cryptage/podcast",
+      "title": "Décryptage",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/d%C3%A9fense/rss",
+      "title": "défense",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/danemark/rss",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/vives-voix/podcast",
+      "title": "De vive(s) voix",
+      "tags": [
+        "culture",
+        "linguistique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/dimanche-politique/podcast",
+      "title": "Dimanche politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/diplomatie/rss",
+      "title": "diplomatie",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/djibouti/rss",
+      "title": "Djibouti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/droits-de-l-homme/rss",
+      "title": "droits de l'homme",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/droits-des-femmes/rss",
+      "title": "droits des femmes",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/emploi-et-travail/rss",
+      "title": "emploi et travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/en-bref/rss",
+      "title": "en bref",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/en-sol-majeur/podcast",
+      "title": "En sol majeur",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/environnement/rss",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/espace/rss",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/espagne/rss",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/estonie/rss",
+      "title": "Estonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/eswatini-ex-swaziland//rss",
+      "title": "Eswatini",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/europ%C3%A9en-semaine/podcast",
+      "title": "Européen de la semaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/europe/rss",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/faune/rss",
+      "title": "faune",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/femmes/rss",
+      "title": "femmes",
+      "tags": [
+        "cite",
+        "feminin"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/fidji//rss",
+      "title": "Fidji",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/finlande/rss",
+      "title": "Finlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/afrique-foot/rss",
+      "title": "foot : Afrique",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/football/rss",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/france/rss",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/podcast",
+      "title": "Géopolitique",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/g%C3%A9opolitique/rss",
+      "title": "géopolitique",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/g%C3%A9orgie/rss",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/gabon/rss",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/gambie/rss",
+      "title": "Gambie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/gaza/rss",
+      "title": "Gaza",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ghana//rss",
+      "title": "Ghana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/grand-reportage/podcast",
+      "title": "Grand reportage",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/groenland//rss",
+      "title": "Groenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guatemala/rss",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guin%C3%A9e/rss",
+      "title": "Guinée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guin%C3%A9e-%C3%A9quatoriale/rss",
+      "title": "Guinée équatoriale",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guin%C3%A9e-bissau/rss",
+      "title": "Guinée-Bissau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guyana//rss",
+      "title": "Guyana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/guyane/rss",
+      "title": "Guyane",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ha%C3%AFti/rss",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/histoire/rss",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/honduras/rss",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/hongrie/rss",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/id%C3%A9es/podcast",
+      "title": "Idées",
+      "tags": [
+        "culture",
+        "philosophie"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/inde/rss",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/Indon%C3%A9sie/rss",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/intelligence-artificielle/rss",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique/podcast",
+      "title": "Invité Afrique",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/podcast",
+      "title": "Invité culture",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-mi-journ%C3%A9e/podcast",
+      "title": "Invité international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/irak/rss",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/iran/rss",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/irlande/rss",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/islande//rss",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/isra%C3%ABl/rss",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/italie/rss",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/japon/rss",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/jeux-olympiques/rss",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/jordanie/rss",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/journal-ha%C3%AFti-am%C3%A9riques/podcast",
+      "title": "Journal d'Haïti et des Amériques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/journal-sports/podcast",
+      "title": "Journal des sports",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/journal-sports-afrique/podcast",
+      "title": "Journal des sports : Afrique",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kazakhstan/rss",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kenya/rss",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kirghizistan//rss",
+      "title": "Kirghizistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kosovo/rss",
+      "title": "Kosovo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kowe%C3%AFt/rss",
+      "title": "Koweït",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/koze-kilti/podcast",
+      "title": "Koze kilti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/kurdes//rss",
+      "title": "Kurdes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/l%C3%A9gendes-urbaines/podcast",
+      "title": "Légendes urbaines",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/%C3%A9pop%C3%A9e-musiques-noires/podcast",
+      "title": "L'Épopée des musiques noires",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/accent-autres/podcast",
+      "title": "L'accent des autres",
+      "tags": [
+        "culture",
+        "linguistique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/marche-monde/podcast",
+      "title": "La marche du monde",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/parlotte-charlotte/podcast",
+      "title": "La parlotte de Charlotte",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/une-presse-cette-semaine-kinshasa/podcast",
+      "title": "La une de la presse cette semaine à Kinshasa",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/laos/rss",
+      "title": "Laos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/le-berceau-de-l-histoire/podcast",
+      "title": "Le Berceau de l'Histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/le-choix-musical-de-rfi/podcast",
+      "title": "Le choix musical de RFI",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/club-rfi/podcast",
+      "title": "Le club RFI",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-africain/podcast",
+      "title": "Le débat africain",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/podcast",
+      "title": "Le débat du jour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/go%C3%BBt-monde/podcast",
+      "title": "Le goût du monde",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/podcast",
+      "title": "Le grand invité international",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/le-monde-des-enfants/podcast",
+      "title": "Le monde des enfants",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/monde-questions/podcast",
+      "title": "Le monde en questions",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/dessous-infox/podcast",
+      "title": "Les dessous de l'infox",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/t%C3%AAtes-affiches-denise-epot%C3%A9/podcast",
+      "title": "Les têtes d'affiches de Denise Epoté",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/lesotho/rss",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/lettonie/rss",
+      "title": "Lettonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/liberia/rss",
+      "title": "Libéria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/liban/rss",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/libye/rss",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/lignes-d%C3%A9fense/podcast",
+      "title": "Lignes de défense Franck Alexandre",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/litt%C3%A9rature/rss",
+      "title": "littérature",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/litt%C3%A9rature-fronti%C3%A8res/podcast",
+      "title": "Littérature sans frontières",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/lituanie/rss",
+      "title": "Lituanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/livre-international/podcast",
+      "title": "Livre international",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/luxembourg/rss",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mac%C3%A9doine-du-nord/rss",
+      "title": "Macédoine du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/madagascar/rss",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/maghreb/rss",
+      "title": "Maghreb",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/malaisie/rss",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/malawi//rss",
+      "title": "Malawi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/maldives/rss",
+      "title": "Maldives",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mali/rss",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/malte/rss",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/mardi-politique/podcast",
+      "title": "Mardi politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/maroc/rss",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/martinique/rss",
+      "title": "Martinique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/maurice//rss",
+      "title": "Maurice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mauritanie/rss",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/podcast",
+      "title": "Menaces sur l'information",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mercosur/rss",
+      "title": "MERCOSUR",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mexique/rss",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mma/rss",
+      "title": "MMA",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/moldavie/rss",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/mon-premier-stade/podcast",
+      "title": "Mon premier stade",
+      "tags": [
+        "sport",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/monde/rss",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/mondial-sports/podcast",
+      "title": "Mondial sports",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mont%C3%A9n%C3%A9gro/rss",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/moyen-orient/rss",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/mozambique/rss",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/musique/rss",
+      "title": "musique",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/musiques-monde/podcast",
+      "title": "Musiques du monde",
+      "tags": [
+        "musique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/n%C3%A9pal/rss",
+      "title": "Népal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/namibie//rss",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/natation/rss",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nicaragua/rss",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nicolas-maduro//rss",
+      "title": "Nicolas Maduro",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/niger/rss",
+      "title": "Niger",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nigeria/rss",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/norv%C3%A8ge//rss",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nouvelle-cal%C3%A9donie/rss",
+      "title": "Nouvelle-Calédonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nouvelle-z%C3%A9lande/rss",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/nucl%C3%A9aire/rss",
+      "title": "nucléaire",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/oman/rss",
+      "title": "Oman",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/ondes-africaines/podcast",
+      "title": "Ondes africaines",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ouganda/rss",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ouzb%C3%A9kistan/rss",
+      "title": "Ouzbékistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/p%C3%A9rou/rss",
+      "title": "Pérou",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/pakistan/rss",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/territoires-palestiniens/rss",
+      "title": "Palestine / Territoires palestiniens",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/panama/rss",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/paris/rss",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/pays-bas/rss",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/philippines/rss",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/photographie/rss",
+      "title": "photographie",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/politique-fran%C3%A7aise/rss",
+      "title": "politique française",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/politique-choix-semaine/podcast",
+      "title": "Politique, le choix de la semaine",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/pologne/rss",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/portugal/rss",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/pourquoi-rfi-dit-%C3%A7a/podcast",
+      "title": "Pourquoi RFI dit ça ?",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/priorit%C3%A9-sant%C3%A9/podcast",
+      "title": "Priorité santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/qatar/rss",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/congo-brazzaville/rss",
+      "title": "République du Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/r%C3%A9fugi%C3%A9s/rss",
+      "title": "réfugiés",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/rdc/rss",
+      "title": "République démocratique du Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/r%C3%A9publique-dominicaine/rss",
+      "title": "République Dominicaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/podcast",
+      "title": "Radio Foot Internationale",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/religions-monde/podcast",
+      "title": "Religions du monde",
+      "tags": [
+        "culture",
+        "religion"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/podcast",
+      "title": "Reportage Afrique",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/podcast",
+      "title": "Reportage culture",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/podcast",
+      "title": "Reportage France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/revue-de-presse/rss",
+      "title": "revue de presse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/revue-presse-afrique/podcast",
+      "title": "Revue de presse Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/revue-presse-fran%C3%A7aise/podcast",
+      "title": "Revue de presse des hebdomadaires français",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/podcast",
+      "title": "Revue de presse internationale",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/roumanie/rss",
+      "title": "Roumanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/royaume-uni/rss",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/russie/rss",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/rwanda/rss",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/s%C3%A9n%C3%A9gal/rss",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/salvador/rss",
+      "title": "Salvador",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/sant%C3%A9-et-m%C3%A9decine/rss",
+      "title": "santé et médecine",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/sao-tom%C3%A9-et-principe//rss",
+      "title": "Sao Tomé-et-Principe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/sciences/rss",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/seconde-guerre-mondiale/rss",
+      "title": "Seconde Guerre mondiale",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/serbie/rss",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/seychelles/rss",
+      "title": "Seychelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/siloin-siproche/podcast",
+      "title": "Si loin si proche",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/sierra-leone/rss",
+      "title": "Sierra Leone",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/singapour/rss",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/slov%C3%A9nie/rss",
+      "title": "Slovénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/slovaquie/rss",
+      "title": "Slovaquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/somalie/rss",
+      "title": "Somalie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/soudan/rss",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/soudan-du-sud//rss",
+      "title": "Soudan du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/sports/rss",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/sri-lanka/rss",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/studio-e/podcast",
+      "title": "Studio E",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/su%C3%A8de/rss",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/suisse/rss",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/suriname//rss",
+      "title": "Suriname",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/syrie/rss",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ta%C3%AFwan/rss",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tadjikistan/rss",
+      "title": "Tadjikistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tanzanie//rss",
+      "title": "Tanzanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/r%C3%A9publique-tch%C3%A8que//rss",
+      "title": "Tchéquie / République Tchèque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tch%C3%A9tch%C3%A9nie/rss",
+      "title": "Tchétchénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tchad/rss",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tech/rss",
+      "title": "tech",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tha%C3%AFlande/rss",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tibet/rss",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/timor-oriental/rss",
+      "title": "Timor-Oriental",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/togo/rss",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tonga/rss",
+      "title": "Tonga",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tourisme/rss",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/transport/rss",
+      "title": "transport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/trinit%C3%A9-et-tobago/rss",
+      "title": "Trinité-et-Tobago",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tunisie/rss",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/turkm%C3%A9nistan/rss",
+      "title": "Turkménistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/turquie/rss",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/tuvalu/rss",
+      "title": "Tuvalu",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/ukraine/rss",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/uruguay/rss",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/vanuatu/rss",
+      "title": "Vanuatu",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/vatican/rss",
+      "title": "Vatican",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/venezuela/rss",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/vid%C3%A9os/rss",
+      "title": "vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/vietnam/rss",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/washington-dici/podcast",
+      "title": "Washington d'ici",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/y%C3%A9men/rss",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/zambie/rss",
+      "title": "Zambie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/tag/zimbabwe/rss",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.rfi.fr/fr/podcasts/le-journal-d-outre-mer-la-1%C3%A8re/podcast",
+      "title": "La 1ère : journal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

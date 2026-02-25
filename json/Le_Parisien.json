@@ -7,143 +7,347 @@
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://feeds.leparisien.fr/leparisien/rss",
-      "title": "À la une",
-      "tags": [
-        "news"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "title": "Faits divers",
-      "tags": [
-        "crime"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/politique",
-      "title": "Politique",
-      "tags": [
-        "politics"
-      ]
-    },
-    {
       "url": "https://feeds.leparisien.fr/leparisien/rss/economie",
-      "title": "Économie",
+      "title": "économie",
       "tags": [
-        "economy"
+        "economie",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/international",
-      "title": "International",
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/international/etats-unis/?outputType=xml",
+      "title": "États-Unis",
       "tags": [
-        "world"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/sports",
-      "title": "Sports",
-      "tags": [
-        "sport"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
-      "title": "Culture / Loisirs",
-      "tags": [
-        "culture"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/immobilier",
-      "title": "Immobilier",
-      "tags": [
-        "property"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/environnement",
-      "title": "Environnement",
-      "tags": [
-        "environment"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/societe",
-      "title": "Société",
-      "tags": [
-        "society"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/podcasts",
-      "title": "Podcasts",
-      "tags": [
-        "podcast"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/jo-paris-2024",
-      "title": "Jeux Olympiques",
-      "tags": [
-        "olympics"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/futurs",
-      "title": "Futurs",
-      "tags": [
-        "future"
+        "general",
+        "presse"
       ]
     },
     {
       "url": "https://feeds.leparisien.fr/leparisien/rss/etudiant",
-      "title": "Le Parisien Étudiant",
+      "title": "étudiant",
       "tags": [
-        "education"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/etudiant/vie-etudiante",
-      "title": "Étudiant - Vie étudiante",
-      "tags": [
-        "education"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/etudiant/examens",
-      "title": "Étudiant - Examens",
-      "tags": [
-        "education"
-      ]
-    },
-    {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/etudiant/orientation",
-      "title": "Étudiant - Orientation",
-      "tags": [
-        "education"
+        "cite",
+        "enseignement"
       ]
     },
     {
       "url": "https://feeds.leparisien.fr/leparisien/rss/etudiant/jobs-stages",
-      "title": "Étudiant - Jobs / Stages",
+      "title": "étudiant : jobs stages",
       "tags": [
-        "education"
+        "economie",
+        "travail"
       ]
     },
     {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/guide-shopping",
-      "title": "Guide d'achat",
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/international/allemagne/?outputType=xml",
+      "title": "Allemagne",
       "tags": [
-        "shopping"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/jardin",
-      "title": "Jardin",
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/economie/consommation/?outputType=xml",
+      "title": "consommation",
       "tags": [
-        "garden"
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
+      "title": "cultures loisirs",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/cyclisme",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/economie/emploi/?outputType=xml",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/economie/business/?outputType=xml",
+      "title": "entreprises et start-up",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/environnement",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/essonne-91",
+      "title": "Essonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "title": "faits divers",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/football",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/futurs",
+      "title": "futurs",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/sports/handball/?outputType=xml",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/haute-corse-2b/?outputType=xml",
+      "title": "Haute-Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/hauts-de-seine-92",
+      "title": "Hauts-de-Seine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/international",
+      "title": "international",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/sports/JO/?outputType=xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/oise-60",
+      "title": "L'Oise",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/sports/mma/?outputType=xml",
+      "title": "MMA",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/paris-75",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/info-paris-ile-de-france-oise",
+      "title": "Paris Île-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/laparisienne/people",
+      "title": "people et medias",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/politique",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/football/psg",
+      "title": "PSG",
+      "tags": [
+        "foot",
+        "psg"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/rugby",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/seine-et-marne-77",
+      "title": "Seine-et-Marne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/seine-saint-denis-93",
+      "title": "Seine-Saint-Denis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/societe",
+      "title": "société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/ile-de-france",
+      "title": "sport : Île-de-France",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports",
+      "title": "sports",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/high-tech",
+      "title": "technologie",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/sports/tennis",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "title": "toute l'actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/info-paris-ile-de-france-oise/transports/?outputType=xml",
+      "title": "transports Île-de-France",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/international/ukraine/?outputType=xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/val-d-oise-95",
+      "title": "Val d'Oise",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/val-de-marne-94",
+      "title": "Val de Marne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/arc/outboundfeeds/leparisien/rss/economie/votre-argent/?outputType=xml",
+      "title": "votre argent",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/voyage",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/yvelines-78",
+      "title": "Yvelines",
+      "tags": [
+        "general",
+        "presse"
       ]
     }
   ]

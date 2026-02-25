@@ -1,0 +1,1034 @@
+{
+  "company": "L'Équipe",
+  "host": "dwh.lequipe.fr",
+  "img": "L_Equipe.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Equitation/",
+      "title": "équitation",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/",
+      "title": "actu",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tous-sports/",
+      "title": "actu : tous sports",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Athletisme/",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Auto-moto/",
+      "title": "auto moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Auto-moto/Auto-conso/",
+      "title": "auto moto : auto conso",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Badminton/",
+      "title": "badminton",
+      "tags": [
+        "sport",
+        "badminton"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Baseball/",
+      "title": "baseball",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Betclic-elite/",
+      "title": "basket : betclic élite",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Coupe-de-france--f-/",
+      "title": "basket : coupe de France : féminin",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Eurocoupe-femmes/",
+      "title": "basket : Eurocoupe : féminin",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Eurocoupe-hommes/",
+      "title": "basket : Eurocoupe : hommes",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Euroligue-h/",
+      "title": "basket : Euroligue : hommes",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/La-boulangere-wonderligue/",
+      "title": "basket : La Boulangère Wonderligue",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Ligue-des-champions/",
+      "title": "basket : ligue des champions",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Nba/",
+      "title": "basket : NBA",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Biathlon/",
+      "title": "biathlon",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Boxe/",
+      "title": "boxe",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Cyclisme/",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Cyclisme/Tour-de-france-femmes/",
+      "title": "cyclisme : tour de France : féminin",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Cyclisme-sur-piste/",
+      "title": "cyclisme sur piste",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Cyclisme-sur-route/",
+      "title": "cyclisme sur route",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Cyclo-cross/",
+      "title": "cyclo cross",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Escrime/",
+      "title": "escrime",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Esport/",
+      "title": "eSport",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Esport/League-of-legends/",
+      "title": "eSport : league of legends",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Flechettes/",
+      "title": "fléchettes",
+      "tags": [
+        "sport",
+        "flechettes"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/",
+      "title": "football",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Afrique-football-club/",
+      "title": "football : Afrique football club",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Arkema-premiere-ligue/",
+      "title": "football : Arkema premiere ligue",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Bradley-barcola/",
+      "title": "football : Bradley Barcola",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Can/",
+      "title": "football : CAN",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-d-allemagne/",
+      "title": "football : Championnat d'Allemagne",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-d-angleterre/",
+      "title": "football : Championnat d'Angleterre",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-d-arabie-saoudite/",
+      "title": "football : Championnat d'Arabie Saoudite",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-d-espagne/",
+      "title": "football : Championnat d'Espagne",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-d-italie/",
+      "title": "football : Championnat d'Italie",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-de-belgique/",
+      "title": "football : Championnat de Belgique",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-de-turquie/",
+      "title": "football : Championnat de Turquie",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-des-pays-bas/",
+      "title": "football : Championnat des Pays Bas",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-du-bresil/",
+      "title": "football : Championnat du Brésil",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championnat-du-portugal/",
+      "title": "football : Championnat du Portugal",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Championship/",
+      "title": "football : Championship",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-d-espagne/",
+      "title": "football : Coupe d'Espagne",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-d-italie/",
+      "title": "football : Coupe d'Italie",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-de-france/",
+      "title": "football : Coupe de France",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-de-france--f-/",
+      "title": "football : Coupe de France : féminin",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-du-monde/",
+      "title": "football : Coupe du monde",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-du-portugal/",
+      "title": "football : Coupe du Portugal",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Coupe-gambardella/",
+      "title": "football : Coupe Gambardella",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Cup/",
+      "title": "football : Cup",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Desire-doue/",
+      "title": "football : Désiré Doué",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Discipline/",
+      "title": "football : discipline",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/League-cup/",
+      "title": "football : League cup",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Ligue-1/",
+      "title": "football : Ligue 1",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Ligue-2/",
+      "title": "football : Ligue 2",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Ligue-des-champions/",
+      "title": "football : Ligue des champions",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Ligue-europa/",
+      "title": "football : Ligue europa",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Michael-olise/",
+      "title": "football : Michael Olise",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/National/",
+      "title": "football : National",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/National-2---groupe-a/",
+      "title": "football : National 2 groupe A",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Olivier-bossard/",
+      "title": "football : Olivier Bossard",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Paroles-d-ex/",
+      "title": "football : Paroles d'ex",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Super-coupe-d-espagne/",
+      "title": "football : Super coupe d'Espagne",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Transferts-football/",
+      "title": "football : transfert",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Trophee-des-champions/",
+      "title": "football : Trophée des champions",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Formule-1/",
+      "title": "formule 1",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Futsal/",
+      "title": "futsal",
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Golf/",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Golf/Journal-du-golf/",
+      "title": "golf : journal du golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Golf/Swing/",
+      "title": "golf : swing",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Guide-d-achat/Equipement-velo/",
+      "title": "guide d'achat : équipement vélo",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Guide-d-achat/High-tech-multimedia/",
+      "title": "guide d'achat : high tech multimédia",
+      "tags": [
+        "sport",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Guide-d-achat/Mode--et--sportswear/",
+      "title": "guide d'achat : mode et sportswear",
+      "tags": [
+        "sport",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Gymnastique/",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Handball/",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Handball/Championnat-d-europe--h-/",
+      "title": "handball : championnat d'Europe : hommes",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Handball/Ligue-des-champions--f-/",
+      "title": "handball : ligue des champions : féminin",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Handball/Liqui-moly-starligue/",
+      "title": "handball : Liqui Moly starligue",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Handball/Matches-amicaux/",
+      "title": "handball : matches amicaux",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Hippisme/",
+      "title": "hippisme",
+      "tags": [
+        "sport",
+        "hippisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Hippisme/Quinte/",
+      "title": "hippisme : quinte",
+      "tags": [
+        "sport",
+        "hippisme"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Hockey-sur-glace/",
+      "title": "hockey sur glace",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Jeux-olympiques/",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Jeux-Olympiques/Jo-2026-milan-cortina/",
+      "title": "jeux olympiques : JO 2026 Milan Cortina",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tous-sports/Jo-2028-los-angeles/",
+      "title": "jeux olympiques : JO 2028 Los-Angeles",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Jeux-Olympiques/Jo-2030-alpes-francaises/",
+      "title": "jeux olympiques : JO 2030 Alpes françaises",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Judo/",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Karate/",
+      "title": "Karaté",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Mma/",
+      "title": "MMA",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Sports-de-combat/Salahdine-parnasse/",
+      "title": "MMA : Salahdine Parnasse",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Moto/",
+      "title": "moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Natation/",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Nfl",
+      "title": "NFL - National Football League",
+      "tags": [
+        "sport",
+        "football_americain"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Patinage-artistique/",
+      "title": "patinage artistique",
+      "tags": [
+        "sport",
+        "patinage_artistique"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Patinage-de-vitesse/",
+      "title": "patinage de vitesse",
+      "tags": [
+        "sport",
+        "patinage"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rallye/",
+      "title": "rallye",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rallye-raid/",
+      "title": "rallye raid",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Challenge/",
+      "title": "rugby : challenge",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Coupe-des-champions/",
+      "title": "rugby : coupe des champions",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Coupe-du-monde-de-rugby/",
+      "title": "rugby : coupe du monde de rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Crunch/",
+      "title": "rugby : crunch",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Pro-d2/",
+      "title": "rugby : pro d2",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Top-14/",
+      "title": "rugby : top 14",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/Tournoi-des-6-nations/",
+      "title": "rugby : tournoi des 6 nations",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Saut-a-skis/",
+      "title": "saut à skis",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Ski-alpinisme/",
+      "title": "ski alpinisme",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Ski-de-fond/",
+      "title": "ski de fond",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Ski-freestyle/",
+      "title": "ski freestyle",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Ski/",
+      "title": "ski glace",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Snowboard/",
+      "title": "snowboard",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Sport-Auto/",
+      "title": "sport auto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Adelaide/",
+      "title": "tennis : Adelaide",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Air-open/",
+      "title": "tennis : Air open",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Atp/",
+      "title": "tennis : ATP",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Auckland/",
+      "title": "tennis : Auckland",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Brisbane/",
+      "title": "tennis : Brisbane",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Hong-kong/",
+      "title": "tennis : Hong Kong",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Montpellier/",
+      "title": "tennis : Montpellier",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Open-d-australie/",
+      "title": "tennis : open d'Australie",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Roland-garros/",
+      "title": "tennis : Roland Garros",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/Wta/",
+      "title": "tennis : WTA",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Tennis-de-table/",
+      "title": "tennis de table",
+      "tags": [
+        "sport",
+        "tennis_de_table"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Ultra-trail/",
+      "title": "ultra trail",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Voile/",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/",
+      "title": "volley ball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/Ligue-des-champions--f-/",
+      "title": "volley ball : Ligue des champions : féminin",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/Ligue-des-champions--h-/",
+      "title": "volley ball : Ligue des champions : hommes",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/Marmara-spikeligue/",
+      "title": "volley ball : Marmara Spikeligue",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/Saforelle-power-6/",
+      "title": "volley ball : Saforelle power 6",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    }
+  ]
+}

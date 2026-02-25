@@ -7,59 +7,1563 @@
   "fetchprotection": 1,
   "feeds": [
     {
-      "url": "https://nouvelobs.com/a-la-une/rss.xml",
-      "title": "À la une",
+      "url": "https://www.nouvelobs.com/a-la-une/rss.xml",
+      "title": "à la une",
       "tags": [
-        "news"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://nouvelobs.com/depeche/rss.xml",
-      "title": "Actualités en continu",
+      "url": "https://www.nouvelobs.com/ecologie/rss.xml",
+      "title": "écologie",
       "tags": [
-        "live"
+        "environnement",
+        "vert"
       ]
     },
     {
-      "url": "https://nouvelobs.com/politique/rss.xml",
-      "title": "Politique",
+      "url": "https://www.nouvelobs.com/la-vie-en-vert/rss.xml",
+      "title": "Écologie au quotidien",
       "tags": [
-        "politics"
+        "environnement",
+        "dev_durable"
       ]
     },
     {
-      "url": "https://nouvelobs.com/societe/rss.xml",
-      "title": "Société",
+      "url": "https://www.nouvelobs.com/ecologie-politique/rss.xml",
+      "title": "écologie politique",
       "tags": [
-        "society"
+        "environnement",
+        "vert"
       ]
     },
     {
-      "url": "https://nouvelobs.com/monde/rss.xml",
-      "title": "Monde",
+      "url": "https://www.nouvelobs.com/economie/rss.xml",
+      "title": "économie",
       "tags": [
-        "world"
+        "economie",
+        "presse"
       ]
     },
     {
-      "url": "https://nouvelobs.com/economie/rss.xml",
-      "title": "Économie",
+      "url": "https://www.nouvelobs.com/edito/rss.xml",
+      "title": "éditos",
       "tags": [
-        "economy"
+        "general",
+        "presse"
       ]
     },
     {
-      "url": "https://nouvelobs.com/culture/rss.xml",
-      "title": "Culture",
+      "url": "https://www.nouvelobs.com/education/rss.xml",
+      "title": "éducation",
       "tags": [
-        "culture"
+        "cite",
+        "enseignement"
       ]
     },
     {
-      "url": "https://nouvelobs.com/idees/rss.xml",
-      "title": "Idées",
+      "url": "https://www.nouvelobs.com/egypte/rss.xml",
+      "title": "Égypte",
       "tags": [
-        "opinion"
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/elections-europeennes/rss.xml",
+      "title": "élections européenes",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/elections-municipales-de-2026/rss.xml",
+      "title": "élections municipales de 2026",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/etats-unis/rss.xml",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/2049/rss.xml",
+      "title": "2049",
+      "tags": [
+        "cite",
+        "nowfuture"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rss.xml",
+      "title": "actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/affaire-epstein/rss.xml",
+      "title": "Affaire Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/afghanistan/rss.xml",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/afrique/rss.xml",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/agriculture/rss.xml",
+      "title": "agriculture",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/algerie/rss.xml",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/alimentation/rss.xml",
+      "title": "alimentation",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/allemagne/rss.xml",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/amerique/rss.xml",
+      "title": "Amérique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/animaux/rss.xml",
+      "title": "animaux",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/anne-hidalgo/rss.xml",
+      "title": "Anne Hidalgo",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/argentine/rss.xml",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/arte/rss.xml",
+      "title": "Arte",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/asie/rss.xml",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/assemblee-nationale/rss.xml",
+      "title": "Assemblée nationale",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/astronomie/rss.xml",
+      "title": "astronomie",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/bd/rss.xml",
+      "title": "BD",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/beau-et-bon/rss.xml",
+      "title": "beau et bon",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/beaute/rss.xml",
+      "title": "beauté",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/belgique/rss.xml",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/bibliobs/rss.xml",
+      "title": "bibliobs",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/bien-etre/rss.xml",
+      "title": "bien-être",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/billet/rss.xml",
+      "title": "billet",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/bruno-retailleau/rss.xml",
+      "title": "Bruno Retailleau",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/budget/rss.xml",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/canicule/rss.xml",
+      "title": "canicule",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/ce-soir-a-la-tv/rss.xml",
+      "title": "ce soir à la TV",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chomage/rss.xml",
+      "title": "chômage",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chine/rss.xml",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chronique-travail/rss.xml",
+      "title": "Chronique Bien Cordialement",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chronique-de-la-bataille-culturelle/rss.xml",
+      "title": "Chronique de la bataille culturelle",
+      "tags": [
+        "politique",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chroniques/rss.xml",
+      "title": "chroniques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chroniques-italiennes/rss.xml",
+      "title": "Chroniques italiennes",
+      "tags": [
+        "politique",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/cinema/rss.xml",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/cold-cases/rss.xml",
+      "title": "cold cases",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/colombie/rss.xml",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/conferences/rss.xml",
+      "title": "conférences",
+      "tags": [
+        "general",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/israel-palestine/rss.xml",
+      "title": "conflit israélo-palestinien",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/conso/rss.xml",
+      "title": "conso",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/cop-climat/rss.xml",
+      "title": "COP",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/crime-organise/rss.xml",
+      "title": "crime organisé",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/critique/rss.xml",
+      "title": "critique de livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/critiques-films/rss.xml",
+      "title": "critiques de films",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/culture/rss.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/cybersecurite/rss.xml",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/debat/rss.xml",
+      "title": "débat",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/debats-economiques/rss.xml",
+      "title": "débat économiques",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/demographie/rss.xml",
+      "title": "démographie",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/danemark/rss.xml",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/dans-le-doute/rss.xml",
+      "title": "Dans le doute",
+      "tags": [
+        "cite",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/archives/rss.xml",
+      "title": "Dans nos archives",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/design/rss.xml",
+      "title": "design",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/disney-plus/rss.xml",
+      "title": "Disney+",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/documents/rss.xml",
+      "title": "documents",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/l-amerique-selon-trump/rss.xml",
+      "title": "Donald Trump",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/drinks/rss.xml",
+      "title": "drinks",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/droits-des-femmes/rss.xml",
+      "title": "droits des femmes",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/elon-musk/rss.xml",
+      "title": "Elon Musk",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/emmanuel-macron/rss.xml",
+      "title": "Emmanuel Macron",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/en-poche/rss.xml",
+      "title": "en poche",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/enquete/rss.xml",
+      "title": "enquête",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/entreprises/rss.xml",
+      "title": "entreprises",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/espagne/rss.xml",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/essais/rss.xml",
+      "title": "essais",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/europe/rss.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/faits-divers/rss.xml",
+      "title": "faits divers",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/foot/rss.xml",
+      "title": "foot",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/gabon/rss.xml",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/gouvernement/rss.xml",
+      "title": "gouvernement",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/guerre-en-syrie/rss.xml",
+      "title": "guerre en Syrie",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/guerre-en-ukraine/rss.xml",
+      "title": "guerre en Ukraine",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/handicap/rss.xml",
+      "title": "handicap",
+      "tags": [
+        "cite",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/high-tech/rss.xml",
+      "title": "high-tech",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/histoire/rss.xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/hongrie/rss.xml",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/humour/rss.xml",
+      "title": "humour",
+      "tags": [
+        "culture",
+        "humour"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/2049-ia-et-cybersecurite/rss.xml",
+      "title": "IA et cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/immobilier/rss.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/inde/rss.xml",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/chronique-interieur-queer/rss.xml",
+      "title": "Intérieur queer",
+      "tags": [
+        "culture",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/intelligence-artificielle/rss.xml",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/iran/rss.xml",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/israel/rss.xml",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/italie/rss.xml",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/japon/rss.xml",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/jeux-olympiques/rss.xml",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/jeux-video/rss.xml",
+      "title": "jeux vidéo",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/justice/rss.xml",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/l-oeil-d-ecoloobs/rss.xml",
+      "title": "L'oeil d'ÉcoloObs",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/la-chronique-de-mara-goyet/rss.xml",
+      "title": "La chronique de Mara Goyet",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/la-chronique-de-pierre-haski/rss.xml",
+      "title": "La chronique de Pierre Haski",
+      "tags": [
+        "general",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/l-humeur-de-jerome-garcin/rss.xml",
+      "title": "Le bloc-notes de Jérôme Garcin",
+      "tags": [
+        "culture",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/le-guide-parcoursup/rss.xml",
+      "title": "Le guide Parcoursup",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/les-ecologistes/rss.xml",
+      "title": "Les écologistes",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/les-legendes-du-rock/rss.xml",
+      "title": "Les légendes du Rock",
+      "tags": [
+        "musique",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/les-republicains/rss.xml",
+      "title": "Les Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/liban/rss.xml",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/lifestyle/rss.xml",
+      "title": "lifestyle",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/logement/rss.xml",
+      "title": "logement",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/memoires-d-algerie/rss.xml",
+      "title": "Mémoires d'Algérie",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/meteo/rss.xml",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/maghreb/rss.xml",
+      "title": "Maghreb",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/mal-logement/rss.xml",
+      "title": "mal-logement",
+      "tags": [
+        "cite",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/manifestation-des-agriculteurs/rss.xml",
+      "title": "manifestation des agriculteurs",
+      "tags": [
+        "politique",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/maroc/rss.xml",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/max/rss.xml",
+      "title": "Max",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/mexique/rss.xml",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/michel-barnier/rss.xml",
+      "title": "Michel Barnier",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/migrants/rss.xml",
+      "title": "migrants",
+      "tags": [
+        "cite",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/mode/rss.xml",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/monde/rss.xml",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/montres/rss.xml",
+      "title": "montres",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/moyen-orient/rss.xml",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/musique/rss.xml",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/netflix/rss.xml",
+      "title": "Netflix",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/niger/rss.xml",
+      "title": "Niger",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/notre-epoque/rss.xml",
+      "title": "Notre époque",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/nouvelle-caledonie/rss.xml",
+      "title": "Nouvelle-Calédonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/numerique/rss.xml",
+      "title": "numérique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/oceanie/rss.xml",
+      "title": "Océanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/ocs/rss.xml",
+      "title": "OCS",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/opinions/rss.xml",
+      "title": "opinions",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/paramount/rss.xml",
+      "title": "Paramount",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/parents/rss.xml",
+      "title": "parents",
+      "tags": [
+        "culture",
+        "famille"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/parti-socialiste/rss.xml",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/passions-americaines/rss.xml",
+      "title": "Passions américaines",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/patrimoine/rss.xml",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/pays-bas/rss.xml",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/people/rss.xml",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/photo/rss.xml",
+      "title": "photo",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/plan-culte/rss.xml",
+      "title": "Plan culte",
+      "tags": [
+        "culture",
+        "geek"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/planete/rss.xml",
+      "title": "planète",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/polar/rss.xml",
+      "title": "polar",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/politique/rss.xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/pollution/rss.xml",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/portraits/rss.xml",
+      "title": "portraits",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/portugal/rss.xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/prehistoire/rss.xml",
+      "title": "préhistoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/prime-video/rss.xml",
+      "title": "Prime Video",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/prix-litteraires/rss.xml",
+      "title": "prix littéraires",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/proces/rss.xml",
+      "title": "procès",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/psychanalyse/rss.xml",
+      "title": "psychanalyse",
+      "tags": [
+        "culture",
+        "psychologie"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rachida-dati/rss.xml",
+      "title": "Rachida Dati",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/raphael-glucksmann/rss.xml",
+      "title": "Raphaël Glucksmann",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rassemblement-national/rss.xml",
+      "title": "Rassemblement National",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/renaissance/rss.xml",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rentree-litteraire/rss.xml",
+      "title": "rentrée littéraire",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/reportages/rss.xml",
+      "title": "reportages",
+      "tags": [
+        "general",
+        "documentaire"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/retour-en-syrie/rss.xml",
+      "title": "Retour en Syrie",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/retraites/rss.xml",
+      "title": "retraites",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/romans/rss.xml",
+      "title": "romans",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/royaume-uni/rss.xml",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rue89/rss.xml",
+      "title": "Rue89",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rugby/rss.xml",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/russie/rss.xml",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/rwanda/rss.xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/senegal/rss.xml",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/salon-de-l-agriculture/rss.xml",
+      "title": "salon de l'agriculture",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sante/rss.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sante-mentale/rss.xml",
+      "title": "santé mentale",
+      "tags": [
+        "environnement",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sciences/rss.xml",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/societe/rss.xml",
+      "title": "société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/social/rss.xml",
+      "title": "social",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sociologie/rss.xml",
+      "title": "sociologie",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sous-influence/rss.xml",
+      "title": "Sous influence",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/sport/rss.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/suisse/rss.xml",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/info-radio/rss.xml",
+      "title": "TéléObs : info radio",
+      "tags": [
+        "cite",
+        "radio"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/series/rss.xml",
+      "title": "TéléObs : séries",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/tv/rss.xml",
+      "title": "TéléObs : TV",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/taiwan/rss.xml",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/tendances/rss.xml",
+      "title": "tendances",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/terrorisme/rss.xml",
+      "title": "terrorisme",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/theatre/rss.xml",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/transports/rss.xml",
+      "title": "transports",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/turquie/rss.xml",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/un-il-sur-la-constitution/rss.xml",
+      "title": "Un oeil sur la Constitution",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/un-peu-de-recul/rss.xml",
+      "title": "Un peu de recul",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/venezuela/rss.xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/vin/rss.xml",
+      "title": "vin",
+      "tags": [
+        "culture",
+        "viniculture"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/violences-sexuelles/rss.xml",
+      "title": "violences sexuelles",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/votre-argent/rss.xml",
+      "title": "Votre argent",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.nouvelobs.com/voyage/rss.xml",
+      "title": "voyage",
+      "tags": [
+        "culture",
+        "voyage"
       ]
     }
   ]

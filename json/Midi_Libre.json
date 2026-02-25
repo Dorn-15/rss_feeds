@@ -1,0 +1,578 @@
+{
+  "company": "Midi Libre",
+  "host": "www.midilibre.fr",
+  "img": "Midi_Libre.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.midilibre.fr/rss.xml",
+      "title": "Midi Libre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/economie/rss.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/education/rss.xml",
+      "title": "éducation",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/agde/rss.xml",
+      "title": "Agde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/economie/agriculture/rss.xml",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/gard/ales/rss.xml",
+      "title": "Alès",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aude/rss.xml",
+      "title": "Aude",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/auto-moto/rss.xml",
+      "title": "auto-moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aveyron/rss.xml",
+      "title": "Aveyron",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/beziers/rss.xml",
+      "title": "Béziers",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/gard/bagnols-sur-ceze/rss.xml",
+      "title": "Bagnols-sur-Cèze",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/sports-et-nature/balades-et-randonnees/rss.xml",
+      "title": "balades et randonnées",
+      "tags": [
+        "environnement",
+        "montagne"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aude/carcassonne/rss.xml",
+      "title": "Carcassonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/patrimoine/chateaux/rss.xml",
+      "title": "châteaux",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/circulation-deplacements/rss.xml",
+      "title": "circulation déplacements",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/conflit-israel-iran/rss.xml",
+      "title": "conflit Israël-Iran",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/course-a-pied-trail/rss.xml",
+      "title": "course à pied, trail",
+      "tags": [
+        "sport",
+        "raid"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/rss.xml",
+      "title": "culture et loisirs",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/cyclisme/rss.xml",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/economie/emploi/rss.xml",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/environnement/rss.xml",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/europe/rss.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/expositions/rss.xml",
+      "title": "expositions",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/fetes-et-festivals/rss.xml",
+      "title": "fêtes et festivals",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/faits-divers/rss.xml",
+      "title": "faits divers",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/football/rss.xml",
+      "title": "football",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/football/ligue-1/rss.xml",
+      "title": "football ligue 1",
+      "tags": [
+        "foot",
+        "ligue_1"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/football/ligue-2/rss.xml",
+      "title": "football ligue 2",
+      "tags": [
+        "foot",
+        "ligue_2"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/gard/rss.xml",
+      "title": "Gard",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/gastronomie-et-terroir/rss.xml",
+      "title": "gastronomie et terroir",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/grands-sites/rss.xml",
+      "title": "grands sites",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/attaque-du-hamas-contre-israel/rss.xml",
+      "title": "guerre à Gaza",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/guerre-au-proche-orient/rss.xml",
+      "title": "guerre au Proche-Orient",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/hebergements/rss.xml",
+      "title": "hébergements",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/rss.xml",
+      "title": "Hérault",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/handball/rss.xml",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/justice/rss.xml",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/environnement/monde-nouveau/rss.xml",
+      "title": "Le Monde Nouveau",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/lozere/rss.xml",
+      "title": "Lozère",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/lunel/rss.xml",
+      "title": "Lunel",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/meteo/rss.xml",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/gastronomie-et-terroir/marches/rss.xml",
+      "title": "marchés",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/mayotte/rss.xml",
+      "title": "Mayotte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/lozere/mende/rss.xml",
+      "title": "Mende",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aveyron/millau/rss.xml",
+      "title": "Millau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/rss.xml",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/montpellier/rss.xml",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/gard/nimes/rss.xml",
+      "title": "Nîmes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aude/narbonne/rss.xml",
+      "title": "Narbonne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/patrimoine/rss.xml",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/divertissement/people/rss.xml",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/pyrenees-orientales/perpignan/rss.xml",
+      "title": "Perpignan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/pyrenees-orientales/rss.xml",
+      "title": "Pyrénées-Orientales",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/aveyron/rodez/rss.xml",
+      "title": "Rodez",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/rugby-xv/pro-d2/rss.xml",
+      "title": "rugby pro D2",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/rugby-xv/top-14/rss.xml",
+      "title": "rugby top-14",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/rugby-xiii/rss.xml",
+      "title": "rugby XIII",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/rugby-xv/rss.xml",
+      "title": "rugby XV",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/securite/rss.xml",
+      "title": "sécurité",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/herault/sete/rss.xml",
+      "title": "Sète",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sante/rss.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/sciences-et-techniques/rss.xml",
+      "title": "sciences et techniques",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/societe/rss.xml",
+      "title": "société",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/rss.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/tennis/rss.xml",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/economie/tourisme/mediterranee/rss.xml",
+      "title": "tourisme : méditerranée",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/culture-et-loisirs/traditions/rss.xml",
+      "title": "traditions",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/actu/monde/ukraine/rss.xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/videos/rss.xml",
+      "title": "vidéos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/volley-ball/rss.xml",
+      "title": "volley-ball",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://www.midilibre.fr/sport/volley-ball/ligue-a/rss.xml",
+      "title": "volley-ball : ligue A",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    }
+  ]
+}

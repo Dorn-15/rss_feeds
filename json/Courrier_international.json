@@ -1,0 +1,1530 @@
+{
+  "company": "Courrier international",
+  "host": "www.courrierinternational.com",
+  "img": "Courrier_international.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/economie/rss.xml",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ecrans/rss.xml",
+      "title": "écrans",
+      "tags": [
+        "culture",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/egypte/rss.xml",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/emirats-arabes-unis/rss.xml",
+      "title": "Émirats arabes unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/equateur/rss.xml",
+      "title": "Équateur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/erythree/rss.xml",
+      "title": "Érythrée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/etats-unis/rss.xml",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ethiopie/rss.xml",
+      "title": "Éthiopie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/maurice-ile/rss.xml",
+      "title": "Île Maurice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/all/rss.xml",
+      "title": "actualité",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/jeffrey-epstein/rss.xml",
+      "title": "Affaire Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/afghanistan/rss.xml",
+      "title": "Afghanistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/afrique-du-sud/rss.xml",
+      "title": "Afrique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/albanie/rss.xml",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/algerie/rss.xml",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ameriques/rss.xml",
+      "title": "Amériques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/angola/rss.xml",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/antigua-et-barbuda/rss.xml",
+      "title": "Antigua-et-Barbuda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/arabie-saoudite/rss.xml",
+      "title": "Arabie Saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/argentine/rss.xml",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/armenie/rss.xml",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/asie/rss.xml",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/australie/rss.xml",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/autriche/rss.xml",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/azerbaidjan/rss.xml",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/benin/rss.xml",
+      "title": "Bénin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bahamas/rss.xml",
+      "title": "Bahamas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bahrein/rss.xml",
+      "title": "Bahreïn",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bangladesh/rss.xml",
+      "title": "Bangladesh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/belgique/rss.xml",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/belize/rss.xml",
+      "title": "Belize",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bhoutan/rss.xml",
+      "title": "Bhoutan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bielorussie/rss.xml",
+      "title": "Biélorussie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/birmanie/rss.xml",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bolivie/rss.xml",
+      "title": "Bolivie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bosnie-herzegovine/rss.xml",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/botswana/rss.xml",
+      "title": "Botswana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bresil/rss.xml",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/bulgarie/rss.xml",
+      "title": "Bulgarie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/burkina-faso/rss.xml",
+      "title": "Burkina Faso",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/burundi/rss.xml",
+      "title": "Burundi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/business/rss.xml",
+      "title": "business",
+      "tags": [
+        "economie",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cote-d-ivoire/rss.xml",
+      "title": "Côte d'Ivoire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cambodge/rss.xml",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cameroun/rss.xml",
+      "title": "Cameroun",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/canada/rss.xml",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cap-vert-iles-du/rss.xml",
+      "title": "Cap-Vert (îles du)",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/chili/rss.xml",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/chine/rss.xml",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/chypre/rss.xml",
+      "title": "Chypre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/colombie/rss.xml",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/comores/rss.xml",
+      "title": "Comores",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/coree-du-nord/rss.xml",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/coree-du-sud/rss.xml",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/costa-rica/rss.xml",
+      "title": "Costa Rica",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/croatie/rss.xml",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cuba/rss.xml",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/culture/rss.xml",
+      "title": "culture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/cybercriminalite-et-cybersecurite/rss.xml",
+      "title": "cybercriminalité et cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/danemark/rss.xml",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/djibouti/rss.xml",
+      "title": "Djibouti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/dominique-la/rss.xml",
+      "title": "Dominique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/enquetes/rss.xml",
+      "title": "enquêtes",
+      "tags": [
+        "general",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/environnement/rss.xml",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/espagne/rss.xml",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/estonie/rss.xml",
+      "title": "Estonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/swaziland/rss.xml",
+      "title": "Eswatini",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/europe/rss.xml",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/expat/rss.xml",
+      "title": "expat",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/finlande/rss.xml",
+      "title": "Finlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/france-pays/rss.xml",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/georgie/rss.xml",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/gabon/rss.xml",
+      "title": "Gabon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/gambie/rss.xml",
+      "title": "Gambie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ghana/rss.xml",
+      "title": "Ghana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/grece/rss.xml",
+      "title": "Grèce",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/guatemala/rss.xml",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/guinee/rss.xml",
+      "title": "Guinée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/guinee-bissau/rss.xml",
+      "title": "Guinée-Bissau",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/guyana-la/rss.xml",
+      "title": "Guyana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/haiti/rss.xml",
+      "title": "Haïti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/histoire/rss.xml",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/honduras/rss.xml",
+      "title": "Honduras",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/hongrie/rss.xml",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/immobilier/rss.xml",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/inde/rss.xml",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/indonesie/rss.xml",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/intelligence-artificielle/rss.xml",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/irak/rss.xml",
+      "title": "Irak",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/iran/rss.xml",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/irlande/rss.xml",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/islande/rss.xml",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/israel/rss.xml",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/italie/rss.xml",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/japon/rss.xml",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/jordanie/rss.xml",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/kazakhstan/rss.xml",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/kenya/rss.xml",
+      "title": "Kenya",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/kirghizistan/rss.xml",
+      "title": "Kirghizistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/kiribati/rss.xml",
+      "title": "Kiribati",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/kosovo/rss.xml",
+      "title": "Kosovo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/koweit/rss.xml",
+      "title": "Koweït",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/grenade-la/rss.xml",
+      "title": "La Grenade",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/jamaique-la/rss.xml",
+      "title": "La Jamaïque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/laos/rss.xml",
+      "title": "Laos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/vatican-le/rss.xml",
+      "title": "Le Vatican",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/fidji-les/rss.xml",
+      "title": "Les Fidji",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/lesotho/rss.xml",
+      "title": "Lesotho",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/liberia/rss.xml",
+      "title": "Libéria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/liban/rss.xml",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/libye/rss.xml",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/lifestyle/rss.xml",
+      "title": "lifestyle",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/luxembourg/rss.xml",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/madagascar/rss.xml",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/malaisie/rss.xml",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/malawi/rss.xml",
+      "title": "Malawi",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/mali/rss.xml",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/malte/rss.xml",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/maroc/rss.xml",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/mauritanie/rss.xml",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/mexique/rss.xml",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/moldavie/rss.xml",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/montenegro/rss.xml",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/moyen-orient/rss.xml",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/mozambique/rss.xml",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/namibie/rss.xml",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/nicaragua/rss.xml",
+      "title": "Nicaragua",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/nigeria/rss.xml",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/norvege/rss.xml",
+      "title": "Norvège",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/nouvelle-zelande/rss.xml",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ouganda/rss.xml",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/perou/rss.xml",
+      "title": "Pérou",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/pakistan/rss.xml",
+      "title": "Pakistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/territoires-palestiniens/rss.xml",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/panama/rss.xml",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/pays-bas/rss.xml",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/philippines/rss.xml",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/planete-buzz/rss.xml",
+      "title": "planete buzz",
+      "tags": [
+        "culture",
+        "insolite"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/podcast/rss.xml",
+      "title": "podcast",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/politique/rss.xml",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/pologne/rss.xml",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/portugal/rss.xml",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/qatar/rss.xml",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/congo/rss.xml",
+      "title": "République du Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/republique-democratique-du-congo-rdc/rss.xml",
+      "title": "République démocratique du Congo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/republique-dominicaine/rss.xml",
+      "title": "République Dominicaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/reveil/rss.xml",
+      "title": "réveil",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/royaume-uni/rss.xml",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/russie/rss.xml",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/rwanda/rss.xml",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/senegal/rss.xml",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/salvador/rss.xml",
+      "title": "Salvador",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/sante/rss.xml",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/science-techno/rss.xml",
+      "title": "sciences et techno",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/serbie/rss.xml",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/seychelles/rss.xml",
+      "title": "Seychelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/sierra-leone/rss.xml",
+      "title": "Sierra Leone",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/singapour/rss.xml",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/slovaquie/rss.xml",
+      "title": "Slovaquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/somalie/rss.xml",
+      "title": "Somalie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/soudan/rss.xml",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/soudan-du-sud/rss.xml",
+      "title": "Soudan du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/sport/rss.xml",
+      "title": "sport",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/sri-lanka/rss.xml",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/suede/rss.xml",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/suisse/rss.xml",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/syrie/rss.xml",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/taiwan/rss.xml",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tadjikistan/rss.xml",
+      "title": "Tadjikistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tanzanie/rss.xml",
+      "title": "Tanzanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/republique-tcheque-ou-tchequie/rss.xml",
+      "title": "Tchéquie ou République Tchèque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tchetchenie/rss.xml",
+      "title": "Tchétchénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tchad/rss.xml",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tendances/rss.xml",
+      "title": "tendances",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/thailande/rss.xml",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tibet/rss.xml",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/timor-oriental/rss.xml",
+      "title": "Timor-Oriental",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/togo/rss.xml",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/transnistrie/rss.xml",
+      "title": "Transnistrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/tunisie/rss.xml",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/turkmenistan/rss.xml",
+      "title": "Turkménistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/turquie/rss.xml",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/ukraine/rss.xml",
+      "title": "Ukraine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/uruguay/rss.xml",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/venezuela/rss.xml",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/vietnam/rss.xml",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/voyage/rss.xml",
+      "title": "voyages",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/yemen/rss.xml",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/zambie/rss.xml",
+      "title": "Zambie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.courrierinternational.com/feed/rubrique/zimbabwe/rss.xml",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

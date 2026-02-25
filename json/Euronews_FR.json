@@ -1,0 +1,2202 @@
+{
+  "company": "Euronews - FR",
+  "host": "fr.euronews.com",
+  "img": "Euronews_FR.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://fr.euronews.com/rss?level=theme&name=eco-innovation",
+      "title": "éco-innovation",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=economie-americaine",
+      "title": "économie américaine",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=economie-francaise",
+      "title": "économie française",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=economie-japonaise",
+      "title": "économie japonaise",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=economie-russe",
+      "title": "économie russe",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ecosse",
+      "title": "Écosse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=egypte",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=elargissement-de-l-union-europeenne",
+      "title": "Élargissement de l'Union européenne",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=energie",
+      "title": "énergie",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=epidemie",
+      "title": "épidemie",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=erythree",
+      "title": "Érythrée",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=etats-unis",
+      "title": "États-Unis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=etats-unis-d-amerique",
+      "title": "États-Unis d'Amérique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=aeroport",
+      "title": "aéroport",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=abeilles",
+      "title": "Abeilles",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=afrique-du-sud",
+      "title": "Afrique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=agriculture",
+      "title": "agriculture",
+      "tags": [
+        "environnement",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=albanie",
+      "title": "Albanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=algerie",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=allemagne",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=amerique-centrale",
+      "title": "Amérique centrale",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=amerique-du-nord",
+      "title": "Amérique du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=amerique-du-sud",
+      "title": "Amérique du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=amerique-latine",
+      "title": "Amérique latine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=amazon",
+      "title": "Amazon",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=andorre",
+      "title": "Andorre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=angola",
+      "title": "Angola",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=arabie-saoudite",
+      "title": "Arabie saoudite",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=argentine",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=armenie",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=arts-martiaux",
+      "title": "arts martiaux",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=athenes",
+      "title": "Athènes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=attaque-informatique",
+      "title": "attaque informatique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=australie",
+      "title": "Australie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=autriche",
+      "title": "Autriche",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=aviation-civile",
+      "title": "aviation civile",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=azerbaidjan",
+      "title": "Azerbaïdjan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bande-de-gaza",
+      "title": "Bande de Gaza",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bangladesh",
+      "title": "Bangladesh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bart-de-wever",
+      "title": "Bart De Wever",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=belgique",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=benyamin-netanyahou",
+      "title": "Benyamin Netanyahou",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=berlin",
+      "title": "Berlin",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=theme&name=wellbeing",
+      "title": "bien-être",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=birmanie",
+      "title": "Birmanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bosnie-herzegovine",
+      "title": "Bosnie-Herzégovine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=boycott",
+      "title": "boycott",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bresil",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=bruxelles",
+      "title": "Bruxelles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=budget",
+      "title": "budget",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=burkina-faso",
+      "title": "Burkina Faso",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=cachemire",
+      "title": "Cachemire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=cambodge",
+      "title": "Cambodge",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=cameroun",
+      "title": "Cameroun",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=canada",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=catastrophe-aerienne",
+      "title": "catastrophe aérienne",
+      "tags": [
+        "cite",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=caucase",
+      "title": "Caucase",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=changement-climatique",
+      "title": "Changement climatique",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=chili",
+      "title": "Chili",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=chine",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=chutes-de-neige",
+      "title": "Chutes de neige",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=chypre",
+      "title": "Chypre",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=coca-cola",
+      "title": "Coca Cola",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=Colombie",
+      "title": "Colombie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=conservation",
+      "title": "conservation",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=consommation-des-menages",
+      "title": "Consommation des ménages",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=cop30",
+      "title": "COP 30",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=coree-du-nord",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=coree-du-sud",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=corruption",
+      "title": "corruption",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=costa-rica",
+      "title": "Costa Rica",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=course-aux-armements",
+      "title": "Course aux armements",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=croatie",
+      "title": "Croatie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=cybersecurite",
+      "title": "cybersécurité",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=deces",
+      "title": "décès",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=defense",
+      "title": "défense",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=democrates",
+      "title": "Démocrates",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=danemark",
+      "title": "Danemark",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=davos",
+      "title": "Davos",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss",
+      "title": "dernières infos",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=developpement-durable",
+      "title": "developpement durable",
+      "tags": [
+        "environnement",
+        "dev_durable"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=diplomatie",
+      "title": "diplomatie",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=djibouti",
+      "title": "Djibouti",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=drogues",
+      "title": "drogues",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=droits-de-l-homme",
+      "title": "droits de l'homme",
+      "tags": [
+        "cite",
+        "droit"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=drones",
+      "title": "drones",
+      "tags": [
+        "technologie",
+        "hitech"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=e-commerce",
+      "title": "e-commerce",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=espagne",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=estonie",
+      "title": "Estonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=explosion",
+      "title": "explosion",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=exposition",
+      "title": "exposition",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=fact-checking",
+      "title": "Fact checking",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=fermeture-des-services-federaux-aux-usa",
+      "title": "Fermeture des services fédéraux aux USA",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=finlande",
+      "title": "Finlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=france",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=georgie",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=gastronomie",
+      "title": "gastronomie",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ghana",
+      "title": "Ghana",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=glissement-de-terrain",
+      "title": "Glissement de terrain",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=golden-globes",
+      "title": "Golden Globes",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=groenland",
+      "title": "Groenland",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=guatemala",
+      "title": "Guatemala",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=guerre-civile-yemenite",
+      "title": "guerre civile yéménite",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=halloween",
+      "title": "Halloween",
+      "tags": [
+        "culture",
+        "evenement"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=handicap",
+      "title": "handicap",
+      "tags": [
+        "cite",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=histoire",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=hiver",
+      "title": "hiver",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=hongrie",
+      "title": "Hongrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ia-generative",
+      "title": "IA Générative",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=incendie",
+      "title": "incendie",
+      "tags": [
+        "environnement",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=inde",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=indonesie",
+      "title": "Indonésie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=industrie-aeronautique",
+      "title": "industrie aéronautique",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=industrie-petroliere",
+      "title": "industrie pétrolière",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=inflation",
+      "title": "inflation",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=informatique",
+      "title": "informatique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=intelligence-artificielle",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=internet",
+      "title": "internet",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=iran",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=irlande",
+      "title": "Irlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=irlande-du-nord",
+      "title": "Irlande du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=islande",
+      "title": "Islande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=israel",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=istanbul",
+      "title": "Istanbul",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=italie",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=jerusalem",
+      "title": "Jérusalem",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=jamaique",
+      "title": "Jamaïque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=japon",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=jeffrey-epstein",
+      "title": "Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=jeux-olympiques",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=jordanie",
+      "title": "Jordanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=judo",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=justice",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=k-pop",
+      "title": "K-pop",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=kazakhstan",
+      "title": "Kazakhstan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=lettonie",
+      "title": "Lettonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=liban",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=libye",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=lituanie",
+      "title": "Lituanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=livres",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=logement",
+      "title": "logement",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=lune",
+      "title": "Lune",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=luxembourg",
+      "title": "Luxembourg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=lyon",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=medecine",
+      "title": "médecine",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=media-sociaux",
+      "title": "média sociaux",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=medias",
+      "title": "médias",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=macedoine-du-nord",
+      "title": "Macédoine du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=madagascar",
+      "title": "Madagascar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=magdeburg",
+      "title": "Magdeburg",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=maison-blanche",
+      "title": "Maison Blanche",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=malaisie",
+      "title": "Malaisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mali",
+      "title": "Mali",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=malte",
+      "title": "Malte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=manifestation",
+      "title": "manifestation",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=marche-immobilier",
+      "title": "marché immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=theme&name=markets",
+      "title": "marchés",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=maria-corina-machado",
+      "title": "Maria Corina Machado",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mark-rutte",
+      "title": "Mark Rutte",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=maroc",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mars",
+      "title": "Mars",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=marseille",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=maurice",
+      "title": "Maurice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mer-noire",
+      "title": "Mer Noire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mercosur",
+      "title": "MERCOSUR",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mexique",
+      "title": "Mexique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=microsoft",
+      "title": "Microsoft",
+      "tags": [
+        "economie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=minneapolis",
+      "title": "Minneapolis",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=moldavie",
+      "title": "Moldavie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=theme&name=news",
+      "title": "monde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=monde-du-travail",
+      "title": "monde du travail",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=montenegro",
+      "title": "Monténégro",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=moscou",
+      "title": "Moscou",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=moyen-orient",
+      "title": "Moyen-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=mozambique",
+      "title": "Mozambique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=musique-classique",
+      "title": "musique classique",
+      "tags": [
+        "musique",
+        "classique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nepal",
+      "title": "Népal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=namibie",
+      "title": "Namibie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=napoleon",
+      "title": "Napoléon",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nasa",
+      "title": "NASA",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nations-unies",
+      "title": "Nations Unies",
+      "tags": [
+        "cite",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=gisement-petrolier",
+      "title": "navire pétrolier",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=new-york",
+      "title": "New York",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nice",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nicolas-maduro",
+      "title": "Nicolas Maduro",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nicolas-sarkozy",
+      "title": "Nicolas Sarkozy",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nigeria",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=noel",
+      "title": "Noël",
+      "tags": [
+        "culture",
+        "evenement"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=nouvelle-zelande",
+      "title": "Nouvelle-Zélande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=obesite",
+      "title": "obésité",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=oman",
+      "title": "Oman",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ouganda",
+      "title": "Ouganda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=petition",
+      "title": "pétition",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=palestine",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=panama",
+      "title": "Panama",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=pape-leon-xiv",
+      "title": "Pape Léon XIV",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=paris",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=patrimoine",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=pays-de-galles",
+      "title": "Pays de Galles",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=pays-bas",
+      "title": "Pays-bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=philippines",
+      "title": "Philippines",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=piratage-informatique",
+      "title": "piratage informatique",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=police",
+      "title": "police",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-norvege",
+      "title": "politique : Norvège",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-americaine",
+      "title": "politique américaine",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-chili",
+      "title": "politique chilienne",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-de-lue",
+      "title": "politique de l'UE",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-francaise",
+      "title": "politique française",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=politique-suisse",
+      "title": "politique suisse",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=pollution",
+      "title": "pollution",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=pologne",
+      "title": "Pologne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=portugal",
+      "title": "Portugal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=protection-des-donnees-personnelles",
+      "title": "protection des données personnelles",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=psychologie",
+      "title": "psychologie",
+      "tags": [
+        "culture",
+        "psychologie"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=qatar",
+      "title": "Qatar",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=republicain",
+      "title": "Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=republique-tcheque",
+      "title": "République Tchèque",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=rechauffement-climatique",
+      "title": "Réchauffement climatique",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=republique-dominicaine",
+      "title": "République Dominicaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=la-republique-en-marche",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=roberta-metsola",
+      "title": "Roberta Metsola",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=robotique",
+      "title": "robotique",
+      "tags": [
+        "technologie",
+        "robotique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=roumanie",
+      "title": "Roumanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=royaume-uni",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=russie",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=rwanda",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ryanair",
+      "title": "Ryanair",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=senegal",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sabotage",
+      "title": "sabotage",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sahara-occidental",
+      "title": "Sahara occidental",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=salaires",
+      "title": "salaires",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sanctions",
+      "title": "sanctions",
+      "tags": [
+        "economie",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sante",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sante-mentale",
+      "title": "santé mentale",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sarajevo",
+      "title": "Sarajevo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=serbie",
+      "title": "Serbie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=singapour",
+      "title": "Singapour",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ski",
+      "title": "ski",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=slovaquie",
+      "title": "Slovaquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=somalie",
+      "title": "Somalie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=soudan",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sri-lanka",
+      "title": "Sri Lanka",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=station-spatiale-internationale",
+      "title": "Station spatiale internationale",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=suede",
+      "title": "Suède",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=suisse",
+      "title": "Suisse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=sydney",
+      "title": "Sydney",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=syrie",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=taiwan",
+      "title": "Taïwan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tadjikistan",
+      "title": "Tadjikistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tanzanie",
+      "title": "Tanzanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tchetchenie",
+      "title": "Tchétchénie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tchad",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=technologie-spatiale",
+      "title": "technologie spatiale",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tempete",
+      "title": "tempête",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tempete-de-neige",
+      "title": "tempête de neige",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tennis",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=thailande",
+      "title": "Thaïlande",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=program&name=the-big-question",
+      "title": "The Big Question",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tibet",
+      "title": "Tibet",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tourisme",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=tunisie",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=turkmenistan",
+      "title": "Turkménistan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=turquie",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=typhon",
+      "title": "Typhon",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=union-europeenne",
+      "title": "Union Européenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=ursula-von-der-leyen",
+      "title": "Ursula von der Leyen",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=uruguay",
+      "title": "Uruguay",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=vatican",
+      "title": "Vatican",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=venezuela",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=vietnam",
+      "title": "Vietnam",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=violence-contre-les-femmes",
+      "title": "Violence contre les femmes",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=voyage",
+      "title": "voyage",
+      "tags": [
+        "culture",
+        "voyage"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=yemen",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://fr.euronews.com/rss?level=tag&name=zimbabwe",
+      "title": "Zimbabwe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

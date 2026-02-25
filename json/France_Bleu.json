@@ -1,0 +1,738 @@
+{
+  "company": "France Bleu",
+  "host": "www.francebleu.fr",
+  "img": "France_Bleu.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.francebleu.fr/rss/alsace/a-la-une.xml",
+      "title": "Alsace : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/alsace/rubrique/infos.xml",
+      "title": "Alsace : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/armorique/a-la-une.xml",
+      "title": "Armorique : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/armorique/emissions.xml",
+      "title": "Armorique : émissions",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/armorique/rubrique/infos.xml",
+      "title": "Armorique : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/azur/a-la-une.xml",
+      "title": "Azur : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/azur/rubrique/infos.xml",
+      "title": "Azur : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/bearn/a-la-une.xml",
+      "title": "Béarn : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/bearn/rubrique/infos.xml",
+      "title": "Béarn : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/belfort-montbeliard/a-la-une.xml",
+      "title": "Belfort-Montbéliard : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/belfort-montbeliard/rubrique/infos.xml",
+      "title": "Belfort-Montbéliard : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/berry/a-la-une.xml",
+      "title": "Berry : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/berry/rubrique/infos.xml",
+      "title": "Berry : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/besancon/a-la-une.xml",
+      "title": "Besançon : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/besancon/rubrique/infos.xml",
+      "title": "Besançon : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/bourgogne/a-la-une.xml",
+      "title": "Bourgogne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/bourgogne/rubrique/infos.xml",
+      "title": "Bourgogne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/breizh-izel/a-la-une.xml",
+      "title": "Breizh Izel : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/breizh-izel/rubrique/infos.xml",
+      "title": "Breizh Izel : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/normandie-caen/a-la-une.xml",
+      "title": "Calvados et Orne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/normandie-caen/rubrique/infos.xml",
+      "title": "Calvados et Orne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/champagne-ardenne/a-la-une.xml",
+      "title": "Champagne-Ardenne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/champagne-ardenne/rubrique/infos.xml",
+      "title": "Champagne-Ardenne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/cotentin/a-la-une.xml",
+      "title": "Cotentin : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/cotentin/rubrique/infos.xml",
+      "title": "Cotentin : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/creuse/a-la-une.xml",
+      "title": "Creuse : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/creuse/rubrique/infos.xml",
+      "title": "Creuse : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/drome-ardeche/a-la-une.xml",
+      "title": "Drôme et Ardèche : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/drome-ardeche/rubrique/infos.xml",
+      "title": "Drôme et Ardèche : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/elsass/a-la-une.xml",
+      "title": "Elsass : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/elsass/rubrique/infos.xml",
+      "title": "Elsass : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gard-lozere/a-la-une.xml",
+      "title": "Gard Lozère : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gard-lozere/rubrique/infos.xml",
+      "title": "Gard Lozère : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gascogne/a-la-une.xml",
+      "title": "Gascogne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gascogne/rubrique/infos.xml",
+      "title": "Gascogne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gironde/a-la-une.xml",
+      "title": "Gironde : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/gironde/rubrique/infos.xml",
+      "title": "Gironde : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/herault/rubrique/infos.xml",
+      "title": "Hérault : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/isere/a-la-une.xml",
+      "title": "Isère : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/isere/rubrique/infos.xml",
+      "title": "Isère : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/la-rochelle/a-la-une.xml",
+      "title": "La Rochelle : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/la-rochelle/rubrique/infos.xml",
+      "title": "La Rochelle : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/limousin/a-la-une.xml",
+      "title": "Limousin : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/limousin/rubrique/infos.xml",
+      "title": "Limousin : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/loire-ocean/a-la-une.xml",
+      "title": "Loire Océan : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/loire-ocean/rubrique/infos.xml",
+      "title": "Loire Océan : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/sud-lorraine/a-la-une.xml",
+      "title": "Lorraine, Meurthe-et-Moselle et Vosges : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/sud-lorraine/rubrique/infos.xml",
+      "title": "Lorraine, Meurthe-et-Moselle et Vosges : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/lorraine-nord/a-la-une.xml",
+      "title": "Lorraine, Moselle et Pays Haut : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/lorraine-nord/rubrique/infos.xml",
+      "title": "Lorraine, Moselle et Pays Haut : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/maine/a-la-une.xml",
+      "title": "Maine : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/maine/rubrique/infos.xml",
+      "title": "Maine : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/mayenne/a-la-une.xml",
+      "title": "Mayenne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/mayenne/rubrique/infos.xml",
+      "title": "Mayenne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/nord/a-la-une.xml",
+      "title": "Nord : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/nord/rubrique/infos.xml",
+      "title": "Nord : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/toulouse/a-la-une.xml",
+      "title": "Occitanie : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/toulouse/rubrique/infos.xml",
+      "title": "Occitanie : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/orleans/a-la-une.xml",
+      "title": "Orléans : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/orleans/rubrique/infos.xml",
+      "title": "Orléans : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/perigord/a-la-une.xml",
+      "title": "Périgord : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/perigord/rubrique/infos.xml",
+      "title": "Périgord : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/107-1/a-la-une.xml",
+      "title": "Paris : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/107-1/rubrique/infos.xml",
+      "title": "Paris : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-basque/a-la-une.xml",
+      "title": "Pays basque : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-basque/rubrique/infos.xml",
+      "title": "Pays basque : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-d-auvergne/a-la-une.xml",
+      "title": "Pays d'Auvergne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-d-auvergne/rubrique/infos.xml",
+      "title": "Pays d'Auvergne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-de-savoie/a-la-une.xml",
+      "title": "Pays de Savoie : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/pays-de-savoie/rubrique/infos.xml",
+      "title": "Pays de Savoie : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/picardie/a-la-une.xml",
+      "title": "Picardie : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/picardie/rubrique/infos.xml",
+      "title": "Picardie : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/poitou/a-la-une.xml",
+      "title": "Poitou : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/poitou/rubrique/infos.xml",
+      "title": "Poitou : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/provence/a-la-une.xml",
+      "title": "Provence : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/provence/rubrique/infos.xml",
+      "title": "Provence : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/roussillon/a-la-une.xml",
+      "title": "Roussillon : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/roussillon/rubrique/infos.xml",
+      "title": "Roussillon : actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/saint-etienne-loire/a-la-une.xml",
+      "title": "Saint-Étienne Loire : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/saint-etienne-loire/emissions.xml",
+      "title": "Saint-Étienne Loire : émissions",
+      "tags": [
+        "general",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/saint-etienne-loire/rubrique/infos.xml",
+      "title": "Saint-Étienne Loire : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/normandie-rouen/a-la-une.xml",
+      "title": "Seine-Maritime et Eure : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/normandie-rouen/rubrique/infos.xml",
+      "title": "Seine-Maritime et Eure : actualité",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/touraine/a-la-une.xml",
+      "title": "Touraine : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/touraine/rubrique/infos.xml",
+      "title": "Touraine : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/vaucluse/a-la-une.xml",
+      "title": "Vaucluse : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/vaucluse/rubrique/infos.xml",
+      "title": "Vaucluse : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/auxerre/a-la-une.xml",
+      "title": "Yonne : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/auxerre/rubrique/infos.xml",
+      "title": "Yonne : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/rcfm/a-la-une.xml",
+      "title": "RCFM : à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.francebleu.fr/rss/rcfm/rubrique/infos.xml",
+      "title": "RCFM : actualités",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    }
+  ]
+}

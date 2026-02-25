@@ -1,0 +1,2754 @@
+{
+  "company": "France Info",
+  "host": "www.franceinfo.fr",
+  "img": "France_Info.svg",
+  "country": "fr",
+  "language": "fr",
+  "fetchprotection": 1,
+  "feeds": [
+    {
+      "url": "https://www.franceinfo.fr/monde/conflit-dans-le-haut-karabakh.rss",
+      "title": "Conflit dans le Haut-Karabakh",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/titres.rss",
+      "title": "à la une",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie.rss",
+      "title": "économie",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/egypte.rss",
+      "title": "Égypte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/elections.rss",
+      "title": "élections",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe/elections-en-allemagne.rss",
+      "title": "Élections en Allemagne",
+      "tags": [
+        "politique",
+        "election"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/equitation.rss",
+      "title": "équitation",
+      "tags": [
+        "sport",
+        "equitation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/usa.rss",
+      "title": "États Unis d'Amérique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/usa/incendies-en-californie.rss",
+      "title": "États-Unis : incendies en Californie",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/ile-de-france.rss",
+      "title": "Île-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15.rss",
+      "title": "13h15 : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/19h-le-dimanche.rss",
+      "title": "20h30 le dimanche : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi.rss",
+      "title": "20h30 le samedi : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-vendredi.rss",
+      "title": "20h30 le vendredi : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/aeronautique.rss",
+      "title": "aéronautique",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/depardieu.rss",
+      "title": "Affaire Gérard Depardieu",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein.rss",
+      "title": "Affaire Jeffrey Epstein",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/affaire.rss",
+      "title": "affaires",
+      "tags": [
+        "general",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles.rss",
+      "title": "Affaires sensibles : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique.rss",
+      "title": "Afrique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture.rss",
+      "title": "agriculture",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/transports/greve-a-air-france.rss",
+      "title": "Air France",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/algerie.rss",
+      "title": "Algérie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne.rss",
+      "title": "Allemagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/alpes-de-haute-provence.rss",
+      "title": "Alpes-de-Haute-Provence",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/alpes-maritimes.rss",
+      "title": "Alpes-Maritimes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/ameriques.rss",
+      "title": "Amériques",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/ameriques/amazonie.rss",
+      "title": "Amazonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux.rss",
+      "title": "animaux",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/patrimoine/archeologie.rss",
+      "title": "archéologie",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/architecture.rss",
+      "title": "architecture",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/argentine.rss",
+      "title": "Argentine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/armee-securite-defense.rss",
+      "title": "armée, sécurité et défense",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/armenie.rss",
+      "title": "Arménie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/arret-sur-info.rss",
+      "title": "Arrêt sur info : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain.rss",
+      "title": "art contemporain",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos.rss",
+      "title": "arts expos",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde//asie.rss",
+      "title": "Asie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale.rss",
+      "title": "assemblée nationale",
+      "tags": [
+        "politique",
+        "institution"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/athletisme.rss",
+      "title": "athlétisme",
+      "tags": [
+        "sport",
+        "athletisme"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/austerite-en-europe.rss",
+      "title": "austérité en Europe",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/auto-moto.rss",
+      "title": "auto moto",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/autoentrepreneurs.rss",
+      "title": "auto-entrepreneur",
+      "tags": [
+        "economie",
+        "autoentrepreneur"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile.rss",
+      "title": "automobile",
+      "tags": [
+        "economie",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/auvergne-rhone-alpes.rss",
+      "title": "Auvergne-Rhône-Alpes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/aviron.rss",
+      "title": "aviron",
+      "tags": [
+        "sport",
+        "aviron"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/badminton.rss",
+      "title": "badminton",
+      "tags": [
+        "sport",
+        "badminton"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/bangladesh.rss",
+      "title": "Bangladesh",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/banksy.rss",
+      "title": "Bansky",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/baseball.rss",
+      "title": "baseball",
+      "tags": [
+        "sport",
+        "cricket"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/basket.rss",
+      "title": "basket",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/bd.rss",
+      "title": "BD",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/bd/franco-belge.rss",
+      "title": "BD franco-belge",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/livres/beaux-livres.rss",
+      "title": "beaux livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe/belgique.rss",
+      "title": "Belgique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/bielorussie.rss",
+      "title": "Biélorussie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/bitcoin.rss",
+      "title": "bitcoin",
+      "tags": [
+        "economie",
+        "cryptomonnaie"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/bouches-du-rhone.rss",
+      "title": "Bouches-du-Rhône",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/bourgogne-franche-comte.rss",
+      "title": "Bourgogne-Franche-Comté",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/bourse.rss",
+      "title": "bourse",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/bresil.rss",
+      "title": "Brésil",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/bretagne.rss",
+      "title": "Bretagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/budget.rss",
+      "title": "budget de la France",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/cesar.rss",
+      "title": "César",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/decouverte/c-est-la-rentree.rss",
+      "title": "C'est la rentrée",
+      "tags": [
+        "culture",
+        "enseignement"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/cambriolage-au-musee-du-louvre.rss",
+      "title": "Cambriolage au musée du Louvre",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/canada.rss",
+      "title": "Canada",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/canoe-kayak.rss",
+      "title": "Canoë-Kayak",
+      "tags": [
+        "sport",
+        "canoe_kayak"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation.rss",
+      "title": "Cash investigation : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/centre-pompidou.rss",
+      "title": "Centre Pompidou",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/centre-val-de-loire.rss",
+      "title": "Centre-Val de Loire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/patrimoine/chateau-de-versailles.rss",
+      "title": "Château de Versailles",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage.rss",
+      "title": "chômage",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/chasse-et-braconnage.rss",
+      "title": "chasse et braconnage",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/chine.rss",
+      "title": "Chine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-francois-bayrou.rss",
+      "title": "Chute du gouvernement Bayrou",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema.rss",
+      "title": "cinéma",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films.rss",
+      "title": "cinéma : sortie de films",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/spectacles/cirque.rss",
+      "title": "cirque",
+      "tags": [
+        "culture",
+        "cirque"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/clint-eastwood.rss",
+      "title": "Clint Eastwood",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs.rss",
+      "title": "Colère des agriculteurs",
+      "tags": [
+        "politique",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/bd/comics.rss",
+      "title": "comics",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/commerce.rss",
+      "title": "commerce",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/commerce/competitivite.rss",
+      "title": "compétitivité",
+      "tags": [
+        "economie",
+        "investissement"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete.rss",
+      "title": "Complément d'enquête : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/environnement/cop.rss",
+      "title": "COP",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/coree-du-nord.rss",
+      "title": "Corée du Nord",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/coree-du-sud.rss",
+      "title": "Corée du Sud",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/correspondants.rss",
+      "title": "Correspondants : vidéo",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/corse.rss",
+      "title": "Corse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/coups-de-coeur-culture.rss",
+      "title": "Coups de coeur",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise.rss",
+      "title": "crise",
+      "tags": [
+        "economie",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile/crise-automobile.rss",
+      "title": "crise automobile",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette.rss",
+      "title": "Crise de la dette",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/asie/crise-en-thailande.rss",
+      "title": "Crise en Thaïlande",
+      "tags": [
+        "politique",
+        "geopolitique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/crise-europeenne.rss",
+      "title": "Crise européenne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/croissance.rss",
+      "title": "croissance",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/cuba.rss",
+      "title": "Cuba",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cuisine.rss",
+      "title": "cuisine",
+      "tags": [
+        "culture",
+        "cuisine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie.rss",
+      "title": "cuisine et gastronomie",
+      "tags": [
+        "culture",
+        "gastronomie"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/en-regions.rss",
+      "title": "culture en régions",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture.rss",
+      "title": "culture et médias",
+      "tags": [
+        "culture",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques.rss",
+      "title": "cyberattaques",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/cyclisme.rss",
+      "title": "cyclisme",
+      "tags": [
+        "sport",
+        "cyclisme"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sante/decouverte-scientifique.rss",
+      "title": "Découverte scientifique",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/decouverte.rss",
+      "title": "découvertes",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/deficit.rss",
+      "title": "déficit",
+      "tags": [
+        "economie",
+        "politique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/spectacles/danse.rss",
+      "title": "danse",
+      "tags": [
+        "culture",
+        "danse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/danse.rss",
+      "title": "danse",
+      "tags": [
+        "culture",
+        "danse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/debout-la-france.rss",
+      "title": "Debout la France",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire.rss",
+      "title": "Dermatose nodulaire",
+      "tags": [
+        "economie",
+        "agriculture"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/design.rss",
+      "title": "design",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile/diesel.rss",
+      "title": "diesel",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-3/dimanche-en-politique.rss",
+      "title": "Dimanche en politique : vidéo",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/disparites-salariales.rss",
+      "title": "disparités salariales",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/documentaires.rss",
+      "title": "documentaires",
+      "tags": [
+        "cite",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/dopage.rss",
+      "title": "dopage",
+      "tags": [
+        "sport",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/drogue.rss",
+      "title": "drogue",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/musique/electro.rss",
+      "title": "electro",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/emploi.rss",
+      "title": "emploi",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/en-image.rss",
+      "title": "en image",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/enlevements.rss",
+      "title": "enlèvements",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/enquetes-franceinfo.rss",
+      "title": "enquêtes",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/entreprises.rss",
+      "title": "entreprises",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement.rss",
+      "title": "environnement",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special.rss",
+      "title": "Envoyé Spécial : vidéo",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/escalade.rss",
+      "title": "escalade",
+      "tags": [
+        "sport",
+        "escalade"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/escrime.rss",
+      "title": "escrime",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/animaux/especes-menacees.rss",
+      "title": "espèces menacées",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sciences/espace.rss",
+      "title": "espace",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/espagne.rss",
+      "title": "Espagne",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/esport.rss",
+      "title": "eSport",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe.rss",
+      "title": "Europe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/musique/eurovision.rss",
+      "title": "Eurovision",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers.rss",
+      "title": "faits divers",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/festival.rss",
+      "title": "festival",
+      "tags": [
+        "culture",
+        "evenement"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/festival-avignon.rss",
+      "title": "Festival d'Avignon",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/festival-de-cannes.rss",
+      "title": "Festival de Cannes",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/festival-de-deauville.rss",
+      "title": "Festival de Deauville",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/musique/festival-interceltique-lorient.rss",
+      "title": "Festival Interceltique de Lorient",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy.rss",
+      "title": "Financement de la campagne 2007 de Sarkozy",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/foot.rss",
+      "title": "foot",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/auto-moto/formule-1.rss",
+      "title": "formule-1",
+      "tags": [
+        "sport",
+        "auto_moto"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/francois-bayrou.rss",
+      "title": "François Bayrou",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/francois-fillon.rss",
+      "title": "François Fillon",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/francois-hollande.rss",
+      "title": "François Hollande",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france.rss",
+      "title": "France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures.rss",
+      "title": "France 2 : Journal de 13h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures.rss",
+      "title": "France 2 : Journal de 20h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures.rss",
+      "title": "France 2 : Journal de 8h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-2.rss",
+      "title": "France 2 : Journaux télévisés : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/fraude.rss",
+      "title": "fraude",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe/georgie.rss",
+      "title": "Géorgie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/cinema/golden-globes.rss",
+      "title": "Golden Globes",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/golf.rss",
+      "title": "golf",
+      "tags": [
+        "sport",
+        "golf"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu.rss",
+      "title": "Gouvernement de Sébastien Lecornu",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/grand-est.rss",
+      "title": "Grand Est",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/grand-palais.rss",
+      "title": "Grand Palais",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/grands-formats.rss",
+      "title": "Grands formats",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/environnement/greta-thunberg.rss",
+      "title": "Greta Thunberg",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/guadeloupe.rss",
+      "title": "Guadeloupe",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine.rss",
+      "title": "Guerre en Ukraine",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/gymnastique.rss",
+      "title": "gymnastique",
+      "tags": [
+        "sport",
+        "gymnastique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/halterophilie.rss",
+      "title": "haltérophilie",
+      "tags": [
+        "sport",
+        "halterophilie"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/handball.rss",
+      "title": "handball",
+      "tags": [
+        "sport",
+        "handball"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/handisport.rss",
+      "title": "handisport",
+      "tags": [
+        "sport",
+        "handicap"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel.rss",
+      "title": "harcèlement sexuel",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/hautes-alpes.rss",
+      "title": "Hautes-Alpes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/hauts-de-france.rss",
+      "title": "Hauts-de-France",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/bd/herge.rss",
+      "title": "Hergé",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/patrimoine/histoire.rss",
+      "title": "histoire",
+      "tags": [
+        "culture",
+        "histoire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/spectacles/humour.rss",
+      "title": "humour",
+      "tags": [
+        "culture",
+        "humour"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine.rss",
+      "title": "ICE - Police de l'immigration américaine : actualité",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/immigration.rss",
+      "title": "immigration",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/immobilier.rss",
+      "title": "immobilier",
+      "tags": [
+        "economie",
+        "immobilier"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/inattendu.rss",
+      "title": "INAttendu : vidéo",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/inde.rss",
+      "title": "Inde",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues.rss",
+      "title": "inondations et crues",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle.rss",
+      "title": "intelligence artificielle",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/internet.rss",
+      "title": "internet",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/iran.rss",
+      "title": "Iran",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/israel.rss",
+      "title": "Israël",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/italie.rss",
+      "title": "Italie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/japon.rss",
+      "title": "Japon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/les-jeux-olympiques.rss",
+      "title": "jeux olympiques",
+      "tags": [
+        "sport",
+        "jeux_olympiques"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/jeux-video.rss",
+      "title": "jeux vidéo",
+      "tags": [
+        "culture",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/jouets.rss",
+      "title": "jouets",
+      "tags": [
+        "culture",
+        "ludique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-12-18-ans.rss",
+      "title": "Journal 12ans 18ans : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures.rss",
+      "title": "Journal de 23h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures.rss",
+      "title": "Journal de 7h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/12-13-info.rss",
+      "title": "Journal du 12h 13h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/le-18h-20h.rss",
+      "title": "Journal du 18h 20h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo.rss",
+      "title": "Journaux télévisés : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/judo.rss",
+      "title": "judo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/justice.rss",
+      "title": "justice",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/justice-proces.rss",
+      "title": "justice - procès",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/karate.rss",
+      "title": "karaté",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement.rss",
+      "title": "L'Événement, Le Prime : vidéo",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement-l-interview.rss",
+      "title": "L'Évènement, l'interview : vidéo",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes.rss",
+      "title": "L'actu pour les jeunes",
+      "tags": [
+        "general",
+        "jeunesse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-heure-americaine.rss",
+      "title": "L'heure américaine : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-info-s-eclaire.rss",
+      "title": "L'info s'éclaire : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-interview-culture.rss",
+      "title": "L'interview culture : vidéo",
+      "tags": [
+        "culture",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique.rss",
+      "title": "L'invité politique : vidéo",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise.rss",
+      "title": "La France Insoumise",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/crise/aaa.rss",
+      "title": "La note de la France dégradée",
+      "tags": [
+        "economie",
+        "banque"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/la-politique-s-eclaire.rss",
+      "title": "La politique s'éclaire : vidéo",
+      "tags": [
+        "politique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/la-reunion.rss",
+      "title": "La Réunion",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/9h30-13h.rss",
+      "title": "Le fil info : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/eelv.rss",
+      "title": "Les Écologistes",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/choix.rss",
+      "title": "Les choix de la rédaction",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/les-republicains.rss",
+      "title": "Les Républicains",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/proche-orient//liban.rss",
+      "title": "Liban",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/libye.rss",
+      "title": "Libye",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-2.rss",
+      "title": "Ligue 2",
+      "tags": [
+        "foot",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/hauts-de-france/nord/lille.rss",
+      "title": "Lille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires.rss",
+      "title": "livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/livres.rss",
+      "title": "livres : prix littéraires",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb.rss",
+      "title": "Loi Duplomb",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/patrimoine/loto-du-patrimoine.rss",
+      "title": "loto du patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/lutte-ouvriere.rss",
+      "title": "Lutte Ouvrière",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/rhone/lyon.rss",
+      "title": "Lyon",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/medias.rss",
+      "title": "médias",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/meteo.rss",
+      "title": "météo",
+      "tags": [
+        "environnement",
+        "meteo"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers.rss",
+      "title": "métiers",
+      "tags": [
+        "economie",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/bd/mangas.rss",
+      "title": "mangas",
+      "tags": [
+        "culture",
+        "bd"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/bourse/marches.rss",
+      "title": "marchés",
+      "tags": [
+        "economie",
+        "bourse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/redaction/margaux-duguet.rss",
+      "title": "Margaux Duguet",
+      "tags": [
+        "politique",
+        "chronique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/maroc.rss",
+      "title": "Maroc",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/marseille.rss",
+      "title": "Marseille",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/martinique.rss",
+      "title": "Martinique",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/mauritanie.rss",
+      "title": "Mauritanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/mayotte.rss",
+      "title": "Mayotte",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/meilleures-expos.rss",
+      "title": "Meilleures expositions",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/livres/meilleurs-livres.rss",
+      "title": "meilleurs livres",
+      "tags": [
+        "culture",
+        "litterature"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/commerce/mercosur.rss",
+      "title": "MERCOSUR",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/mma.rss",
+      "title": "MMA",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/mode.rss",
+      "title": "mode",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde.rss",
+      "title": "monde",
+      "tags": [
+        "general",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/occitanie/herault/montpellier.rss",
+      "title": "Montpellier",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon.rss",
+      "title": "Mort de Quentin Deranque à Lyon",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/musee-orsay.rss",
+      "title": "Musée d'Orsay",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/louvre.rss",
+      "title": "Musée du Louvre",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/mode/musee-yves-saint-laurent.rss",
+      "title": "Musée Yves Saint Laurent",
+      "tags": [
+        "culture",
+        "mode"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/musique.rss",
+      "title": "musique",
+      "tags": [
+        "musique",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/musique/classique.rss",
+      "title": "musique classique",
+      "tags": [
+        "musique",
+        "classique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/pays-de-loire/loire-atlantique/nantes.rss",
+      "title": "Nantes",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/natation.rss",
+      "title": "natation",
+      "tags": [
+        "sport",
+        "natation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/basket/nba.rss",
+      "title": "NBA",
+      "tags": [
+        "sport",
+        "basket"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/nice.rss",
+      "title": "Nice",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/nicolas-sarkozy.rss",
+      "title": "Nicolas Sarkozy",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/nigeria.rss",
+      "title": "Nigeria",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/noel-fetes-de-fin-annees.rss",
+      "title": "Noël et fêtes de fin d'année",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/normandie.rss",
+      "title": "Normandie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens.rss",
+      "title": "Nous, les Européens : vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/nouveau-front-populaire.rss",
+      "title": "Nouveau Front Populaire",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine.rss",
+      "title": "Nouvelle-Aquitaine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/nouvelle-caledonie.rss",
+      "title": "Nouvelle-Calédonie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/occitanie.rss",
+      "title": "Occitanie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/onu.rss",
+      "title": "ONU",
+      "tags": [
+        "cite",
+        "monde"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/otan.rss",
+      "title": "OTAN",
+      "tags": [
+        "cite",
+        "militaire"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/decouverte/ours.rss",
+      "title": "Ours",
+      "tags": [
+        "environnement",
+        "animaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/palestine.rss",
+      "title": "Palestine",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/ile-de-france/paris.rss",
+      "title": "Paris",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/parti-communiste-francais.rss",
+      "title": "Parti Communiste Français",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/ps.rss",
+      "title": "Parti Socialiste",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/patrimoine.rss",
+      "title": "patrimoine",
+      "tags": [
+        "culture",
+        "patrimoine"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/pays-de-la-loire.rss",
+      "title": "Pays de la Loire",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/pays-bas.rss",
+      "title": "Pays-Bas",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/peinture.rss",
+      "title": "peinture",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/people.rss",
+      "title": "people",
+      "tags": [
+        "culture",
+        "people"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/environnement/pollution/pfas.rss",
+      "title": "PFAS",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/photographie.rss",
+      "title": "photographie",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/piratage-de-tv5-monde.rss",
+      "title": "Piratage de TV5 Monde",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/emploi/plans-sociaux.rss",
+      "title": "plans sociaux",
+      "tags": [
+        "cite",
+        "social"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique.rss",
+      "title": "politique",
+      "tags": [
+        "politique",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/politique-culturelle.rss",
+      "title": "politique culturelle",
+      "tags": [
+        "culture",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/une-information-transparente-franceinfo.rss",
+      "title": "Pour vous informer en toute transparence",
+      "tags": [
+        "cite",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile/essence.rss",
+      "title": "prix des carburants",
+      "tags": [
+        "economie",
+        "energie"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/proche-orient.rss",
+      "title": "Proche-Orient",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/proche-orient/guerre.rss",
+      "title": "Proche-Orient : guerre",
+      "tags": [
+        "cite",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/provence-alpes-cote-d-azur.rss",
+      "title": "Provence-Alpes-Côte d'Azur",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/canada/quebec.rss",
+      "title": "Québec",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites.rss",
+      "title": "réforme des retraites",
+      "tags": [
+        "politique",
+        "travail"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/rachida-dati.rss",
+      "title": "Rachida Dati",
+      "tags": [
+        "politique",
+        "personnalite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/aeronautique/rafale.rss",
+      "title": "Rafale",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/front-national.rss",
+      "title": "Rassemblement National",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/la-republique-en-marche.rss",
+      "title": "Renaissance",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile/renault.rss",
+      "title": "Renault",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-radio.rss",
+      "title": "replay radio",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/royaume-uni.rss",
+      "title": "Royaume-Uni",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/rugby.rss",
+      "title": "rugby",
+      "tags": [
+        "sport",
+        "rugby"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/russie.rss",
+      "title": "Russie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/rwanda.rss",
+      "title": "Rwanda",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet.rss",
+      "title": "France info : sécurité sur internet",
+      "tags": [
+        "technologie",
+        "informatique"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/senegal.rss",
+      "title": "Sénégal",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/series.rss",
+      "title": "séries",
+      "tags": [
+        "culture",
+        "cinema"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sante.rss",
+      "title": "santé",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sciences.rss",
+      "title": "sciences",
+      "tags": [
+        "technologie",
+        "science"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/sculpture.rss",
+      "title": "sculpture",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/entreprises/shein.rss",
+      "title": "Shein",
+      "tags": [
+        "economie",
+        "consommation"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpin.rss",
+      "title": "ski alpin",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe.rss",
+      "title": "société",
+      "tags": [
+        "cite",
+        "societe"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sante/maladie/sommeil.rss",
+      "title": "sommeil",
+      "tags": [
+        "environnement",
+        "sante"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/soudan.rss",
+      "title": "Soudan",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/spectacles.rss",
+      "title": "spectacles",
+      "tags": [
+        "culture",
+        "agenda"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports.rss",
+      "title": "sports",
+      "tags": [
+        "sport",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/sports-d-hiver.rss",
+      "title": "sports d'hiver",
+      "tags": [
+        "sport",
+        "glace"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/arts-expos/street-art.rss",
+      "title": "Street Art",
+      "tags": [
+        "culture",
+        "arts"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/syndicats.rss",
+      "title": "syndicats",
+      "tags": [
+        "politique",
+        "syndicat"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/syrie.rss",
+      "title": "Syrie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/tv.rss",
+      "title": "télévision",
+      "tags": [
+        "culture",
+        "television"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/taekwondo.rss",
+      "title": "taekwondo",
+      "tags": [
+        "sport",
+        "arts_martiaux"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/tchad.rss",
+      "title": "Tchad",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/tendances.rss",
+      "title": "tendances",
+      "tags": [
+        "economie",
+        "generaliste"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/tennis.rss",
+      "title": "tennis",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/roland-garros.rss",
+      "title": "tennis : Rolland-Garros",
+      "tags": [
+        "sport",
+        "tennis"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/tennis-de-table.rss",
+      "title": "tennis de table",
+      "tags": [
+        "sport",
+        "tennis_de_table"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/culture/spectacles/theatre.rss",
+      "title": "théâtre",
+      "tags": [
+        "culture",
+        "theatre"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/togo.rss",
+      "title": "Togo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/france/occitanie/haute-garonne/toulouse.rss",
+      "title": "Toulouse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/tourisme.rss",
+      "title": "tourisme",
+      "tags": [
+        "economie",
+        "tourisme"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-radio/tout-est-politique.rss",
+      "title": "Tout est politique",
+      "tags": [
+        "politique",
+        "emission"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/transports.rss",
+      "title": "transports",
+      "tags": [
+        "economie",
+        "transport"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/afrique/tunisie.rss",
+      "title": "Tunisie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/turquie.rss",
+      "title": "Turquie",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/politique/udi.rss",
+      "title": "Union des Démocrates et Indépendants",
+      "tags": [
+        "politique",
+        "parti"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane.rss",
+      "title": "USA : droits de douane",
+      "tags": [
+        "economie",
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/decouverte/vacances.rss",
+      "title": "vacances",
+      "tags": [
+        "culture",
+        "quotidien"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/vatican.rss",
+      "title": "Vatican",
+      "tags": [
+        "cite",
+        "spiritualite"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/vaucluse.rss",
+      "title": "Vaucluse",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/venezuela.rss",
+      "title": "Venezuela",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/videos.rss",
+      "title": "vidéo",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram.rss",
+      "title": "Violences physiques et sexuelles à Notre-Dame de Bétharram",
+      "tags": [
+        "cite",
+        "justice"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/voile.rss",
+      "title": "voile",
+      "tags": [
+        "sport",
+        "voile"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/economie/automobile/volkswagen.rss",
+      "title": "Volkswagen",
+      "tags": [
+        "economie",
+        "entreprise"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/sports/volley.rss",
+      "title": "volley",
+      "tags": [
+        "sport",
+        "volley"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/france-3/votre-tele-et-vous.rss",
+      "title": "Votre télé et vous : vidéo",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/vrai-ou-fake.rss",
+      "title": "Vrai ou Fake",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission.rss",
+      "title": "Vrai ou Faux : vidéo",
+      "tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen.rss",
+      "title": "Yémen",
+      "tags": [
+        "general",
+        "presse"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-radio/zero-emission-podcast.rss",
+      "title": "Zéro émission",
+      "tags": [
+        "environnement",
+        "vert"
+      ]
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-jt/france-3/19-20.rss",
+      "title": "France3 : Le 19h 20h : vidéo",
+      "tags": [
+        "general",
+        "journal"
+      ]
+    }
+  ]
+}
